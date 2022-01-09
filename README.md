@@ -1,4 +1,4 @@
-### Hola stranger 👋
+### Hola stranger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ¡Bienvenid@ a mi trocito de GitHub!
 
@@ -28,6 +28,12 @@ Me llamo Gisela Torres y actualmente trabajo en Microsoft como Cloud Solution Ar
 ![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![powershell](https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)
 
+### Mis estadísticas
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0gis0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0gis0&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
+</p>
 
 ### ✉️  &nbsp;Contacto 
 
@@ -37,3 +43,8 @@ Me puedes encontrar en:
 ![Twitter](https://img.shields.io/twitter/follow/0gis0?style=for-the-badge)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giselatorresbuitrago/)](https://www.linkedin.com/in/giselatorresbuitrago/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/0gis0)](https://www.instagram.com/0gis0/)
+
+<div align="right">
+
+![](https://visitor-badge.glitch.me/badge?page_id=0gis0)
+</div>
