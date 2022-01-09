@@ -9,6 +9,7 @@ Me llamo Gisela Torres y actualmente trabajo en Microsoft como Cloud Solution Ar
 #### 🥰 &nbsp;Me gusta... 
 
 🚴🏼‍♀️ &nbsp;Montar en bici<br>
+🐕 &nbsp;Pasear a Siri<br>
 🌲 &nbsp;Senderismo<br>
 ✈️ &nbsp;Viajar<br>
 🌲 &nbsp;Ir al cine<br>
