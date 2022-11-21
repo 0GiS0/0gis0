@@ -44,6 +44,7 @@ Me puedes encontrar en:
 ![Twitter](https://img.shields.io/twitter/follow/0gis0?style=for-the-badge)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giselatorresbuitrago/)](https://www.linkedin.com/in/giselatorresbuitrago/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/0gis0)](https://www.instagram.com/0gis0/)
+[![Mastodon Badge](https://img.shields.io/badge/-Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white&link=https://mastodon.cloud/@0gis00)](https://mastodon.cloud/@0gis0)
 
 <div align="right">
 
