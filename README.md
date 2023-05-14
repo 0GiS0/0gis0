@@ -4,7 +4,7 @@
 
 #### 🤔 &nbsp;¿Quién soy? 
 
-Me llamo Gisela Torres y actualmente trabajo en Microsoft como Cloud Solution Architect. Se trata de un puesto técnico cuya misión es apoyar y asesorar sobre soluciones y arquitecturas cloud utilizando Microsoft Azure como plataforma. Antes de eso trabajé como arquitecta de software y desarrolladora de aplicaciones en varias empresas. Durante esos años tuve la suerte de ser premiada como Most Valuable Professional en Microsoft Azure y fue poco antes cuando comencé a escribir mi blog [return(GiS);](https://www.returngis.net). Me encanta programar y la tecnología en general, por eso este blog habla de todo esto. De lo que vivo, de lo que aprendo y de lo que hago con la tecnología en mi día a día.
+Me llamo Gisela Torres y actualmente trabajo en Microsoft como Cloud Solution Architect. Se trata de un puesto técnico cuya misión es apoyar y asesorar sobre soluciones y arquitecturas cloud utilizando Microsoft Azure como plataforma. Antes de eso trabajé como arquitecta de software y desarrolladora de aplicaciones en varias empresas. Durante esos años tuve la suerte de ser premiada como Most Valuable Professional en Microsoft Azure y fue poco antes cuando comencé a escribir mi blog [return(GiS);](https://www.returngis.net). Me encanta programar y la tecnología en general, por eso en él hablo de todo esto. De lo que vivo, de lo que aprendo y de lo que hago con la tecnología en mi día a día.
 
 #### 🥰 &nbsp;Me gusta... 
 
