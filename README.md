@@ -1,13 +1,14 @@
-### Hola stranger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hola developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-¡Bienvenid@ a mi trocito de GitHub!
+¡Bienvenidx a mi trocito de GitHub! 🤓
 
 #### 🤔 &nbsp;¿Quién soy? 
 
-Me llamo Gisela Torres y actualmente trabajo en Microsoft como Global Blackbelt - Developer Audience. Se trata de un puesto técnico cuya misión es apoyar y asesorar sobre cómo ayudar a los desarrolladores a ser más felices 🥲 y productivos 👩🏻‍💻. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
+Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer Audience. Se trata de un puesto técnico cuya misión es apoyar y asesorar sobre cómo ayudar a los desarrolladores a ser más felices 🥲 y productivos 👩🏻‍💻. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
 
 #### 🥰 &nbsp;Me gusta... 
 
+🐣 &nbsp;Pasar tiempo con mi familia<br>
 🚴🏼‍♀️ &nbsp;Montar en bici<br>
 🐕 &nbsp;Pasear a Siri<br>
 🌲 &nbsp;Senderismo<br>
@@ -36,15 +37,18 @@ Me llamo Gisela Torres y actualmente trabajo en Microsoft como Global Blackbelt 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0gis0&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
 </p>
 
-### ✉️  &nbsp;Contacto 
+<!--[### ✉️  &nbsp;Contacto 
 
 Me puedes encontrar en:
 
 [![site](https://img.shields.io/badge/blog-339933?logo=github-pages&logoColor=white&style=for-the-badge) ](https://www.returngis.net)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC140iBrEZbOtvxWsJ-Tb0lQ)](https://www.youtube.com/@returngis)
 ![Twitter](https://img.shields.io/twitter/follow/0gis0?style=for-the-badge)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giselatorresbuitrago/)](https://www.linkedin.com/in/giselatorresbuitrago/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/0gis0)](https://www.instagram.com/0gis0/)
-[![Mastodon Badge](https://img.shields.io/badge/-Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white&link=https://mastodon.cloud/@0gis00)](https://mastodon.cloud/@0gis0)
+[![Mastodon Badge](https://img.shields.io/badge/-Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white&link=https://mastodon.cloud/@0gis00)](https://mastodon.cloud/@0gis0)](url)
+
+-->
 
 <div align="right">
 
