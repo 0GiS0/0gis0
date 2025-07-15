@@ -205,4 +205,6 @@ La entrada API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama �
 
 *Este README se actualiza automáticamente con mis últimos vídeos y artículos*
 
+![Contador de visitas](https://visitor-badge.glitch.me/badge?page_id=0gis0 "Contador de visitas a mi perfil")
+
 </div>
