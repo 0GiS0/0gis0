@@ -40,31 +40,99 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 ## 🎥 Mis últimos vídeos en YouTube
 
+<div align="center">
+
+[![¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠](https://img.youtube.com/vi/6J4KD5NJtdc/maxresdefault.jpg)](https://www.youtube.com/watch?v=6J4KD5NJtdc)
+
 ### [¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠](https://www.youtube.com/watch?v=6J4KD5NJtdc)
 📅 9 de julio de 2025
+
+</div>
+
+---
+
+<div align="center">
+
+[![🎯 ¡Visual Studio Code + GitHub Copilot hacen PLENO con MCP! 🎳](https://img.youtube.com/vi/EcufOY3Z0mU/maxresdefault.jpg)](https://www.youtube.com/watch?v=EcufOY3Z0mU)
 
 ### [🎯 ¡Visual Studio Code + GitHub Copilot hacen PLENO con MCP! 🎳](https://www.youtube.com/watch?v=EcufOY3Z0mU)
 📅 2 de julio de 2025
 
+</div>
+
+---
+
+<div align="center">
+
+[![Enviar vídeo 📹 y audio 🔊 a través de WebRTC | Cap. 2](https://img.youtube.com/vi/JPpmUoAlVRI/maxresdefault.jpg)](https://www.youtube.com/watch?v=JPpmUoAlVRI)
+
 ### [Enviar vídeo 📹 y audio 🔊 a través de WebRTC | Cap. 2](https://www.youtube.com/watch?v=JPpmUoAlVRI)
 📅 25 de junio de 2025
 
+</div>
+
+---
+
+<div align="center">
+
 [![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vídeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)
+
+</div>
 
 ---
 
 ## 📝 Mis últimos artículos en el blog
 
+<div align="center">
+
+[![Crear un MCP Server con Streamable HTTP usando Low-Level server](https://via.placeholder.com/600x400/339933/ffffff?text=Blog+Post)](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
+
 ### [Crear un MCP Server con Streamable HTTP usando Low-Level server](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
 📅 30 de junio de 2025
+
+¡Hola developer 👋🏻! Ya estoy de vuelta de las vacaciones y vengo con las pilas cargadísimas 🔋 porque hoy te traigo un reto digno de jefe final 🧟‍♂️: montar un MCP Server con transporte Streameable HTTP (sí, el que está de moda para servidores remotos 😎), pero… ¡usando un Low-Level server! 🧠 ¿Y eso qué significa exactamente? Probablemente ya tengas claro lo de MCP y... 
+Leer más
+La entrada Crear un MCP Server con Streamable HTTP usando Low-Level server se publicó primero en return(GiS);.
+
+</div>
+
+---
+
+<div align="center">
+
+[![🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨](https://via.placeholder.com/600x400/339933/ffffff?text=Blog+Post)](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
 
 ### [🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
 📅 1 de mayo de 2025
 
+Estos días he estado ayudando a una amiga a crear su sitio web 🌐. Como queríamos evitar costes iniciales 💸, decidimos desarrollarlo con Jekyll y desplegarlo directamente en GitHub Pages 🚀, para que pudiera tener su propia página personal sin complicaciones. En este artículo quiero compartir contigo la configuración de Dev Containers 🛠️ que estoy utilizando para desarrollarlo y probarlo en local 🧪, así como... 
+Leer más
+La entrada 🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨ se publicó primero en return(GiS);.
+
+</div>
+
+---
+
+<div align="center">
+
+[![API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱](https://via.placeholder.com/600x400/339933/ffffff?text=Blog+Post)](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
+
 ### [API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
 📅 17 de abril de 2025
 
+¡Hola developer 👋🏻! En el último vídeo de mi serie sobre IA Generativa te mostré una API en Flask con la que era capaz de llamar tanto a modelos que se estaban ejecutando gracias a Ollama o alojados en GitHub Models. Si bien es cierto que durante el vídeo, con efectos educativos, no refactoricé del todo la misma, lo prometido es deuda, y aquí te... 
+Leer más
+La entrada API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱 se publicó primero en return(GiS);.
+
+</div>
+
+---
+
+<div align="center">
+
 [![Blog](https://img.shields.io/badge/Ver%20todos%20los%20artículos-339933?style=for-the-badge&logo=github-pages&logoColor=white)](https://www.returngis.net)
+
+</div>
 
 ---
 
