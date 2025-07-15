@@ -10,7 +10,7 @@ class ContentFetcher {
   async getYouTubeVideos(channelId = '@returngis', limit = 3) {
     try {
       // YouTube RSS feed URL
-      const rssUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=UCvg_5dg_GdOr_f7JTFCxtbw`;
+      const rssUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=UC140iBrEZbOtvxWsJ-Tb0lQ`;
       console.log('Fetching YouTube videos...');
       
       const feed = await this.parser.parseURL(rssUrl);

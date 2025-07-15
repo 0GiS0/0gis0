@@ -40,14 +40,14 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 ## 🎥 Mis últimos vídeos en YouTube
 
-### [Cómo crear workflows de GitHub Actions - Tutorial completo](https://www.youtube.com/@returngis)
-📅 15 de diciembre de 2024
+### [¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠](https://www.youtube.com/watch?v=6J4KD5NJtdc)
+📅 9 de julio de 2025
 
-### [Infraestructura como código con Terraform y Azure](https://www.youtube.com/@returngis)
-📅 8 de diciembre de 2024
+### [🎯 ¡Visual Studio Code + GitHub Copilot hacen PLENO con MCP! 🎳](https://www.youtube.com/watch?v=EcufOY3Z0mU)
+📅 2 de julio de 2025
 
-### [Docker y Kubernetes para desarrolladores](https://www.youtube.com/@returngis)
-📅 1 de diciembre de 2024
+### [Enviar vídeo 📹 y audio 🔊 a través de WebRTC | Cap. 2](https://www.youtube.com/watch?v=JPpmUoAlVRI)
+📅 25 de junio de 2025
 
 [![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vídeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)
 
@@ -55,14 +55,14 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 ## 📝 Mis últimos artículos en el blog
 
-### [Automatización CI/CD con GitHub Actions y Azure DevOps](https://www.returngis.net)
-📅 12 de diciembre de 2024
+### [Crear un MCP Server con Streamable HTTP usando Low-Level server](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
+📅 30 de junio de 2025
 
-### [Microservicios en Azure: Arquitectura y mejores prácticas](https://www.returngis.net)
-📅 5 de diciembre de 2024
+### [🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
+📅 1 de mayo de 2025
 
-### [Monitoreo y observabilidad en aplicaciones modernas](https://www.returngis.net)
-📅 28 de noviembre de 2024
+### [API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
+📅 17 de abril de 2025
 
 [![Blog](https://img.shields.io/badge/Ver%20todos%20los%20artículos-339933?style=for-the-badge&logo=github-pages&logoColor=white)](https://www.returngis.net)
 
