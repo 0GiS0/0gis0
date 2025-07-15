@@ -4,8 +4,8 @@
   "description": "Dynamic README updater for GitHub profile with YouTube videos and blog posts",
   "main": "update-readme.js",
   "scripts": {
-    "start": "node update-readme.js",
-    "test": "node test-feeds.js"
+    "start": "node src/update-readme.js",
+    "test": "node src/test-feeds.js"
   },
   "dependencies": {
     "rss-parser": "^3.13.0",
