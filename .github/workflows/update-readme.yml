@@ -1,0 +1,59 @@
+name: 'Update README with latest content'
+
+on:
+  schedule:
+    # Run every Wednesday at 10:30 AM UTC (to catch new videos published at 10 AM)
+    - cron: '30 10 * * 3'
+  # Allow manual trigger
+  workflow_dispatch:
+  # Run on push to main branch for testing
+  push:
+    branches: [ main ]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 🛎️ Checkout
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: 🟢 Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+    
+    - name: 📦 Install dependencies
+      run: npm ci
+    
+    - name: 🚀 Update README
+      run: npm start
+    
+    - name: 📝 Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: 💾 Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "🤖 Update README with latest content"
+        git push
+    
+    - name: 🎉 Success notification
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: echo "✅ README updated successfully with latest videos and blog posts!"
+    
+    - name: ℹ️ No changes notification
+      if: steps.verify-changed-files.outputs.changed == 'false'
+      run: echo "ℹ️ No changes detected in README content."

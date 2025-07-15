@@ -1,4 +1,23 @@
-# ¡Hola developer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving hand animation">
+const fs = require('fs');
+const ContentFetcher = require('./content-fetcher');
+
+async function updateReadme() {
+  console.log('🚀 Iniciando actualización del README...\n');
+  
+  const fetcher = new ContentFetcher();
+  
+  // Fetch content
+  const [videos, posts] = await Promise.all([
+    fetcher.getYouTubeVideos(),
+    fetcher.getBlogPosts()
+  ]);
+  
+  // Generate dynamic sections
+  const videoSection = fetcher.generateVideoSection(videos);
+  const blogSection = fetcher.generateBlogSection(posts);
+  
+  // Create README template
+  const readme = `# ¡Hola developer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving hand animation">
 
 <div align="center">
   
@@ -37,36 +56,8 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 </div>
 
 ---
-
-## 🎥 Mis últimos vídeos en YouTube
-
-### [Cómo crear workflows de GitHub Actions - Tutorial completo](https://www.youtube.com/@returngis)
-📅 15 de diciembre de 2024
-
-### [Infraestructura como código con Terraform y Azure](https://www.youtube.com/@returngis)
-📅 8 de diciembre de 2024
-
-### [Docker y Kubernetes para desarrolladores](https://www.youtube.com/@returngis)
-📅 1 de diciembre de 2024
-
-[![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vídeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)
-
----
-
-## 📝 Mis últimos artículos en el blog
-
-### [Automatización CI/CD con GitHub Actions y Azure DevOps](https://www.returngis.net)
-📅 12 de diciembre de 2024
-
-### [Microservicios en Azure: Arquitectura y mejores prácticas](https://www.returngis.net)
-📅 5 de diciembre de 2024
-
-### [Monitoreo y observabilidad en aplicaciones modernas](https://www.returngis.net)
-📅 28 de noviembre de 2024
-
-[![Blog](https://img.shields.io/badge/Ver%20todos%20los%20artículos-339933?style=for-the-badge&logo=github-pages&logoColor=white)](https://www.returngis.net)
-
----
+${videoSection}---
+${blogSection}---
 
 ## 🚀 Proyectos destacados
 
@@ -133,4 +124,23 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 ![Contador de visitas](https://visitor-badge.glitch.me/badge?page_id=0gis0 "Contador de visitas a mi perfil")
 
-</div>
+</div>`;
+
+  // Write to README.md
+  fs.writeFileSync('README.md', readme);
+  
+  console.log('✅ README.md actualizado correctamente!');
+  console.log(`📊 Vídeos incluidos: ${videos.length}`);
+  console.log(`📊 Artículos incluidos: ${posts.length}`);
+  
+  // Also create a preview version
+  fs.writeFileSync('README-preview.md', readme);
+  console.log('🔍 Archivo de previsualización creado: README-preview.md');
+}
+
+// Run if called directly
+if (require.main === module) {
+  updateReadme().catch(console.error);
+}
+
+module.exports = updateReadme;

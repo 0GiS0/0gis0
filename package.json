@@ -1,0 +1,17 @@
+{
+  "name": "profile-readme-updater",
+  "version": "1.0.0",
+  "description": "Dynamic README updater for GitHub profile with YouTube videos and blog posts",
+  "main": "update-readme.js",
+  "scripts": {
+    "start": "node update-readme.js",
+    "test": "node test-feeds.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {},
+  "author": "Gisela Torres",
+  "license": "MIT"
+}
