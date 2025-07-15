@@ -10,7 +10,7 @@
 
 ## 🤔 ¿Quién soy?
 
-Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer Productivity. Se trata de un puesto técnico cuya misión es apoyar y asesorar sobre cómo ayudar a los desarrolladores a ser más felices 🥲 y productivos 👩🏻‍💻. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en mi canal [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
+Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer Audience. Se trata de un puesto técnico cuya misión es apoyar y asesorar sobre cómo ayudar a los desarrolladores a ser más felices 🥲 y productivos 👩🏻‍💻. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
 
 📅 **¡Nuevo contenido cada miércoles a las 10:00 AM!** 📅
 
