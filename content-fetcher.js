@@ -1,5 +1,4 @@
 const Parser = require('rss-parser');
-const fetch = require('node-fetch');
 const fs = require('fs');
 
 class ContentFetcher {
@@ -296,21 +295,21 @@ class ContentFetcher {
         title: "Automatización CI/CD con GitHub Actions y Azure DevOps",
         link: "https://www.returngis.net",
         publishDate: "12 de diciembre de 2024",
-        description: "Cómo implementar pipelines eficientes para tus proyectos",
+        description: "Cómo implementar pipelines eficientes para tus proyectos con las mejores prácticas de la industria.",
         thumbnail: "https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation"
       },
       {
         title: "Microservicios en Azure: Arquitectura y mejores prácticas",
         link: "https://www.returngis.net",
         publishDate: "5 de diciembre de 2024",
-        description: "Diseña sistemas escalables y resilientes en la nube",
+        description: "Diseña sistemas escalables y resilientes en la nube con patrones modernos de arquitectura.",
         thumbnail: "https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices"
       },
       {
         title: "Monitoreo y observabilidad en aplicaciones modernas",
         link: "https://www.returngis.net",
         publishDate: "28 de noviembre de 2024",
-        description: "Herramientas y técnicas para mantener tus apps saludables",
+        description: "Herramientas y técnicas para mantener tus aplicaciones saludables y monitoreadas.",
         thumbnail: "https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability"
       }
     ];
@@ -359,6 +358,7 @@ class ContentFetcher {
       section += `📅 ${post.publishDate}\n\n`;
       if (post.description) {
         section += `${post.description}\n\n`;
+        section += `[**📖 Seguir leyendo...**](${post.link})\n\n`;
       }
       section += `</div>\n\n---\n\n`;
     });

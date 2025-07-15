@@ -10,7 +10,7 @@
 
 ## 🤔 ¿Quién soy?
 
-Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer Audience. Se trata de un puesto técnico cuya misión es apoyar y asesorar sobre cómo ayudar a los desarrolladores a ser más felices 🥲 y productivos 👩🏻‍💻. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
+Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer Productivity. Se trata de un puesto técnico cuya misión es apoyar y asesorar sobre cómo ayudar a los desarrolladores a ser más felices 🥲 y productivos 👩🏻‍💻. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en mi canal [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
 
 📅 **¡Nuevo contenido cada miércoles a las 10:00 AM!** 📅
 
@@ -94,6 +94,8 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 Leer más
 La entrada Crear un MCP Server con Streamable HTTP usando Low-Level server se publicó primero en return(GiS);.
 
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
+
 </div>
 
 ---
@@ -109,6 +111,8 @@ Estos días he estado ayudando a una amiga a crear su sitio web 🌐. Como quer�
 Leer más
 La entrada 🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨ se publicó primero en return(GiS);.
 
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
+
 </div>
 
 ---
@@ -123,6 +127,8 @@ La entrada 🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Acti
 ¡Hola developer 👋🏻! En el último vídeo de mi serie sobre IA Generativa te mostré una API en Flask con la que era capaz de llamar tanto a modelos que se estaban ejecutando gracias a Ollama o alojados en GitHub Models. Si bien es cierto que durante el vídeo, con efectos educativos, no refactoricé del todo la misma, lo prometido es deuda, y aquí te... 
 Leer más
 La entrada API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱 se publicó primero en return(GiS);.
+
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
 
 </div>
 
