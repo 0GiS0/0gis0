@@ -85,7 +85,7 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
-[![Crear un MCP Server con Streamable HTTP usando Low-Level server](https://via.placeholder.com/600x400/339933/ffffff?text=Blog+Post)](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
+[![Crear un MCP Server con Streamable HTTP usando Low-Level server](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/06/Crear-un-MCP-Server-con-Streamable-HTTP-usando-Low-Level-server-scaled.png?fit=1060%2C706&amp;ssl=1)](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
 
 ### [Crear un MCP Server con Streamable HTTP usando Low-Level server](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
 📅 30 de junio de 2025
@@ -100,7 +100,7 @@ La entrada Crear un MCP Server con Streamable HTTP usando Low-Level server se pu
 
 <div align="center">
 
-[![🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨](https://via.placeholder.com/600x400/339933/ffffff?text=Blog+Post)](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
+[![🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/05/Desplegando-sitio-web-con-Jekyll-en-GitHub.png?fit=1024%2C1024&amp;ssl=1)](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
 
 ### [🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
 📅 1 de mayo de 2025
@@ -115,7 +115,7 @@ La entrada 🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Acti
 
 <div align="center">
 
-[![API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱](https://via.placeholder.com/600x400/339933/ffffff?text=Blog+Post)](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
+[![API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/04/API-en-Flask-para-llamar-a-Ollama-y-Github-Models-scaled.png?fit=1060%2C707&amp;ssl=1)](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
 
 ### [API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
 📅 17 de abril de 2025

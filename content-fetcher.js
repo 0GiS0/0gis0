@@ -4,13 +4,128 @@ const fs = require('fs');
 
 class ContentFetcher {
   constructor() {
-    this.parser = new Parser();
+    this.parser = new Parser({
+      customFields: {
+        item: [
+          'media:content',
+          'media:thumbnail', 
+          'content:encoded',
+          'wp:featured_media',
+          'media:group',
+          'enclosure'
+        ]
+      }
+    });
   }
 
   extractVideoId(url) {
     // Extract video ID from YouTube URL
     const match = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([^&\n?#]+)/);
     return match ? match[1] : null;
+  }
+
+  async extractWordPressImage(item) {
+    // Try multiple methods to extract WordPress featured image
+    let thumbnail = null;
+    
+    // Method 1: WordPress media namespace (most reliable for WordPress)
+    if (item['media:content']) {
+      if (Array.isArray(item['media:content'])) {
+        // If it's an array, get the first image
+        const imageContent = item['media:content'].find(media => 
+          media.$ && media.$.type && media.$.type.startsWith('image/')
+        );
+        if (imageContent && imageContent.$.url) {
+          thumbnail = imageContent.$.url;
+        }
+      } else if (item['media:content'].$ && item['media:content'].$.url) {
+        thumbnail = item['media:content'].$.url;
+      }
+    }
+    
+    // Method 2: WordPress thumbnail namespace
+    if (!thumbnail && item['media:thumbnail'] && item['media:thumbnail'].$ && item['media:thumbnail'].$.url) {
+      thumbnail = item['media:thumbnail'].$.url;
+    }
+    
+    // Method 3: Check for WordPress featured image in custom fields
+    if (!thumbnail && item['wp:featured_media']) {
+      thumbnail = item['wp:featured_media'];
+    }
+    
+    // Method 4: Extract from content:encoded (WordPress full content)
+    if (!thumbnail && item['content:encoded']) {
+      // First, try to find image in featured-image div
+      const featuredImageMatch = item['content:encoded'].match(/<div[^>]+class="[^"]*featured-image[^"]*"[^>]*>(.*?)<\/div>/is);
+      if (featuredImageMatch) {
+        const featuredImageContent = featuredImageMatch[1];
+        const imgMatch = featuredImageContent.match(/<img[^>]+src="([^">]+)"/);
+        if (imgMatch && !imgMatch[1].includes('emoji') && !imgMatch[1].includes('s.w.org')) {
+          thumbnail = imgMatch[1];
+          console.log(`Found featured-image div thumbnail: ${thumbnail}`);
+        }
+      }
+      
+      // If not found in featured-image div, look for the first non-emoji image in the full content
+      if (!thumbnail) {
+        const imgMatches = item['content:encoded'].match(/<img[^>]+src="([^">]+)"/g);
+        if (imgMatches) {
+          for (const match of imgMatches) {
+            const srcMatch = match.match(/src="([^">]+)"/);
+            if (srcMatch && !srcMatch[1].includes('emoji') && !srcMatch[1].includes('s.w.org')) {
+              thumbnail = srcMatch[1];
+              console.log(`Found non-emoji image in content: ${thumbnail}`);
+              break;
+            }
+          }
+        }
+      }
+    }
+    
+    // Method 5: Try to fetch Open Graph image from the article URL
+    if (!thumbnail && item.link) {
+      try {
+        const response = await fetch(item.link);
+        const html = await response.text();
+        
+        // First, try to find featured-image div in the actual page
+        const featuredImageMatch = html.match(/<div[^>]+class="[^"]*featured-image[^"]*"[^>]*>(.*?)<\/div>/is);
+        if (featuredImageMatch) {
+          const featuredImageContent = featuredImageMatch[1];
+          const imgMatch = featuredImageContent.match(/<img[^>]+src="([^">]+)"/);
+          if (imgMatch && !imgMatch[1].includes('emoji') && !imgMatch[1].includes('s.w.org')) {
+            thumbnail = imgMatch[1];
+            console.log(`Found featured-image div in page: ${thumbnail}`);
+          }
+        }
+        
+        // Try to find other images with wp-content/uploads (typical WordPress uploads)
+        if (!thumbnail) {
+          const imgMatches = html.match(/<img[^>]+src="([^">]*wp-content\/uploads[^">]+)"/g);
+          if (imgMatches && imgMatches.length > 0) {
+            const srcMatch = imgMatches[0].match(/src="([^">]+)"/);
+            if (srcMatch) {
+              thumbnail = srcMatch[1];
+              console.log(`Found wp-content image: ${thumbnail}`);
+            }
+          }
+        }
+        
+        // If not found in featured-image div, try Open Graph
+        if (!thumbnail) {
+          const ogImageMatch = html.match(/<meta[^>]+property="og:image"[^>]+content="([^">]+)"/i);
+          if (ogImageMatch) {
+            thumbnail = ogImageMatch[1];
+            console.log(`Found Open Graph image: ${thumbnail}`);
+          }
+        }
+      } catch (error) {
+        // Silently fail if we can't fetch the page
+        console.log(`Could not fetch page content for ${item.link}: ${error.message}`);
+      }
+    }
+    
+    return thumbnail;
   }
 
   async getYouTubeVideos(channelId = '@returngis', limit = 3) {
@@ -88,20 +203,57 @@ class ContentFetcher {
       for (const rssUrl of rssUrls) {
         try {
           const feed = await this.parser.parseURL(rssUrl);
-          const posts = feed.items.slice(0, limit).map(item => {
-            // Try to extract image from enclosure, content, or use a fallback
-            let thumbnail = null;
+          const posts = await Promise.all(feed.items.slice(0, limit).map(async (item) => {
+            // Use the specialized WordPress image extraction method
+            let thumbnail = await this.extractWordPressImage(item);
             
-            // Check for enclosure (common in RSS feeds for images)
-            if (item.enclosure && item.enclosure.url) {
-              thumbnail = item.enclosure.url;
+            // Log what we found for debugging
+            if (thumbnail) {
+              console.log(`Found thumbnail for "${item.title}": ${thumbnail}`);
+            } else {
+              console.log(`No thumbnail found for "${item.title}", trying fallback methods...`);
             }
             
-            // Check for image in content
-            if (!thumbnail && item.content) {
-              const imgMatch = item.content.match(/<img[^>]+src="([^">]+)"/);
-              if (imgMatch) {
-                thumbnail = imgMatch[1];
+            // Additional fallback methods if the specialized method didn't work
+            if (!thumbnail) {
+              // Check for enclosure (common in RSS feeds for images)
+              if (item.enclosure && item.enclosure.url) {
+                thumbnail = item.enclosure.url;
+              }
+              
+              // Check for featured-image div in regular content
+              if (!thumbnail && item.content) {
+                const featuredImageMatch = item.content.match(/<div[^>]+class="[^"]*featured-image[^"]*"[^>]*>(.*?)<\/div>/is);
+                if (featuredImageMatch) {
+                  const featuredImageContent = featuredImageMatch[1];
+                  const imgMatch = featuredImageContent.match(/<img[^>]+src="([^">]+)"/);
+                  if (imgMatch && !imgMatch[1].includes('emoji') && !imgMatch[1].includes('s.w.org')) {
+                    thumbnail = imgMatch[1];
+                    console.log(`Found featured-image in fallback content: ${thumbnail}`);
+                  }
+                }
+              }
+              
+              // Check for non-emoji image in regular content (if not found in featured-image)
+              if (!thumbnail && item.content) {
+                const imgMatches = item.content.match(/<img[^>]+src="([^">]+)"/g);
+                if (imgMatches) {
+                  for (const match of imgMatches) {
+                    const srcMatch = match.match(/src="([^">]+)"/);
+                    if (srcMatch && !srcMatch[1].includes('emoji') && !srcMatch[1].includes('s.w.org')) {
+                      thumbnail = srcMatch[1];
+                      break;
+                    }
+                  }
+                }
+              }
+              
+              // Try to extract from description/summary
+              if (!thumbnail && item.summary) {
+                const imgMatch = item.summary.match(/<img[^>]+src="([^">]+)"/);
+                if (imgMatch) {
+                  thumbnail = imgMatch[1];
+                }
               }
             }
             
@@ -121,7 +273,7 @@ class ContentFetcher {
               description: item.contentSnippet || item.content || '',
               thumbnail: thumbnail
             };
-          });
+          }));
           
           console.log(`Found ${posts.length} blog posts from ${rssUrl}`);
           return posts;
