@@ -126,15 +126,15 @@ ${blogSection}---
 
 </div>`;
 
-  // Write to README.md
-  fs.writeFileSync('README.md', readme);
+  // Write to README.md with explicit UTF-8 encoding
+  fs.writeFileSync('README.md', readme, 'utf8');
   
   console.log('✅ README.md actualizado correctamente!');
   console.log(`📊 Vídeos incluidos: ${videos.length}`);
   console.log(`📊 Artículos incluidos: ${posts.length}`);
   
-  // Also create a preview version
-  fs.writeFileSync('README-preview.md', readme);
+  // Also create a preview version with explicit UTF-8 encoding
+  fs.writeFileSync('README-preview.md', readme, 'utf8');
   console.log('🔍 Archivo de previsualización creado: README-preview.md');
 }
 

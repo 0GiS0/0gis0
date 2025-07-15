@@ -38,14 +38,14 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 ---
 
-##  Mis ltimos vdeos en YouTube
+## 🎥 Mis últimos vídeos en YouTube
 
 <div align="center">
 
-[![Cmo crear workflows de GitHub Actions - Tutorial completo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![Cómo crear workflows de GitHub Actions - Tutorial completo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
 
-### [Cmo crear workflows de GitHub Actions - Tutorial completo](https://www.youtube.com/@returngis)
-	dc5 15 de diciembre de 2024
+### [Cómo crear workflows de GitHub Actions - Tutorial completo](https://www.youtube.com/@returngis)
+📅 15 de diciembre de 2024
 
 Aprende a automatizar tu workflow con GitHub Actions paso a paso
 
@@ -55,10 +55,10 @@ Aprende a automatizar tu workflow con GitHub Actions paso a paso
 
 <div align="center">
 
-[![Infraestructura como cdigo con Terraform y Azure](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![Infraestructura como código con Terraform y Azure](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
 
-### [Infraestructura como cdigo con Terraform y Azure](https://www.youtube.com/@returngis)
-	dc5 8 de diciembre de 2024
+### [Infraestructura como código con Terraform y Azure](https://www.youtube.com/@returngis)
+📅 8 de diciembre de 2024
 
 Domina Terraform para gestionar tu infraestructura en Azure
 
@@ -71,7 +71,7 @@ Domina Terraform para gestionar tu infraestructura en Azure
 [![Docker y Kubernetes para desarrolladores](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
 
 ### [Docker y Kubernetes para desarrolladores](https://www.youtube.com/@returngis)
-	dc5 1 de diciembre de 2024
+📅 1 de diciembre de 2024
 
 Containeriza y orquesta tus aplicaciones como un profesional
 
@@ -81,24 +81,24 @@ Containeriza y orquesta tus aplicaciones como un profesional
 
 <div align="center">
 
-[![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vdeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)
+[![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vídeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)
 
 </div>
 
 ---
 
-## 	dcdd Mis ltimos artculos en el blog
+## 📝 Mis últimos artículos en el blog
 
 <div align="center">
 
-[![Automatizacin CI/CD con GitHub Actions y Azure DevOps](https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation)](https://www.returngis.net)
+[![Automatización CI/CD con GitHub Actions y Azure DevOps](https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation)](https://www.returngis.net)
 
-### [Automatizacin CI/CD con GitHub Actions y Azure DevOps](https://www.returngis.net)
-	dc5 12 de diciembre de 2024
+### [Automatización CI/CD con GitHub Actions y Azure DevOps](https://www.returngis.net)
+📅 12 de diciembre de 2024
 
-Cmo implementar pipelines eficientes para tus proyectos con las mejores prcticas de la industria.
+Cómo implementar pipelines eficientes para tus proyectos con las mejores prácticas de la industria.
 
-[**	dcd6 Seguir leyendo...**](https://www.returngis.net)
+[**📖 Seguir leyendo...**](https://www.returngis.net)
 
 </div>
 
@@ -106,14 +106,14 @@ Cmo implementar pipelines eficientes para tus proyectos con las mejores prctic
 
 <div align="center">
 
-[![Microservicios en Azure: Arquitectura y mejores prcticas](https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices)](https://www.returngis.net)
+[![Microservicios en Azure: Arquitectura y mejores prácticas](https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices)](https://www.returngis.net)
 
-### [Microservicios en Azure: Arquitectura y mejores prcticas](https://www.returngis.net)
-	dc5 5 de diciembre de 2024
+### [Microservicios en Azure: Arquitectura y mejores prácticas](https://www.returngis.net)
+📅 5 de diciembre de 2024
 
-Dise1a sistemas escalables y resilientes en la nube con patrones modernos de arquitectura.
+Diseña sistemas escalables y resilientes en la nube con patrones modernos de arquitectura.
 
-[**	dcd6 Seguir leyendo...**](https://www.returngis.net)
+[**📖 Seguir leyendo...**](https://www.returngis.net)
 
 </div>
 
@@ -124,11 +124,11 @@ Dise1a sistemas escalables y resilientes en la nube con patrones modernos de ar
 [![Monitoreo y observabilidad en aplicaciones modernas](https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability)](https://www.returngis.net)
 
 ### [Monitoreo y observabilidad en aplicaciones modernas](https://www.returngis.net)
-	dc5 28 de noviembre de 2024
+📅 28 de noviembre de 2024
 
-Herramientas y tcnicas para mantener tus aplicaciones saludables y monitoreadas.
+Herramientas y técnicas para mantener tus aplicaciones saludables y monitoreadas.
 
-[**	dcd6 Seguir leyendo...**](https://www.returngis.net)
+[**📖 Seguir leyendo...**](https://www.returngis.net)
 
 </div>
 
@@ -136,7 +136,7 @@ Herramientas y tcnicas para mantener tus aplicaciones saludables y monitoreadas
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Ver%20todos%20los%20artculos-339933?style=for-the-badge&logo=github-pages&logoColor=white)](https://www.returngis.net)
+[![Blog](https://img.shields.io/badge/Ver%20todos%20los%20artículos-339933?style=for-the-badge&logo=github-pages&logoColor=white)](https://www.returngis.net)
 
 </div>
 
