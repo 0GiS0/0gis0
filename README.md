@@ -42,12 +42,10 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
-[![Cómo crear workflows de GitHub Actions - Tutorial completo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![Sampling 🫴🏻🧠 Cómo tu MCP Server puede pedir prestado un modelo de IA al cliente](https://img.youtube.com/vi/7LARYKzChMQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=7LARYKzChMQ)
 
-### [Cómo crear workflows de GitHub Actions - Tutorial completo](https://www.youtube.com/@returngis)
-📅 15 de diciembre de 2024
-
-Aprende a automatizar tu workflow con GitHub Actions paso a paso
+### [Sampling 🫴🏻🧠 Cómo tu MCP Server puede pedir prestado un modelo de IA al cliente](https://www.youtube.com/watch?v=7LARYKzChMQ)
+📅 16 de julio de 2025
 
 </div>
 
@@ -55,12 +53,10 @@ Aprende a automatizar tu workflow con GitHub Actions paso a paso
 
 <div align="center">
 
-[![Infraestructura como código con Terraform y Azure](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠](https://img.youtube.com/vi/6J4KD5NJtdc/maxresdefault.jpg)](https://www.youtube.com/watch?v=6J4KD5NJtdc)
 
-### [Infraestructura como código con Terraform y Azure](https://www.youtube.com/@returngis)
-📅 8 de diciembre de 2024
-
-Domina Terraform para gestionar tu infraestructura en Azure
+### [¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠](https://www.youtube.com/watch?v=6J4KD5NJtdc)
+📅 9 de julio de 2025
 
 </div>
 
@@ -68,12 +64,10 @@ Domina Terraform para gestionar tu infraestructura en Azure
 
 <div align="center">
 
-[![Docker y Kubernetes para desarrolladores](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![🎯 ¡Visual Studio Code + GitHub Copilot hacen PLENO con MCP! 🎳](https://img.youtube.com/vi/EcufOY3Z0mU/maxresdefault.jpg)](https://www.youtube.com/watch?v=EcufOY3Z0mU)
 
-### [Docker y Kubernetes para desarrolladores](https://www.youtube.com/@returngis)
-📅 1 de diciembre de 2024
-
-Containeriza y orquesta tus aplicaciones como un profesional
+### [🎯 ¡Visual Studio Code + GitHub Copilot hacen PLENO con MCP! 🎳](https://www.youtube.com/watch?v=EcufOY3Z0mU)
+📅 2 de julio de 2025
 
 </div>
 
@@ -91,29 +85,16 @@ Containeriza y orquesta tus aplicaciones como un profesional
 
 <div align="center">
 
-[![Automatización CI/CD con GitHub Actions y Azure DevOps](https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation)](https://www.returngis.net)
+[![Crear un MCP Server con Streamable HTTP usando Low-Level server](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/06/Crear-un-MCP-Server-con-Streamable-HTTP-usando-Low-Level-server-scaled.png?fit=1060%2C706&amp;ssl=1)](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
 
-### [Automatización CI/CD con GitHub Actions y Azure DevOps](https://www.returngis.net)
-📅 12 de diciembre de 2024
+### [Crear un MCP Server con Streamable HTTP usando Low-Level server](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
+📅 30 de junio de 2025
 
-Cómo implementar pipelines eficientes para tus proyectos con las mejores prácticas de la industria.
+¡Hola developer 👋🏻! Ya estoy de vuelta de las vacaciones y vengo con las pilas cargadísimas 🔋 porque hoy te traigo un reto digno de jefe final 🧟‍♂️: montar un MCP Server con transporte Streameable HTTP (sí, el que está de moda para servidores remotos 😎), pero… ¡usando un Low-Level server! 🧠 ¿Y eso qué significa exactamente? Probablemente ya tengas claro lo de MCP y... 
+Leer más
+La entrada Crear un MCP Server con Streamable HTTP usando Low-Level server se publicó primero en return(GiS);.
 
-[**📖 Seguir leyendo...**](https://www.returngis.net)
-
-</div>
-
----
-
-<div align="center">
-
-[![Microservicios en Azure: Arquitectura y mejores prácticas](https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices)](https://www.returngis.net)
-
-### [Microservicios en Azure: Arquitectura y mejores prácticas](https://www.returngis.net)
-📅 5 de diciembre de 2024
-
-Diseña sistemas escalables y resilientes en la nube con patrones modernos de arquitectura.
-
-[**📖 Seguir leyendo...**](https://www.returngis.net)
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
 
 </div>
 
@@ -121,14 +102,33 @@ Diseña sistemas escalables y resilientes en la nube con patrones modernos de ar
 
 <div align="center">
 
-[![Monitoreo y observabilidad en aplicaciones modernas](https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability)](https://www.returngis.net)
+[![🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/05/Desplegando-sitio-web-con-Jekyll-en-GitHub.png?fit=1024%2C1024&amp;ssl=1)](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
 
-### [Monitoreo y observabilidad en aplicaciones modernas](https://www.returngis.net)
-📅 28 de noviembre de 2024
+### [🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
+📅 1 de mayo de 2025
 
-Herramientas y técnicas para mantener tus aplicaciones saludables y monitoreadas.
+Estos días he estado ayudando a una amiga a crear su sitio web 🌐. Como queríamos evitar costes iniciales 💸, decidimos desarrollarlo con Jekyll y desplegarlo directamente en GitHub Pages 🚀, para que pudiera tener su propia página personal sin complicaciones. En este artículo quiero compartir contigo la configuración de Dev Containers 🛠️ que estoy utilizando para desarrollarlo y probarlo en local 🧪, así como... 
+Leer más
+La entrada 🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨ se publicó primero en return(GiS);.
 
-[**📖 Seguir leyendo...**](https://www.returngis.net)
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
+
+</div>
+
+---
+
+<div align="center">
+
+[![API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/04/API-en-Flask-para-llamar-a-Ollama-y-Github-Models-scaled.png?fit=1060%2C707&amp;ssl=1)](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
+
+### [API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
+📅 17 de abril de 2025
+
+¡Hola developer 👋🏻! En el último vídeo de mi serie sobre IA Generativa te mostré una API en Flask con la que era capaz de llamar tanto a modelos que se estaban ejecutando gracias a Ollama o alojados en GitHub Models. Si bien es cierto que durante el vídeo, con efectos educativos, no refactoricé del todo la misma, lo prometido es deuda, y aquí te... 
+Leer más
+La entrada API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱 se publicó primero en return(GiS);.
+
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
 
 </div>
 
