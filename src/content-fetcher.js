@@ -164,14 +164,14 @@ class ContentFetcher {
   getFallbackVideos() {
     return [
       {
-        title: "Cmo crear workflows de GitHub Actions - Tutorial completo",
+        title: "Cómo crear workflows de GitHub Actions - Tutorial completo",
         link: "https://www.youtube.com/@returngis",
         publishDate: "15 de diciembre de 2024",
         description: "Aprende a automatizar tu workflow con GitHub Actions paso a paso",
         thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
       },
       {
-        title: "Infraestructura como cdigo con Terraform y Azure",
+        title: "Infraestructura como código con Terraform y Azure",
         link: "https://www.youtube.com/@returngis",
         publishDate: "8 de diciembre de 2024",
         description: "Domina Terraform para gestionar tu infraestructura en Azure",
@@ -292,24 +292,24 @@ class ContentFetcher {
   getFallbackPosts() {
     return [
       {
-        title: "Automatizacin CI/CD con GitHub Actions y Azure DevOps",
+        title: "Automatización CI/CD con GitHub Actions y Azure DevOps",
         link: "https://www.returngis.net",
         publishDate: "12 de diciembre de 2024",
-        description: "Cmo implementar pipelines eficientes para tus proyectos con las mejores prcticas de la industria.",
+        description: "Cómo implementar pipelines eficientes para tus proyectos con las mejores prácticas de la industria.",
         thumbnail: "https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation"
       },
       {
-        title: "Microservicios en Azure: Arquitectura y mejores prcticas",
+        title: "Microservicios en Azure: Arquitectura y mejores prácticas",
         link: "https://www.returngis.net",
         publishDate: "5 de diciembre de 2024",
-        description: "Dise1a sistemas escalables y resilientes en la nube con patrones modernos de arquitectura.",
+        description: "Diseña sistemas escalables y resilientes en la nube con patrones modernos de arquitectura.",
         thumbnail: "https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices"
       },
       {
         title: "Monitoreo y observabilidad en aplicaciones modernas",
         link: "https://www.returngis.net",
         publishDate: "28 de noviembre de 2024",
-        description: "Herramientas y tcnicas para mantener tus aplicaciones saludables y monitoreadas.",
+        description: "Herramientas y técnicas para mantener tus aplicaciones saludables y monitoreadas.",
         thumbnail: "https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability"
       }
     ];
@@ -317,10 +317,10 @@ class ContentFetcher {
 
   generateVideoSection(videos) {
     if (!videos || videos.length === 0) {
-      return '<!-- No hay vdeos disponibles -->';
+      return '<!-- No hay vídeos disponibles -->';
     }
 
-    let section = '\n##  Mis ltimos vdeos en YouTube\n\n';
+    let section = '\n## 🎥 Mis últimos vídeos en YouTube\n\n';
     
     videos.forEach(video => {
       section += `<div align="center">\n\n`;
@@ -328,7 +328,7 @@ class ContentFetcher {
         section += `[![${video.title}](${video.thumbnail})](${video.link})\n\n`;
       }
       section += `### [${video.title}](${video.link})\n`;
-      section += `	dc5 ${video.publishDate}\n\n`;
+      section += `📅 ${video.publishDate}\n\n`;
       if (video.description) {
         section += `${video.description}\n\n`;
       }
@@ -336,7 +336,7 @@ class ContentFetcher {
     });
     
     section += '<div align="center">\n\n';
-    section += '[![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vdeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)\n\n';
+    section += '[![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vídeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)\n\n';
     section += '</div>\n\n';
     
     return section;
@@ -344,10 +344,10 @@ class ContentFetcher {
 
   generateBlogSection(posts) {
     if (!posts || posts.length === 0) {
-      return '<!-- No hay artculos disponibles -->';
+      return '<!-- No hay artículos disponibles -->';
     }
 
-    let section = '\n## 	dcdd Mis ltimos artculos en el blog\n\n';
+    let section = '\n## 📝 Mis últimos artículos en el blog\n\n';
     
     posts.forEach(post => {
       section += `<div align="center">\n\n`;
@@ -355,16 +355,16 @@ class ContentFetcher {
         section += `[![${post.title}](${post.thumbnail})](${post.link})\n\n`;
       }
       section += `### [${post.title}](${post.link})\n`;
-      section += `	dc5 ${post.publishDate}\n\n`;
+      section += `📅 ${post.publishDate}\n\n`;
       if (post.description) {
         section += `${post.description}\n\n`;
-        section += `[**	dcd6 Seguir leyendo...**](${post.link})\n\n`;
+        section += `[**📖 Seguir leyendo...**](${post.link})\n\n`;
       }
       section += `</div>\n\n---\n\n`;
     });
     
     section += '<div align="center">\n\n';
-    section += '[![Blog](https://img.shields.io/badge/Ver%20todos%20los%20artculos-339933?style=for-the-badge&logo=github-pages&logoColor=white)](https://www.returngis.net)\n\n';
+    section += '[![Blog](https://img.shields.io/badge/Ver%20todos%20los%20artículos-339933?style=for-the-badge&logo=github-pages&logoColor=white)](https://www.returngis.net)\n\n';
     section += '</div>\n\n';
     
     return section;

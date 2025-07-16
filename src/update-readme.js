@@ -2,7 +2,7 @@ const fs = require('fs');
 const ContentFetcher = require('./content-fetcher');
 
 async function updateReadme() {
-  console.log('\ud83d\ude80 Iniciando actualizaci\u00f3n del README...\n');
+  console.log('🚀 Iniciando actualización del README...\n');
   
   const fetcher = new ContentFetcher();
   
@@ -17,27 +17,27 @@ async function updateReadme() {
   const blogSection = fetcher.generateBlogSection(posts);
   
   // Create README template
-  const readme = `# \u00a1Hola developer! <img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" width=\"25px\" alt=\"Waving hand animation\">
+  const readme = `# ¡Hola developer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving hand animation">
 
-<div align=\"center\">
+<div align="center">
   
-\u00a1Bienvenidx a mi trocito de GitHub! \ud83e\udd13
+¡Bienvenidx a mi trocito de GitHub! 🤓
 
 </div>
 
 ---
 
-## \ud83e\udd14 \u00bfQui\u00e9n soy?
+## 🤔 ¿Quién soy?
 
-Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer Audience. Se trata de un puesto t\u00e9cnico cuya misi\u00f3n es apoyar y asesorar sobre c\u00f3mo ayudar a los desarrolladores a ser m\u00e1s felices \ud83e\udd72 y productivos \ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb. Soy una apasionada de la tecnolog\u00eda y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora tambi\u00e9n en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) \ud83c\udfa5\ud83c\udf7f.
+Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer Audience. Se trata de un puesto técnico cuya misión es apoyar y asesorar sobre cómo ayudar a los desarrolladores a ser más felices 🥲 y productivos 👩🏻‍💻. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
 
-\ud83d\udcc5 **\u00a1Nuevo contenido cada mi\u00e9rcoles a las 10:00 AM!** \ud83d\udcc5
+📅 **¡Nuevo contenido cada miércoles a las 10:00 AM!** 📅
 
 ---
 
-## \ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb Tecnolog\u00edas y herramientas
+## 👩🏼‍💻 Tecnologías y herramientas
 
-<div align=\"center\">
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black "JavaScript")
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white "Node.js")
@@ -59,9 +59,9 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 ${videoSection}---
 ${blogSection}---
 
-## \ud83d\ude80 Proyectos destacados
+## 🚀 Proyectos destacados
 
-<div align=\"center\">
+<div align="center">
 
 [![return(GiS) Blog](https://img.shields.io/badge/BLOG-return(GiS)-339933?style=for-the-badge)](https://www.returngis.net "Mi blog personal")
 [![YouTube Channel](https://img.shields.io/badge/YouTube-return(GiS)-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis "Mi canal de YouTube")
@@ -70,72 +70,72 @@ ${blogSection}---
 
 ---
 
-## \ud83d\udcca Mis estad\u00edsticas
+## 📊 Mis estadísticas
 
-<div align=\"center\">
-  <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api?username=0gis0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true\" alt=\"Estad\u00edsticas de GitHub de Gisela Torres\" />
-  <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=0gis0&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4\" alt=\"Lenguajes m\u00e1s usados por Gisela Torres\" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0gis0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub de Gisela Torres" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0gis0&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4" alt="Lenguajes más usados por Gisela Torres" />
 </div>
 
 ---
 
-## \ud83e\udd70 Mis intereses
+## 🥰 Mis intereses
 
-<div align=\"center\">
+<div align="center">
 
-\ud83d\udc23 &nbsp;Pasar tiempo con mi familia
-&nbsp;\u2022&nbsp;
-\ud83d\udeb4\ud83c\udffc\u200d\u2640\ufe0f &nbsp;Montar en bici
-&nbsp;\u2022&nbsp;
-\ud83d\udc15 &nbsp;Pasear a Siri
-&nbsp;\u2022&nbsp;
-\ud83c\udf32 &nbsp;Senderismo
-&nbsp;\u2022&nbsp;
-\u2708\ufe0f &nbsp;Viajar
-&nbsp;\u2022&nbsp;
-\ud83c\udfac &nbsp;Ir al cine
+🐣 &nbsp;Pasar tiempo con mi familia
+&nbsp;•&nbsp;
+🚴🏼‍♀️ &nbsp;Montar en bici
+&nbsp;•&nbsp;
+🐕 &nbsp;Pasear a Siri
+&nbsp;•&nbsp;
+🌲 &nbsp;Senderismo
+&nbsp;•&nbsp;
+✈️ &nbsp;Viajar
+&nbsp;•&nbsp;
+🎬 &nbsp;Ir al cine
 
 </div>
 
 ---
 
-## \u2709\ufe0f Contacto
+## ✉️ Contacto
 
-<div align=\"center\">
+<div align="center">
 
-\u00bfTe gusta mi contenido? **\u00a1Suscr\u00edbete y s\u00edgueme en mis redes sociales!** \ud83d\ude80
+¿Te gusta mi contenido? **¡Suscríbete y sígueme en mis redes sociales!** 🚀
 
 [![Blog](https://img.shields.io/badge/blog-339933?logo=github-pages&logoColor=white&style=for-the-badge)](https://www.returngis.net "Visita mi blog")
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis "\ud83d\udd14 \u00a1Suscr\u00edbete a mi canal!")
-[![Twitter](https://img.shields.io/twitter/follow/0gis0?style=for-the-badge)](https://twitter.com/0gis0 "S\u00edgueme en Twitter")
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giselatorresbuitrago/ "Con\u00e9ctate conmigo en LinkedIn")
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0gis0/ "S\u00edgueme en Instagram")
-[![Mastodon](https://img.shields.io/badge/-Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.cloud/@0gis0 "S\u00edgueme en Mastodon")
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis "🔔 ¡Suscríbete a mi canal!")
+[![Twitter](https://img.shields.io/twitter/follow/0gis0?style=for-the-badge)](https://twitter.com/0gis0 "Sígueme en Twitter")
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giselatorresbuitrago/ "Conéctate conmigo en LinkedIn")
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0gis0/ "Sígueme en Instagram")
+[![Mastodon](https://img.shields.io/badge/-Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.cloud/@0gis0 "Sígueme en Mastodon")
 
 </div>
 
 ---
 
-<div align=\"center\">
+<div align="center">
 
-\ud83d\udca1 **\u00a1Nuevo contenido cada mi\u00e9rcoles!** \ud83d\udca1
+💡 **¡Nuevo contenido cada miércoles!** 💡
 
-*Este README se actualiza autom\u00e1ticamente con mis \u00faltimos v\u00eddeos y art\u00edculos*
+*Este README se actualiza automáticamente con mis últimos vídeos y artículos*
 
 ![Contador de visitas](https://visitor-badge.glitch.me/badge?page_id=0gis0 "Contador de visitas a mi perfil")
 
 </div>`;
 
-  // Write to README.md
-  fs.writeFileSync('README.md', readme);
+  // Write to README.md with explicit UTF-8 encoding
+  fs.writeFileSync('README.md', readme, 'utf8');
   
-  console.log('\u2705 README.md actualizado correctamente!');
-  console.log(`\ud83d\udcca V\u00eddeos incluidos: ${videos.length}`);
-  console.log(`\ud83d\udcca Art\u00edculos incluidos: ${posts.length}`);
+  console.log('✅ README.md actualizado correctamente!');
+  console.log(`📊 Vídeos incluidos: ${videos.length}`);
+  console.log(`📊 Artículos incluidos: ${posts.length}`);
   
-  // Also create a preview version
-  fs.writeFileSync('README-preview.md', readme);
-  console.log('\ud83d\udd0d Archivo de previsualizaci\u00f3n creado: README-preview.md');
+  // Also create a preview version with explicit UTF-8 encoding
+  fs.writeFileSync('README-preview.md', readme, 'utf8');
+  console.log('🔍 Archivo de previsualización creado: README-preview.md');
 }
 
 // Run if called directly
