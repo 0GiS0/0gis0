@@ -3,7 +3,8 @@ name: 'Update README with latest content'
 on:
   schedule:
     # Run every Wednesday at 10:30 AM UTC (to catch new videos published at 10 AM)
-    - cron: '30 10 * * 3'
+    - cron: '15 8 * * 3' # Miércoles 10:15 CEST (verano)
+    - cron: '15 9 * * 3' # Miércoles 10:15 CET (invierno)
   # Allow manual trigger
   workflow_dispatch:
   # Run on push to main branch for testing
