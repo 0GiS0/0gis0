@@ -42,6 +42,17 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
+[![Elicitations en MCP 🤖: cuando el modelo te pide datos (¡no al revés!) 🧠](https://img.youtube.com/vi/EDHa6oq-J8Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=EDHa6oq-J8Q)
+
+### [Elicitations en MCP 🤖: cuando el modelo te pide datos (¡no al revés!) 🧠](https://www.youtube.com/watch?v=EDHa6oq-J8Q)
+📅 23 de julio de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![Sampling 🫴🏻🧠 Cómo tu MCP Server puede pedir prestado un modelo de IA al cliente](https://img.youtube.com/vi/7LARYKzChMQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=7LARYKzChMQ)
 
 ### [Sampling 🫴🏻🧠 Cómo tu MCP Server puede pedir prestado un modelo de IA al cliente](https://www.youtube.com/watch?v=7LARYKzChMQ)
@@ -57,17 +68,6 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 ### [¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠](https://www.youtube.com/watch?v=6J4KD5NJtdc)
 📅 9 de julio de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![🎯 ¡Visual Studio Code + GitHub Copilot hacen PLENO con MCP! 🎳](https://img.youtube.com/vi/EcufOY3Z0mU/maxresdefault.jpg)](https://www.youtube.com/watch?v=EcufOY3Z0mU)
-
-### [🎯 ¡Visual Studio Code + GitHub Copilot hacen PLENO con MCP! 🎳](https://www.youtube.com/watch?v=EcufOY3Z0mU)
-📅 2 de julio de 2025
 
 </div>
 
