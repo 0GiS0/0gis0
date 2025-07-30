@@ -42,6 +42,17 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
+[![GitHub Spark ✨ en acción 🚀 ¡De un prompt a una app completa en minutos!](https://img.youtube.com/vi/bbsTqk4Q5F8/maxresdefault.jpg)](https://www.youtube.com/watch?v=bbsTqk4Q5F8)
+
+### [GitHub Spark ✨ en acción 🚀 ¡De un prompt a una app completa en minutos!](https://www.youtube.com/watch?v=bbsTqk4Q5F8)
+📅 30 de julio de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![Elicitations en MCP 🤖: cuando el modelo te pide datos (¡no al revés!) 🧠](https://img.youtube.com/vi/EDHa6oq-J8Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=EDHa6oq-J8Q)
 
 ### [Elicitations en MCP 🤖: cuando el modelo te pide datos (¡no al revés!) 🧠](https://www.youtube.com/watch?v=EDHa6oq-J8Q)
@@ -57,17 +68,6 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 ### [Sampling 🫴🏻🧠 Cómo tu MCP Server puede pedir prestado un modelo de IA al cliente](https://www.youtube.com/watch?v=7LARYKzChMQ)
 📅 16 de julio de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠](https://img.youtube.com/vi/6J4KD5NJtdc/maxresdefault.jpg)](https://www.youtube.com/watch?v=6J4KD5NJtdc)
-
-### [¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠](https://www.youtube.com/watch?v=6J4KD5NJtdc)
-📅 9 de julio de 2025
 
 </div>
 
