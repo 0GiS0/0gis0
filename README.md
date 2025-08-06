@@ -42,6 +42,17 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
+[![¡iTerm2 con IA GRATIS 😱 con GitHub Models  🚀!](https://img.youtube.com/vi/t5xwaMCXrlc/maxresdefault.jpg)](https://www.youtube.com/watch?v=t5xwaMCXrlc)
+
+### [¡iTerm2 con IA GRATIS 😱 con GitHub Models  🚀!](https://www.youtube.com/watch?v=t5xwaMCXrlc)
+📅 6 de agosto de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![GitHub Spark ✨ en acción 🚀 ¡De un prompt a una app completa en minutos!](https://img.youtube.com/vi/bbsTqk4Q5F8/maxresdefault.jpg)](https://www.youtube.com/watch?v=bbsTqk4Q5F8)
 
 ### [GitHub Spark ✨ en acción 🚀 ¡De un prompt a una app completa en minutos!](https://www.youtube.com/watch?v=bbsTqk4Q5F8)
@@ -57,17 +68,6 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 ### [Elicitations en MCP 🤖: cuando el modelo te pide datos (¡no al revés!) 🧠](https://www.youtube.com/watch?v=EDHa6oq-J8Q)
 📅 23 de julio de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![Sampling 🫴🏻🧠 Cómo tu MCP Server puede pedir prestado un modelo de IA al cliente](https://img.youtube.com/vi/7LARYKzChMQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=7LARYKzChMQ)
-
-### [Sampling 🫴🏻🧠 Cómo tu MCP Server puede pedir prestado un modelo de IA al cliente](https://www.youtube.com/watch?v=7LARYKzChMQ)
-📅 16 de julio de 2025
 
 </div>
 
