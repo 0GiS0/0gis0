@@ -42,21 +42,10 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
-[![¡iTerm2 con IA GRATIS 😱 con GitHub Models  🚀!](https://img.youtube.com/vi/t5xwaMCXrlc/maxresdefault.jpg)](https://www.youtube.com/watch?v=t5xwaMCXrlc)
+[![🎧 IA para Audio desde Cero: Transcribe, Traduce y Genera Voz 🗣️✨ | Cap.7](https://img.youtube.com/vi/PdSytr086i4/maxresdefault.jpg)](https://www.youtube.com/watch?v=PdSytr086i4)
 
-### [¡iTerm2 con IA GRATIS 😱 con GitHub Models  🚀!](https://www.youtube.com/watch?v=t5xwaMCXrlc)
-📅 6 de agosto de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![GitHub Spark ✨ en acción 🚀 ¡De un prompt a una app completa en minutos!](https://img.youtube.com/vi/bbsTqk4Q5F8/maxresdefault.jpg)](https://www.youtube.com/watch?v=bbsTqk4Q5F8)
-
-### [GitHub Spark ✨ en acción 🚀 ¡De un prompt a una app completa en minutos!](https://www.youtube.com/watch?v=bbsTqk4Q5F8)
-📅 30 de julio de 2025
+### [🎧 IA para Audio desde Cero: Transcribe, Traduce y Genera Voz 🗣️✨ | Cap.7](https://www.youtube.com/watch?v=PdSytr086i4)
+📅 13 de agosto de 2025
 
 </div>
 
@@ -64,10 +53,17 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
-[![Elicitations en MCP 🤖: cuando el modelo te pide datos (¡no al revés!) 🧠](https://img.youtube.com/vi/EDHa6oq-J8Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=EDHa6oq-J8Q)
+### [Coding agent desde VS Code a un solo botón #short](https://www.youtube.com/shorts/N7EikZvx0O0)
+📅 11 de agosto de 2025
 
-### [Elicitations en MCP 🤖: cuando el modelo te pide datos (¡no al revés!) 🧠](https://www.youtube.com/watch?v=EDHa6oq-J8Q)
-📅 23 de julio de 2025
+</div>
+
+---
+
+<div align="center">
+
+### [¿Quién programa más? ¿Tú o la IA? 🤖💻 #short](https://www.youtube.com/shorts/3NYt_H0j1Sc)
+📅 10 de agosto de 2025
 
 </div>
 
