@@ -42,6 +42,17 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
+[![⚡🤖 Controla las respuestas de la IA: outputs estructurados 📊 | Cap. 9](https://img.youtube.com/vi/wJvDknbJR-o/maxresdefault.jpg)](https://www.youtube.com/watch?v=wJvDknbJR-o)
+
+### [⚡🤖 Controla las respuestas de la IA: outputs estructurados 📊 | Cap. 9](https://www.youtube.com/watch?v=wJvDknbJR-o)
+📅 27 de agosto de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![🤖🎙️ Desarrolla tu app con IA que escucha y responde con voz 💻🔊 | Cap.8](https://img.youtube.com/vi/B78mcUiPzbk/maxresdefault.jpg)](https://www.youtube.com/watch?v=B78mcUiPzbk)
 
 ### [🤖🎙️ Desarrolla tu app con IA que escucha y responde con voz 💻🔊 | Cap.8](https://www.youtube.com/watch?v=B78mcUiPzbk)
@@ -57,15 +68,6 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 ### [🎧 IA para Audio desde Cero: Transcribe, Traduce y Genera Voz 🗣️✨ | Cap.7](https://www.youtube.com/watch?v=PdSytr086i4)
 📅 13 de agosto de 2025
-
-</div>
-
----
-
-<div align="center">
-
-### [Coding agent desde VS Code a un solo botón #short](https://www.youtube.com/shorts/N7EikZvx0O0)
-📅 11 de agosto de 2025
 
 </div>
 
