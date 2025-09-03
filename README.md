@@ -42,6 +42,17 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
+[![🧩 LangChain explicado con ejemplos: tu primera comparativa 🚀 | Cap. 10](https://img.youtube.com/vi/Q40WpsPLfH8/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q40WpsPLfH8)
+
+### [🧩 LangChain explicado con ejemplos: tu primera comparativa 🚀 | Cap. 10](https://www.youtube.com/watch?v=Q40WpsPLfH8)
+📅 3 de septiembre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![⚡🤖 Controla las respuestas de la IA: outputs estructurados 📊 | Cap. 9](https://img.youtube.com/vi/wJvDknbJR-o/maxresdefault.jpg)](https://www.youtube.com/watch?v=wJvDknbJR-o)
 
 ### [⚡🤖 Controla las respuestas de la IA: outputs estructurados 📊 | Cap. 9](https://www.youtube.com/watch?v=wJvDknbJR-o)
@@ -57,17 +68,6 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 ### [🤖🎙️ Desarrolla tu app con IA que escucha y responde con voz 💻🔊 | Cap.8](https://www.youtube.com/watch?v=B78mcUiPzbk)
 📅 20 de agosto de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![🎧 IA para Audio desde Cero: Transcribe, Traduce y Genera Voz 🗣️✨ | Cap.7](https://img.youtube.com/vi/PdSytr086i4/maxresdefault.jpg)](https://www.youtube.com/watch?v=PdSytr086i4)
-
-### [🎧 IA para Audio desde Cero: Transcribe, Traduce y Genera Voz 🗣️✨ | Cap.7](https://www.youtube.com/watch?v=PdSytr086i4)
-📅 13 de agosto de 2025
 
 </div>
 
