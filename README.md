@@ -42,9 +42,20 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
-[![🧩 LangChain explicado con ejemplos: tu primera comparativa 🚀 | Cap. 10](https://img.youtube.com/vi/Q40WpsPLfH8/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q40WpsPLfH8)
+[![Construyendo chats con IA 🤖 OpenAI SDK vs LangChain explicado fácil 🎯 | Cap. 11](https://img.youtube.com/vi/PM33QnrClzU/maxresdefault.jpg)](https://www.youtube.com/watch?v=PM33QnrClzU)
 
-### [🧩 LangChain explicado con ejemplos: tu primera comparativa 🚀 | Cap. 10](https://www.youtube.com/watch?v=Q40WpsPLfH8)
+### [Construyendo chats con IA 🤖 OpenAI SDK vs LangChain explicado fácil 🎯 | Cap. 11](https://www.youtube.com/watch?v=PM33QnrClzU)
+📅 10 de septiembre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
+[![🦜🔗 LangChain explicado con ejemplos: tu primera comparativa 🚀 | Cap. 10](https://img.youtube.com/vi/Q40WpsPLfH8/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q40WpsPLfH8)
+
+### [🦜🔗 LangChain explicado con ejemplos: tu primera comparativa 🚀 | Cap. 10](https://www.youtube.com/watch?v=Q40WpsPLfH8)
 📅 3 de septiembre de 2025
 
 </div>
@@ -57,17 +68,6 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 ### [⚡🤖 Controla las respuestas de la IA: outputs estructurados 📊 | Cap. 9](https://www.youtube.com/watch?v=wJvDknbJR-o)
 📅 27 de agosto de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![🤖🎙️ Desarrolla tu app con IA que escucha y responde con voz 💻🔊 | Cap.8](https://img.youtube.com/vi/B78mcUiPzbk/maxresdefault.jpg)](https://www.youtube.com/watch?v=B78mcUiPzbk)
-
-### [🤖🎙️ Desarrolla tu app con IA que escucha y responde con voz 💻🔊 | Cap.8](https://www.youtube.com/watch?v=B78mcUiPzbk)
-📅 20 de agosto de 2025
 
 </div>
 
