@@ -42,6 +42,17 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
+[![🆕 Nueva pestaña en GitHub: Models para probar prompts GRATIS ✨](https://img.youtube.com/vi/CJtztZP1Wiw/maxresdefault.jpg)](https://www.youtube.com/watch?v=CJtztZP1Wiw)
+
+### [🆕 Nueva pestaña en GitHub: Models para probar prompts GRATIS ✨](https://www.youtube.com/watch?v=CJtztZP1Wiw)
+📅 17 de septiembre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![Construyendo chats con IA 🤖 OpenAI SDK vs LangChain explicado fácil 🎯 | Cap. 11](https://img.youtube.com/vi/PM33QnrClzU/maxresdefault.jpg)](https://www.youtube.com/watch?v=PM33QnrClzU)
 
 ### [Construyendo chats con IA 🤖 OpenAI SDK vs LangChain explicado fácil 🎯 | Cap. 11](https://www.youtube.com/watch?v=PM33QnrClzU)
@@ -64,17 +75,6 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
-[![⚡🤖 Controla las respuestas de la IA: outputs estructurados 📊 | Cap. 9](https://img.youtube.com/vi/wJvDknbJR-o/maxresdefault.jpg)](https://www.youtube.com/watch?v=wJvDknbJR-o)
-
-### [⚡🤖 Controla las respuestas de la IA: outputs estructurados 📊 | Cap. 9](https://www.youtube.com/watch?v=wJvDknbJR-o)
-📅 27 de agosto de 2025
-
-</div>
-
----
-
-<div align="center">
-
 [![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vídeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)
 
 </div>
@@ -82,6 +82,23 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 ---
 
 ## 📝 Mis últimos artículos en el blog
+
+<div align="center">
+
+[![⚙️🚀 Cómo configurar un Dev Container para tus proyectos con Astro](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/Configuracion-de-Dev-Container-para-proyectos-con-Astro.png?fit=1024%2C1024&amp;ssl=1)](https://www.returngis.net/2025/09/como-configurar-un-dev-container-para-tus-proyectos-con-astro/)
+
+### [⚙️🚀 Cómo configurar un Dev Container para tus proyectos con Astro](https://www.returngis.net/2025/09/como-configurar-un-dev-container-para-tus-proyectos-con-astro/)
+📅 15 de septiembre de 2025
+
+¡Hola developer 👋🏻! Estos días he estado jugando con Astro y, como no podía ser de otra forma, me he creado la configuración de Dev Container oportuna para poder tener todo el entorno de desarrollo dentro de un contenedor, y así evitar tener que instalar o añadir más extensiones a mi Visual Studio Code 💙 Si no sabes de qué va esto de los Dev... 
+Leer más
+La entrada ⚙️🚀 Cómo configurar un Dev Container para tus proyectos con Astro se publicó primero en return(GiS);.
+
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-configurar-un-dev-container-para-tus-proyectos-con-astro/)
+
+</div>
+
+---
 
 <div align="center">
 
@@ -112,23 +129,6 @@ Leer más
 La entrada 🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨ se publicó primero en return(GiS);.
 
 [**📖 Seguir leyendo...**](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
-
-</div>
-
----
-
-<div align="center">
-
-[![API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/04/API-en-Flask-para-llamar-a-Ollama-y-Github-Models-scaled.png?fit=1060%2C707&amp;ssl=1)](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
-
-### [API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
-📅 17 de abril de 2025
-
-¡Hola developer 👋🏻! En el último vídeo de mi serie sobre IA Generativa te mostré una API en Flask con la que era capaz de llamar tanto a modelos que se estaban ejecutando gracias a Ollama o alojados en GitHub Models. Si bien es cierto que durante el vídeo, con efectos educativos, no refactoricé del todo la misma, lo prometido es deuda, y aquí te... 
-Leer más
-La entrada API en Flask para llamar a modelos de IA Generativa 🤖 en Ollama 🦙 y en Github Models 🐱 se publicó primero en return(GiS);.
-
-[**📖 Seguir leyendo...**](https://www.returngis.net/2025/04/api-en-flask-para-llamar-a-modelos-de-ia-generativa-%f0%9f%a4%96-en-ollama-%f0%9f%a6%99-y-en-github-models-%f0%9f%90%b1/)
 
 </div>
 
