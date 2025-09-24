@@ -42,6 +42,17 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
+[![🤖 Crea agentes de IA con solo un YAML ⚡ cagent explicado a fondo 🐙](https://img.youtube.com/vi/epBiyhp57bw/maxresdefault.jpg)](https://www.youtube.com/watch?v=epBiyhp57bw)
+
+### [🤖 Crea agentes de IA con solo un YAML ⚡ cagent explicado a fondo 🐙](https://www.youtube.com/watch?v=epBiyhp57bw)
+📅 24 de septiembre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![🆕 Nueva pestaña en GitHub: Models para probar prompts GRATIS ✨](https://img.youtube.com/vi/CJtztZP1Wiw/maxresdefault.jpg)](https://www.youtube.com/watch?v=CJtztZP1Wiw)
 
 ### [🆕 Nueva pestaña en GitHub: Models para probar prompts GRATIS ✨](https://www.youtube.com/watch?v=CJtztZP1Wiw)
@@ -64,17 +75,6 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
-[![🦜🔗 LangChain explicado con ejemplos: tu primera comparativa 🚀 | Cap. 10](https://img.youtube.com/vi/Q40WpsPLfH8/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q40WpsPLfH8)
-
-### [🦜🔗 LangChain explicado con ejemplos: tu primera comparativa 🚀 | Cap. 10](https://www.youtube.com/watch?v=Q40WpsPLfH8)
-📅 3 de septiembre de 2025
-
-</div>
-
----
-
-<div align="center">
-
 [![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vídeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)
 
 </div>
@@ -82,6 +82,40 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 ---
 
 ## 📝 Mis últimos artículos en el blog
+
+<div align="center">
+
+[![Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/Ollama-y-cagent.png?fit=1060%2C707&amp;ssl=1)](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
+
+### [Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
+📅 21 de septiembre de 2025
+
+¡Hola developer 👋🏻!Ayer publiqué cómo usar GitHub Models con cagent 🤖 y la verdad es que gustó bastante. Varixs me escribisteis preguntando si también se podía hacer con Ollama 🦙, para tirar de modelos locales sin complicarse demasiado. Así que aquí va: en este post dominguero te enseño la configuración para montar cagent + Ollama y ponerte a jugar con tus propios modelos en local... 
+Leer más
+La entrada Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖 se publicó primero en return(GiS);.
+
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Cómo usar 🤖 cagent 🤖 con GitHub Models](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/GitHub-Models-y-cagent-1.png?fit=700%2C700&amp;ssl=1)](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
+
+### [Cómo usar 🤖 cagent 🤖 con GitHub Models](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
+📅 19 de septiembre de 2025
+
+¡Hola developer 👋🏻! Ayer Docker publicó un artículo en el cual presentaban una nueva herramienta llamada cagent, la cual te permite de forma declarativa, muy al estilo Docker Compose, crear agentes … o multi-agentes que ahora está muy de moda 🤖. Si bien es cierto que en su documentación te cuentan cómo configurarlo con OpenAI, Anthropic, Docker Model Runner o Gemini, en este artículo te... 
+Leer más
+La entrada Cómo usar 🤖 cagent 🤖 con GitHub Models se publicó primero en return(GiS);.
+
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
+
+</div>
+
+---
 
 <div align="center">
 
@@ -95,40 +129,6 @@ Leer más
 La entrada ⚙️🚀 Cómo configurar un Dev Container para tus proyectos con Astro se publicó primero en return(GiS);.
 
 [**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-configurar-un-dev-container-para-tus-proyectos-con-astro/)
-
-</div>
-
----
-
-<div align="center">
-
-[![Crear un MCP Server con Streamable HTTP usando Low-Level server](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/06/Crear-un-MCP-Server-con-Streamable-HTTP-usando-Low-Level-server-scaled.png?fit=1060%2C706&amp;ssl=1)](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
-
-### [Crear un MCP Server con Streamable HTTP usando Low-Level server](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
-📅 30 de junio de 2025
-
-¡Hola developer 👋🏻! Ya estoy de vuelta de las vacaciones y vengo con las pilas cargadísimas 🔋 porque hoy te traigo un reto digno de jefe final 🧟‍♂️: montar un MCP Server con transporte Streameable HTTP (sí, el que está de moda para servidores remotos 😎), pero… ¡usando un Low-Level server! 🧠 ¿Y eso qué significa exactamente? Probablemente ya tengas claro lo de MCP y... 
-Leer más
-La entrada Crear un MCP Server con Streamable HTTP usando Low-Level server se publicó primero en return(GiS);.
-
-[**📖 Seguir leyendo...**](https://www.returngis.net/2025/06/crear-un-mcp-server-con-streamable-http-usando-low-level-server/)
-
-</div>
-
----
-
-<div align="center">
-
-[![🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/05/Desplegando-sitio-web-con-Jekyll-en-GitHub.png?fit=1024%2C1024&amp;ssl=1)](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
-
-### [🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
-📅 1 de mayo de 2025
-
-Estos días he estado ayudando a una amiga a crear su sitio web 🌐. Como queríamos evitar costes iniciales 💸, decidimos desarrollarlo con Jekyll y desplegarlo directamente en GitHub Pages 🚀, para que pudiera tener su propia página personal sin complicaciones. En este artículo quiero compartir contigo la configuración de Dev Containers 🛠️ que estoy utilizando para desarrollarlo y probarlo en local 🧪, así como... 
-Leer más
-La entrada 🚀 Despliega tu sitio con Jekyll en GitHub Pages usando GitHub Actions 🔁✨ se publicó primero en return(GiS);.
-
-[**📖 Seguir leyendo...**](https://www.returngis.net/2025/05/desplegar-un-sitio-con-jekyll-en-github-usando-github-actions/)
 
 </div>
 
