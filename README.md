@@ -42,6 +42,17 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
+[![La mejor forma de testear tu aplicación ➡️ Testcontainers 🧪📦 | Cap.16](https://img.youtube.com/vi/FxzMdSfhitE/maxresdefault.jpg)](https://www.youtube.com/watch?v=FxzMdSfhitE)
+
+### [La mejor forma de testear tu aplicación ➡️ Testcontainers 🧪📦 | Cap.16](https://www.youtube.com/watch?v=FxzMdSfhitE)
+📅 1 de octubre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![🤖 Crea agentes de IA con solo un YAML ⚡ cagent explicado a fondo 🐙](https://img.youtube.com/vi/epBiyhp57bw/maxresdefault.jpg)](https://www.youtube.com/watch?v=epBiyhp57bw)
 
 ### [🤖 Crea agentes de IA con solo un YAML ⚡ cagent explicado a fondo 🐙](https://www.youtube.com/watch?v=epBiyhp57bw)
@@ -64,17 +75,6 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 
 <div align="center">
 
-[![Construyendo chats con IA 🤖 OpenAI SDK vs LangChain explicado fácil 🎯 | Cap. 11](https://img.youtube.com/vi/PM33QnrClzU/maxresdefault.jpg)](https://www.youtube.com/watch?v=PM33QnrClzU)
-
-### [Construyendo chats con IA 🤖 OpenAI SDK vs LangChain explicado fácil 🎯 | Cap. 11](https://www.youtube.com/watch?v=PM33QnrClzU)
-📅 10 de septiembre de 2025
-
-</div>
-
----
-
-<div align="center">
-
 [![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vídeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)
 
 </div>
@@ -82,6 +82,23 @@ Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer 
 ---
 
 ## 📝 Mis últimos artículos en el blog
+
+<div align="center">
+
+[![Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/Docker-Desktop-pestana-Models.png?resize=710%2C469&#038;ssl=1)](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
+
+### [Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
+📅 29 de septiembre de 2025
+
+¡Hola developer 👋🏻! Hace un tiempo te conté cómo conectar GitHub Copilot con modelos locales usando Ollama.Ahora, en la versión Insiders de Visual Studio Code, es posible enlazar modelos o providers que sean OpenAI Compatible. Así que me animé a probar si podía conectar Docker Model Runner con nuestro querido agente… ¡y lo conseguí! 😛 En este artículo te muestro cómo hacerlo paso a paso.... 
+Leer más
+La entrada Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot se publicó primero en return(GiS);.
+
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
+
+</div>
+
+---
 
 <div align="center">
 
@@ -112,23 +129,6 @@ Leer más
 La entrada Cómo usar 🤖 cagent 🤖 con GitHub Models se publicó primero en return(GiS);.
 
 [**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
-
-</div>
-
----
-
-<div align="center">
-
-[![⚙️🚀 Cómo configurar un Dev Container para tus proyectos con Astro](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/Configuracion-de-Dev-Container-para-proyectos-con-Astro.png?fit=1024%2C1024&amp;ssl=1)](https://www.returngis.net/2025/09/como-configurar-un-dev-container-para-tus-proyectos-con-astro/)
-
-### [⚙️🚀 Cómo configurar un Dev Container para tus proyectos con Astro](https://www.returngis.net/2025/09/como-configurar-un-dev-container-para-tus-proyectos-con-astro/)
-📅 15 de septiembre de 2025
-
-¡Hola developer 👋🏻! Estos días he estado jugando con Astro y, como no podía ser de otra forma, me he creado la configuración de Dev Container oportuna para poder tener todo el entorno de desarrollo dentro de un contenedor, y así evitar tener que instalar o añadir más extensiones a mi Visual Studio Code 💙 Si no sabes de qué va esto de los Dev... 
-Leer más
-La entrada ⚙️🚀 Cómo configurar un Dev Container para tus proyectos con Astro se publicó primero en return(GiS);.
-
-[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-configurar-un-dev-container-para-tus-proyectos-con-astro/)
 
 </div>
 
