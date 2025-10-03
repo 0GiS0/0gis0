@@ -17,11 +17,20 @@ async function updateReadme() {
   const blogSection = fetcher.generateBlogSection(posts);
   
   // Create README template
-  const readme = `# ¡Hola developer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving hand animation">
+  const readme = `
+  <p align="center">
+  [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC140iBrEZbOtvxWsJ-Tb0lQ?style=for-the-badge&logo=youtube&label=Suscriptores&color=FF0000)](https://www.youtube.com/@returngis)
+
+  [![Follow on X](https://img.shields.io/twitter/follow/0gis0?style=for-the-badge&logo=x&label=X&color=000000)](https://twitter.com/0gis0)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselatorresbuitrago)
+</p>
+
+# ¡Hola developer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving hand animation">
 
 <div align="center">
   
-¡Bienvenidx a mi trocito de GitHub! 🤓
+¡Bienvenid@ a mi trocito de GitHub! 🤓
 
 </div>
 
@@ -29,7 +38,7 @@ async function updateReadme() {
 
 ## 🤔 ¿Quién soy?
 
-Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer Audience. Se trata de un puesto técnico cuya misión es apoyar y asesorar sobre cómo ayudar a los desarrolladores a ser más felices 🥲 y productivos 👩🏻‍💻. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
+Me llamo Gisela Torres y trabajo en Microsoft desde hace más de 11 años (y 18 en el sector!) como Software Global Blackbelt 🫶🏻. Se trata de un puesto técnico cuya misión es ayudar a los developers a ser más felices 🥲 y productivos 👩🏻‍💻. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
 
 📅 **¡Nuevo contenido cada miércoles a las 10:00 AM!** 📅
 
