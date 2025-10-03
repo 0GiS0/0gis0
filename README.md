@@ -188,7 +188,7 @@ La entrada Cómo usar 🤖 cagent 🤖 con GitHub Models se publicó primero e
 
 <div align="center">
 
-🐣 &nbsp;Pasar tiempo con mi familia
+🐣 &nbsp;Pasar tiempo con mi familia y amig@s
 &nbsp;•&nbsp;
 🚴🏼‍♀️ &nbsp;Montar en bici
 &nbsp;•&nbsp;
@@ -226,7 +226,5 @@ La entrada Cómo usar 🤖 cagent 🤖 con GitHub Models se publicó primero e
 💡 **¡Nuevo contenido cada miércoles!** 💡
 
 *Este README se actualiza automáticamente con mis últimos vídeos y artículos*
-
-![Contador de visitas](https://visitor-badge.glitch.me/badge?page_id=0gis0 "Contador de visitas a mi perfil")
 
 </div>
