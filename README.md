@@ -34,31 +34,31 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 ### ☁️ Cloud & DevOps
 
 <div align="center">
-  ![Azure](https://img.shields.io/badge/azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge "Microsoft Azure")
-  ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white "Azure DevOps")
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "GitHub")
-  ![Terraform](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge "Terraform")
-  ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge "Kubernetes")
-  ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge "Docker")
+  <img src="https://img.shields.io/badge/azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" alt="Terraform">
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
 </div>
 
 ### 🧠 Desarrollo Core & IA Generativa
 
 <div align="center">
-  ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white "Inteligencia Artificial Generativa")
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white ".NET")
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white "Node.js")
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black "JavaScript")
-  ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge "Python")
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
+  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligencia Artificial Generativa">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </div>
 
 ### 🔧 Herramientas
 
 <div align="center">
-  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Studio Code")
-  ![PowerShell](https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=white&style=for-the-badge "PowerShell")
-  ![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge "Windows")
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" alt="PowerShell">
+  <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" alt="Windows">
 </div>
 
 ---
@@ -67,21 +67,12 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
-[![La mejor forma de testear tu aplicación ➡️ Testcontainers 🧪📦 | Cap.16](https://img.youtube.com/vi/FxzMdSfhitE/maxresdefault.jpg)](https://www.youtube.com/watch?v=FxzMdSfhitE)
+[![Cómo crear workflows de GitHub Actions - Tutorial completo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
 
-### [La mejor forma de testear tu aplicación ➡️ Testcontainers 🧪📦 | Cap.16](https://www.youtube.com/watch?v=FxzMdSfhitE)
-📅 1 de octubre de 2025
+### [Cómo crear workflows de GitHub Actions - Tutorial completo](https://www.youtube.com/@returngis)
+📅 15 de diciembre de 2024
 
-</div>
-
----
-
-<div align="center">
-
-[![🤖 Crea agentes de IA con solo un YAML ⚡ cagent explicado a fondo 🐙](https://img.youtube.com/vi/epBiyhp57bw/maxresdefault.jpg)](https://www.youtube.com/watch?v=epBiyhp57bw)
-
-### [🤖 Crea agentes de IA con solo un YAML ⚡ cagent explicado a fondo 🐙](https://www.youtube.com/watch?v=epBiyhp57bw)
-📅 24 de septiembre de 2025
+Aprende a automatizar tu workflow con GitHub Actions paso a paso
 
 </div>
 
@@ -89,10 +80,25 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
-[![🆕 Nueva pestaña en GitHub: Models para probar prompts GRATIS ✨](https://img.youtube.com/vi/CJtztZP1Wiw/maxresdefault.jpg)](https://www.youtube.com/watch?v=CJtztZP1Wiw)
+[![Infraestructura como código con Terraform y Azure](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
 
-### [🆕 Nueva pestaña en GitHub: Models para probar prompts GRATIS ✨](https://www.youtube.com/watch?v=CJtztZP1Wiw)
-📅 17 de septiembre de 2025
+### [Infraestructura como código con Terraform y Azure](https://www.youtube.com/@returngis)
+📅 8 de diciembre de 2024
+
+Domina Terraform para gestionar tu infraestructura en Azure
+
+</div>
+
+---
+
+<div align="center">
+
+[![Docker y Kubernetes para desarrolladores](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+
+### [Docker y Kubernetes para desarrolladores](https://www.youtube.com/@returngis)
+📅 1 de diciembre de 2024
+
+Containeriza y orquesta tus aplicaciones como un profesional
 
 </div>
 
@@ -110,16 +116,14 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
-[![Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/Docker-Desktop-pestana-Models.png?resize=710%2C469&#038;ssl=1)](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
+[![Automatización CI/CD con GitHub Actions y Azure DevOps](https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation)](https://www.returngis.net)
 
-### [Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
-📅 29 de septiembre de 2025
+### [Automatización CI/CD con GitHub Actions y Azure DevOps](https://www.returngis.net)
+📅 12 de diciembre de 2024
 
-¡Hola developer 👋🏻! Hace un tiempo te conté cómo conectar GitHub Copilot con modelos locales usando Ollama.Ahora, en la versión Insiders de Visual Studio Code, es posible enlazar modelos o providers que sean OpenAI Compatible. Así que me animé a probar si podía conectar Docker Model Runner con nuestro querido agente… ¡y lo conseguí! 😛 En este artículo te muestro cómo hacerlo paso a paso.... 
-Leer más
-La entrada Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot se publicó primero en return(GiS);.
+Cómo implementar pipelines eficientes para tus proyectos con las mejores prácticas de la industria.
 
-[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
+[**📖 Seguir leyendo...**](https://www.returngis.net)
 
 </div>
 
@@ -127,16 +131,14 @@ La entrada Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot se p
 
 <div align="center">
 
-[![Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/Ollama-y-cagent.png?fit=1060%2C707&amp;ssl=1)](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
+[![Microservicios en Azure: Arquitectura y mejores prácticas](https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices)](https://www.returngis.net)
 
-### [Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
-📅 21 de septiembre de 2025
+### [Microservicios en Azure: Arquitectura y mejores prácticas](https://www.returngis.net)
+📅 5 de diciembre de 2024
 
-¡Hola developer 👋🏻!Ayer publiqué cómo usar GitHub Models con cagent 🤖 y la verdad es que gustó bastante. Varixs me escribisteis preguntando si también se podía hacer con Ollama 🦙, para tirar de modelos locales sin complicarse demasiado. Así que aquí va: en este post dominguero te enseño la configuración para montar cagent + Ollama y ponerte a jugar con tus propios modelos en local... 
-Leer más
-La entrada Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖 se publicó primero en return(GiS);.
+Diseña sistemas escalables y resilientes en la nube con patrones modernos de arquitectura.
 
-[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
+[**📖 Seguir leyendo...**](https://www.returngis.net)
 
 </div>
 
@@ -144,16 +146,14 @@ La entrada Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖 se publicó
 
 <div align="center">
 
-[![Cómo usar 🤖 cagent 🤖 con GitHub Models](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/GitHub-Models-y-cagent-1.png?fit=700%2C700&amp;ssl=1)](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
+[![Monitoreo y observabilidad en aplicaciones modernas](https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability)](https://www.returngis.net)
 
-### [Cómo usar 🤖 cagent 🤖 con GitHub Models](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
-📅 19 de septiembre de 2025
+### [Monitoreo y observabilidad en aplicaciones modernas](https://www.returngis.net)
+📅 28 de noviembre de 2024
 
-¡Hola developer 👋🏻! Ayer Docker publicó un artículo en el cual presentaban una nueva herramienta llamada cagent, la cual te permite de forma declarativa, muy al estilo Docker Compose, crear agentes … o multi-agentes que ahora está muy de moda 🤖. Si bien es cierto que en su documentación te cuentan cómo configurarlo con OpenAI, Anthropic, Docker Model Runner o Gemini, en este artículo te... 
-Leer más
-La entrada Cómo usar 🤖 cagent 🤖 con GitHub Models se publicó primero en return(GiS);.
+Herramientas y técnicas para mantener tus aplicaciones saludables y monitoreadas.
 
-[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
+[**📖 Seguir leyendo...**](https://www.returngis.net)
 
 </div>
 
