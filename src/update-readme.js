@@ -24,17 +24,14 @@ async function updateReadme() {
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand animation">
   <p>¡Bienvenid@ a mi trocito de GitHub! 🤓</p>
 
-  <p>
-    <a href="https://www.youtube.com/@returngis" target="_blank">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UC140iBrEZbOtvxWsJ-Tb0lQ?style=for-the-badge&logo=youtube&label=Suscríbete&color=FF0000" alt="YouTube Subscribers">
-    </a>
-    <a href="https://twitter.com/0gis0" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/0gis0?style=for-the-badge&logo=x&label=Sígueme&color=000000" alt="Follow on X">
-    </a>
-    <a href="https://www.linkedin.com/in/giselatorresbuitrago" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </p>
+<div align="center">
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC140iBrEZbOtvxWsJ-Tb0lQ?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://www.youtube.com/c/GiselaTorres?sub_confirmation=1)
+[![GitHub followers](https://img.shields.io/github/followers/0GiS0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0GiS0)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Sígueme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselatorresbuitrago/)
+[![X Follow](https://img.shields.io/badge/X-Sígueme-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0GiS0)
+
+</div>
 
 </div>
 
