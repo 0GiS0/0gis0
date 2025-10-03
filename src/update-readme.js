@@ -17,11 +17,24 @@ async function updateReadme() {
   const blogSection = fetcher.generateBlogSection(posts);
   
   // Create README template
-  const readme = `# ¡Hola developer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving hand animation">
-
-<div align="center">
+  const readme = `<div align="center">
   
-¡Bienvenidx a mi trocito de GitHub! 🤓
+  <h1>¡Hola! Soy Gisela Torres 👩🏻‍💻</h1>
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand animation">
+  <p>¡Bienvenid@ a mi trocito de GitHub! 🤓</p>
+
+  <p>
+    <a href="https://www.youtube.com/@returngis" target="_blank">
+      <img src="https://img.shields.io/youtube/channel/subscribers/UC140iBrEZbOtvxWsJ-Tb0lQ?style=for-the-badge&logo=youtube&label=Suscríbete&color=FF0000" alt="YouTube Subscribers">
+    </a>
+    <a href="https://twitter.com/0gis0" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/0gis0?style=for-the-badge&logo=x&label=Sígueme&color=000000" alt="Follow on X">
+    </a>
+    <a href="https://www.linkedin.com/in/giselatorresbuitrago" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
 
 </div>
 
@@ -29,30 +42,42 @@ async function updateReadme() {
 
 ## 🤔 ¿Quién soy?
 
-Me llamo Gisela Torres y trabajo en Microsoft como Global Blackbelt - Developer Audience. Se trata de un puesto técnico cuya misión es apoyar y asesorar sobre cómo ayudar a los desarrolladores a ser más felices 🥲 y productivos 👩🏻‍💻. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
+Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como **Software Global Blackbelt** 🫶🏻. Mi misión es técnica: ayudar a los developers a ser más felices 🥲 y productivos 👩🏻‍💻 a través de la tecnología. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
 
-📅 **¡Nuevo contenido cada miércoles a las 10:00 AM!** 📅
+📅 **¡Nuevo contenido cada miércoles a las 10:00 AM (CEST)!** 📅
 
 ---
 
-## 👩🏼‍💻 Tecnologías y herramientas
+## 🛠️ Stack de Tecnologías y Herramientas
+
+### ☁️ Cloud & DevOps
 
 <div align="center">
+  ![Azure](https://img.shields.io/badge/azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge "Microsoft Azure")
+  ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white "Azure DevOps")
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "GitHub")
+  ![Terraform](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge "Terraform")
+  ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge "Kubernetes")
+  ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge "Docker")
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black "JavaScript")
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white "Node.js")
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
-![Terraform](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge "Terraform")
+### 🧠 Desarrollo Core & IA Generativa
 
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Studio Code")
-![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge "Kubernetes")
-![Azure](https://img.shields.io/badge/azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge "Microsoft Azure")
-![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge "Windows")
+<div align="center">
+  ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white "Inteligencia Artificial Generativa")
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white ".NET")
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white "Node.js")
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black "JavaScript")
+  ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge "Python")
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
+</div>
 
-![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge "Docker")
-![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge "Python")
-![PowerShell](https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=white&style=for-the-badge "PowerShell")
+### 🔧 Herramientas
 
+<div align="center">
+  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Studio Code")
+  ![PowerShell](https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=white&style=for-the-badge "PowerShell")
+  ![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge "Windows")
 </div>
 
 ---
