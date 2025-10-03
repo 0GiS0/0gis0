@@ -67,12 +67,10 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
-[![Cómo crear workflows de GitHub Actions - Tutorial completo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![La mejor forma de testear tu aplicación ➡️ Testcontainers 🧪📦 | Cap.16](https://img.youtube.com/vi/FxzMdSfhitE/maxresdefault.jpg)](https://www.youtube.com/watch?v=FxzMdSfhitE)
 
-### [Cómo crear workflows de GitHub Actions - Tutorial completo](https://www.youtube.com/@returngis)
-📅 15 de diciembre de 2024
-
-Aprende a automatizar tu workflow con GitHub Actions paso a paso
+### [La mejor forma de testear tu aplicación ➡️ Testcontainers 🧪📦 | Cap.16](https://www.youtube.com/watch?v=FxzMdSfhitE)
+📅 1 de octubre de 2025
 
 </div>
 
@@ -80,12 +78,10 @@ Aprende a automatizar tu workflow con GitHub Actions paso a paso
 
 <div align="center">
 
-[![Infraestructura como código con Terraform y Azure](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![🤖 Crea agentes de IA con solo un YAML ⚡ cagent explicado a fondo 🐙](https://img.youtube.com/vi/epBiyhp57bw/maxresdefault.jpg)](https://www.youtube.com/watch?v=epBiyhp57bw)
 
-### [Infraestructura como código con Terraform y Azure](https://www.youtube.com/@returngis)
-📅 8 de diciembre de 2024
-
-Domina Terraform para gestionar tu infraestructura en Azure
+### [🤖 Crea agentes de IA con solo un YAML ⚡ cagent explicado a fondo 🐙](https://www.youtube.com/watch?v=epBiyhp57bw)
+📅 24 de septiembre de 2025
 
 </div>
 
@@ -93,12 +89,10 @@ Domina Terraform para gestionar tu infraestructura en Azure
 
 <div align="center">
 
-[![Docker y Kubernetes para desarrolladores](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![🆕 Nueva pestaña en GitHub: Models para probar prompts GRATIS ✨](https://img.youtube.com/vi/CJtztZP1Wiw/maxresdefault.jpg)](https://www.youtube.com/watch?v=CJtztZP1Wiw)
 
-### [Docker y Kubernetes para desarrolladores](https://www.youtube.com/@returngis)
-📅 1 de diciembre de 2024
-
-Containeriza y orquesta tus aplicaciones como un profesional
+### [🆕 Nueva pestaña en GitHub: Models para probar prompts GRATIS ✨](https://www.youtube.com/watch?v=CJtztZP1Wiw)
+📅 17 de septiembre de 2025
 
 </div>
 
@@ -116,29 +110,16 @@ Containeriza y orquesta tus aplicaciones como un profesional
 
 <div align="center">
 
-[![Automatización CI/CD con GitHub Actions y Azure DevOps](https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation)](https://www.returngis.net)
+[![Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/Docker-Desktop-pestana-Models.png?resize=710%2C469&#038;ssl=1)](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
 
-### [Automatización CI/CD con GitHub Actions y Azure DevOps](https://www.returngis.net)
-📅 12 de diciembre de 2024
+### [Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
+📅 29 de septiembre de 2025
 
-Cómo implementar pipelines eficientes para tus proyectos con las mejores prácticas de la industria.
+¡Hola developer 👋🏻! Hace un tiempo te conté cómo conectar GitHub Copilot con modelos locales usando Ollama.Ahora, en la versión Insiders de Visual Studio Code, es posible enlazar modelos o providers que sean OpenAI Compatible. Así que me animé a probar si podía conectar Docker Model Runner con nuestro querido agente… ¡y lo conseguí! 😛 En este artículo te muestro cómo hacerlo paso a paso.... 
+Leer más
+La entrada Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot se publicó primero en return(GiS);.
 
-[**📖 Seguir leyendo...**](https://www.returngis.net)
-
-</div>
-
----
-
-<div align="center">
-
-[![Microservicios en Azure: Arquitectura y mejores prácticas](https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices)](https://www.returngis.net)
-
-### [Microservicios en Azure: Arquitectura y mejores prácticas](https://www.returngis.net)
-📅 5 de diciembre de 2024
-
-Diseña sistemas escalables y resilientes en la nube con patrones modernos de arquitectura.
-
-[**📖 Seguir leyendo...**](https://www.returngis.net)
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
 
 </div>
 
@@ -146,14 +127,33 @@ Diseña sistemas escalables y resilientes en la nube con patrones modernos de ar
 
 <div align="center">
 
-[![Monitoreo y observabilidad en aplicaciones modernas](https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability)](https://www.returngis.net)
+[![Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/Ollama-y-cagent.png?fit=1060%2C707&amp;ssl=1)](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
 
-### [Monitoreo y observabilidad en aplicaciones modernas](https://www.returngis.net)
-📅 28 de noviembre de 2024
+### [Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
+📅 21 de septiembre de 2025
 
-Herramientas y técnicas para mantener tus aplicaciones saludables y monitoreadas.
+¡Hola developer 👋🏻!Ayer publiqué cómo usar GitHub Models con cagent 🤖 y la verdad es que gustó bastante. Varixs me escribisteis preguntando si también se podía hacer con Ollama 🦙, para tirar de modelos locales sin complicarse demasiado. Así que aquí va: en este post dominguero te enseño la configuración para montar cagent + Ollama y ponerte a jugar con tus propios modelos en local... 
+Leer más
+La entrada Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖 se publicó primero en return(GiS);.
 
-[**📖 Seguir leyendo...**](https://www.returngis.net)
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Cómo usar 🤖 cagent 🤖 con GitHub Models](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/GitHub-Models-y-cagent-1.png?fit=700%2C700&amp;ssl=1)](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
+
+### [Cómo usar 🤖 cagent 🤖 con GitHub Models](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
+📅 19 de septiembre de 2025
+
+¡Hola developer 👋🏻! Ayer Docker publicó un artículo en el cual presentaban una nueva herramienta llamada cagent, la cual te permite de forma declarativa, muy al estilo Docker Compose, crear agentes … o multi-agentes que ahora está muy de moda 🤖. Si bien es cierto que en su documentación te cuentan cómo configurarlo con OpenAI, Anthropic, Docker Model Runner o Gemini, en este artículo te... 
+Leer más
+La entrada Cómo usar 🤖 cagent 🤖 con GitHub Models se publicó primero en return(GiS);.
+
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
 
 </div>
 
