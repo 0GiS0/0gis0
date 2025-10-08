@@ -64,6 +64,17 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
+[![Docker Compose + Model Runner 🐳: 🤖 Modelos y servicios en un solo YAML ⚙️ | Cap.17](https://img.youtube.com/vi/_tM7dlhYWnY/maxresdefault.jpg)](https://www.youtube.com/watch?v=_tM7dlhYWnY)
+
+### [Docker Compose + Model Runner 🐳: 🤖 Modelos y servicios en un solo YAML ⚙️ | Cap.17](https://www.youtube.com/watch?v=_tM7dlhYWnY)
+📅 8 de octubre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![La mejor forma de testear tu aplicación ➡️ Testcontainers 🧪📦 | Cap.16](https://img.youtube.com/vi/FxzMdSfhitE/maxresdefault.jpg)](https://www.youtube.com/watch?v=FxzMdSfhitE)
 
 ### [La mejor forma de testear tu aplicación ➡️ Testcontainers 🧪📦 | Cap.16](https://www.youtube.com/watch?v=FxzMdSfhitE)
@@ -79,17 +90,6 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 ### [🤖 Crea agentes de IA con solo un YAML ⚡ cagent explicado a fondo 🐙](https://www.youtube.com/watch?v=epBiyhp57bw)
 📅 24 de septiembre de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![🆕 Nueva pestaña en GitHub: Models para probar prompts GRATIS ✨](https://img.youtube.com/vi/CJtztZP1Wiw/maxresdefault.jpg)](https://www.youtube.com/watch?v=CJtztZP1Wiw)
-
-### [🆕 Nueva pestaña en GitHub: Models para probar prompts GRATIS ✨](https://www.youtube.com/watch?v=CJtztZP1Wiw)
-📅 17 de septiembre de 2025
 
 </div>
 
