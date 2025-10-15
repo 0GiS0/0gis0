@@ -64,6 +64,17 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
+[![LangChain 🦜 + Qdrant ⚡ con Routing inteligente para tu RAG | Cap. 12](https://img.youtube.com/vi/apVbAdnEIeg/maxresdefault.jpg)](https://www.youtube.com/watch?v=apVbAdnEIeg)
+
+### [LangChain 🦜 + Qdrant ⚡ con Routing inteligente para tu RAG | Cap. 12](https://www.youtube.com/watch?v=apVbAdnEIeg)
+📅 15 de octubre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![Docker Compose + Model Runner 🐳: 🤖 Modelos y servicios en un solo YAML ⚙️ | Cap.17](https://img.youtube.com/vi/_tM7dlhYWnY/maxresdefault.jpg)](https://www.youtube.com/watch?v=_tM7dlhYWnY)
 
 ### [Docker Compose + Model Runner 🐳: 🤖 Modelos y servicios en un solo YAML ⚙️ | Cap.17](https://www.youtube.com/watch?v=_tM7dlhYWnY)
@@ -86,17 +97,6 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
-[![🤖 Crea agentes de IA con solo un YAML ⚡ cagent explicado a fondo 🐙](https://img.youtube.com/vi/epBiyhp57bw/maxresdefault.jpg)](https://www.youtube.com/watch?v=epBiyhp57bw)
-
-### [🤖 Crea agentes de IA con solo un YAML ⚡ cagent explicado a fondo 🐙](https://www.youtube.com/watch?v=epBiyhp57bw)
-📅 24 de septiembre de 2025
-
-</div>
-
----
-
-<div align="center">
-
 [![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vídeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)
 
 </div>
@@ -104,6 +104,23 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 ---
 
 ## 📝 Mis últimos artículos en el blog
+
+<div align="center">
+
+[![Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/10/New-Incoming-WebHook-service-connection.png?resize=680%2C1024&#038;ssl=1)](https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/)
+
+### [Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item](https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/)
+📅 11 de octubre de 2025
+
+¡Hola developer 👋🏻! Estos días he estado experimentando con un escenario (todavía secreto 🤫) en el que necesitaba que, cada vez que se creara un nuevo Work Item en Azure Boards, se lanzara automáticamente un flujo en Azure Pipelines. Como no existe un trigger nativo para esto en Azure DevOps en este artículo quiero contarte cómo lo conseguí. 💡 El truco está en los WebHooks... 
+Leer más
+La entrada Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item se publicó primero en return(GiS);.
+
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/)
+
+</div>
+
+---
 
 <div align="center">
 
@@ -134,23 +151,6 @@ Leer más
 La entrada Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖 se publicó primero en return(GiS);.
 
 [**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
-
-</div>
-
----
-
-<div align="center">
-
-[![Cómo usar 🤖 cagent 🤖 con GitHub Models](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/GitHub-Models-y-cagent-1.png?fit=700%2C700&amp;ssl=1)](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
-
-### [Cómo usar 🤖 cagent 🤖 con GitHub Models](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
-📅 19 de septiembre de 2025
-
-¡Hola developer 👋🏻! Ayer Docker publicó un artículo en el cual presentaban una nueva herramienta llamada cagent, la cual te permite de forma declarativa, muy al estilo Docker Compose, crear agentes … o multi-agentes que ahora está muy de moda 🤖. Si bien es cierto que en su documentación te cuentan cómo configurarlo con OpenAI, Anthropic, Docker Model Runner o Gemini, en este artículo te... 
-Leer más
-La entrada Cómo usar 🤖 cagent 🤖 con GitHub Models se publicó primero en return(GiS);.
-
-[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-cagent-con-github-models/)
 
 </div>
 
