@@ -107,7 +107,7 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
-[![☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/10/Execute-in-WSL.png?resize=710%2C216&#038;ssl=1)](https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/)
+[![☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀](https://www.returngis.net/wp-content/uploads/2025/10/Java-Swing-contenerizado-scaled.png)](https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/)
 
 ### [☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀](https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/)
 📅 21 de octubre de 2025
@@ -124,7 +124,7 @@ La entrada ☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico�
 
 <div align="center">
 
-[![Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/10/New-Incoming-WebHook-service-connection.png?resize=680%2C1024&#038;ssl=1)](https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/)
+[![Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item](https://www.returngis.net/wp-content/uploads/2025/10/Como-ejecutar-un-flujo-de-Azure-Pipelines-cuando-se-crea-un-work-item.png)](https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/)
 
 ### [Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item](https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/)
 📅 11 de octubre de 2025
@@ -141,7 +141,7 @@ La entrada Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un wor
 
 <div align="center">
 
-[![Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/Docker-Desktop-pestana-Models.png?resize=710%2C469&#038;ssl=1)](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
+[![Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot](https://www.returngis.net/wp-content/uploads/2025/09/Ballena-de-docker-y-octocat-abrazandose.png)](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
 
 ### [Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
 📅 29 de septiembre de 2025
