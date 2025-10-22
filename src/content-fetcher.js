@@ -25,6 +25,7 @@ class ContentFetcher {
 
   async extractWordPressImage(item) {
     // Try multiple methods to extract WordPress featured image
+    // Priority: RSS feeds fields first, then Open Graph (featured image), then content fallback
     let thumbnail = null;
     
     // Method 1: WordPress media namespace (most reliable for WordPress)
@@ -36,23 +37,58 @@ class ContentFetcher {
         );
         if (imageContent && imageContent.$.url) {
           thumbnail = imageContent.$.url;
+          console.log(`Found media:content thumbnail: ${thumbnail}`);
         }
       } else if (item['media:content'].$ && item['media:content'].$.url) {
         thumbnail = item['media:content'].$.url;
+        console.log(`Found media:content thumbnail: ${thumbnail}`);
       }
     }
     
     // Method 2: WordPress thumbnail namespace
     if (!thumbnail && item['media:thumbnail'] && item['media:thumbnail'].$ && item['media:thumbnail'].$.url) {
       thumbnail = item['media:thumbnail'].$.url;
+      console.log(`Found media:thumbnail: ${thumbnail}`);
     }
     
     // Method 3: Check for WordPress featured image in custom fields
     if (!thumbnail && item['wp:featured_media']) {
       thumbnail = item['wp:featured_media'];
+      console.log(`Found wp:featured_media: ${thumbnail}`);
     }
     
-    // Method 4: Extract from content:encoded (WordPress full content)
+    // Method 4: Try to fetch Open Graph image from the article URL (featured image - high priority)
+    if (!thumbnail && item.link) {
+      try {
+        const response = await fetch(item.link);
+        const html = await response.text();
+        
+        // First priority: Open Graph image (this is the featured image in WordPress)
+        const ogImageMatch = html.match(/<meta[^>]+property="og:image"[^>]+content="([^">]+)"/i);
+        if (ogImageMatch) {
+          thumbnail = ogImageMatch[1];
+          console.log(`Found Open Graph image (featured image): ${thumbnail}`);
+        }
+        
+        // Second priority: Try to find featured-image div in the actual page
+        if (!thumbnail) {
+          const featuredImageMatch = html.match(/<div[^>]+class="[^"]*featured-image[^"]*"[^>]*>(.*?)<\/div>/is);
+          if (featuredImageMatch) {
+            const featuredImageContent = featuredImageMatch[1];
+            const imgMatch = featuredImageContent.match(/<img[^>]+src="([^">]+)"/);
+            if (imgMatch && !imgMatch[1].includes('emoji') && !imgMatch[1].includes('s.w.org')) {
+              thumbnail = imgMatch[1];
+              console.log(`Found featured-image div in page: ${thumbnail}`);
+            }
+          }
+        }
+      } catch (error) {
+        // Silently fail if we can't fetch the page
+        console.log(`Could not fetch page content for ${item.link}: ${error.message}`);
+      }
+    }
+    
+    // Method 5: Extract from content:encoded as fallback (WordPress full content)
     if (!thumbnail && item['content:encoded']) {
       // First, try to find image in featured-image div
       const featuredImageMatch = item['content:encoded'].match(/<div[^>]+class="[^"]*featured-image[^"]*"[^>]*>(.*?)<\/div>/is);
@@ -61,7 +97,7 @@ class ContentFetcher {
         const imgMatch = featuredImageContent.match(/<img[^>]+src="([^">]+)"/);
         if (imgMatch && !imgMatch[1].includes('emoji') && !imgMatch[1].includes('s.w.org')) {
           thumbnail = imgMatch[1];
-          console.log(`Found featured-image div thumbnail: ${thumbnail}`);
+          console.log(`Found featured-image div in content:encoded: ${thumbnail}`);
         }
       }
       
@@ -73,54 +109,11 @@ class ContentFetcher {
             const srcMatch = match.match(/src="([^">]+)"/);
             if (srcMatch && !srcMatch[1].includes('emoji') && !srcMatch[1].includes('s.w.org')) {
               thumbnail = srcMatch[1];
-              console.log(`Found non-emoji image in content: ${thumbnail}`);
+              console.log(`Found fallback image in content: ${thumbnail}`);
               break;
             }
           }
         }
-      }
-    }
-    
-    // Method 5: Try to fetch Open Graph image from the article URL
-    if (!thumbnail && item.link) {
-      try {
-        const response = await fetch(item.link);
-        const html = await response.text();
-        
-        // First, try to find featured-image div in the actual page
-        const featuredImageMatch = html.match(/<div[^>]+class="[^"]*featured-image[^"]*"[^>]*>(.*?)<\/div>/is);
-        if (featuredImageMatch) {
-          const featuredImageContent = featuredImageMatch[1];
-          const imgMatch = featuredImageContent.match(/<img[^>]+src="([^">]+)"/);
-          if (imgMatch && !imgMatch[1].includes('emoji') && !imgMatch[1].includes('s.w.org')) {
-            thumbnail = imgMatch[1];
-            console.log(`Found featured-image div in page: ${thumbnail}`);
-          }
-        }
-        
-        // Try to find other images with wp-content/uploads (typical WordPress uploads)
-        if (!thumbnail) {
-          const imgMatches = html.match(/<img[^>]+src="([^">]*wp-content\/uploads[^">]+)"/g);
-          if (imgMatches && imgMatches.length > 0) {
-            const srcMatch = imgMatches[0].match(/src="([^">]+)"/);
-            if (srcMatch) {
-              thumbnail = srcMatch[1];
-              console.log(`Found wp-content image: ${thumbnail}`);
-            }
-          }
-        }
-        
-        // If not found in featured-image div, try Open Graph
-        if (!thumbnail) {
-          const ogImageMatch = html.match(/<meta[^>]+property="og:image"[^>]+content="([^">]+)"/i);
-          if (ogImageMatch) {
-            thumbnail = ogImageMatch[1];
-            console.log(`Found Open Graph image: ${thumbnail}`);
-          }
-        }
-      } catch (error) {
-        // Silently fail if we can't fetch the page
-        console.log(`Could not fetch page content for ${item.link}: ${error.message}`);
       }
     }
     
