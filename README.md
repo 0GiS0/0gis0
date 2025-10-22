@@ -64,6 +64,17 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
+[![🚀 Lleva Azure DevOps al siguiente nivel con GitHub Copilot CLI 🤖](https://img.youtube.com/vi/ZS0LQA2_zZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZS0LQA2_zZQ)
+
+### [🚀 Lleva Azure DevOps al siguiente nivel con GitHub Copilot CLI 🤖](https://www.youtube.com/watch?v=ZS0LQA2_zZQ)
+📅 22 de octubre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![LangChain 🦜 + Qdrant ⚡ con Routing inteligente para tu RAG | Cap. 12](https://img.youtube.com/vi/apVbAdnEIeg/maxresdefault.jpg)](https://www.youtube.com/watch?v=apVbAdnEIeg)
 
 ### [LangChain 🦜 + Qdrant ⚡ con Routing inteligente para tu RAG | Cap. 12](https://www.youtube.com/watch?v=apVbAdnEIeg)
@@ -86,17 +97,6 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
-[![La mejor forma de testear tu aplicación ➡️ Testcontainers 🧪📦 | Cap.16](https://img.youtube.com/vi/FxzMdSfhitE/maxresdefault.jpg)](https://www.youtube.com/watch?v=FxzMdSfhitE)
-
-### [La mejor forma de testear tu aplicación ➡️ Testcontainers 🧪📦 | Cap.16](https://www.youtube.com/watch?v=FxzMdSfhitE)
-📅 1 de octubre de 2025
-
-</div>
-
----
-
-<div align="center">
-
 [![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vídeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)
 
 </div>
@@ -104,6 +104,23 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 ---
 
 ## 📝 Mis últimos artículos en el blog
+
+<div align="center">
+
+[![☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/10/Execute-in-WSL.png?resize=710%2C216&#038;ssl=1)](https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/)
+
+### [☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀](https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/)
+📅 21 de octubre de 2025
+
+¡Hola developer 👋🏼! En 1997 apareció la primera release de Java Swing, una forma genial de desarrollar aplicaciones de escritorio en este lenguaje.Pues bien, ¡han pasado 28 años y todavía sigue ocupando el corazoncito ❤️ de muchas empresas! En este artículo quiero compartir contigo cómo podemos contenerizar el entorno necesario para ejecutar este tipo de aplicaciones y levantarlas solo cuando lo necesitemos. Como podrás imaginar,... 
+Leer más
+La entrada ☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀 se publicó primero en return(GiS);.
+
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/)
+
+</div>
+
+---
 
 <div align="center">
 
@@ -134,23 +151,6 @@ Leer más
 La entrada Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot se publicó primero en return(GiS);.
 
 [**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
-
-</div>
-
----
-
-<div align="center">
-
-[![Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖](https://i0.wp.com/www.returngis.net/wp-content/uploads/2025/09/Ollama-y-cagent.png?fit=1060%2C707&amp;ssl=1)](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
-
-### [Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
-📅 21 de septiembre de 2025
-
-¡Hola developer 👋🏻!Ayer publiqué cómo usar GitHub Models con cagent 🤖 y la verdad es que gustó bastante. Varixs me escribisteis preguntando si también se podía hacer con Ollama 🦙, para tirar de modelos locales sin complicarse demasiado. Así que aquí va: en este post dominguero te enseño la configuración para montar cagent + Ollama y ponerte a jugar con tus propios modelos en local... 
-Leer más
-La entrada Cómo usar los modelos de Ollama 🦙 con  🤖cagent🤖 se publicó primero en return(GiS);.
-
-[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-los-modelos-de-ollama-con-cagent/)
 
 </div>
 
