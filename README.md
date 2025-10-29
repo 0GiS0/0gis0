@@ -64,6 +64,17 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
+[![🛠️ Depura Dockerfiles con VS Code: ¡añade breakpoints paso a paso! 🐳 | Cap.18](https://img.youtube.com/vi/vxGMUK-vU-0/maxresdefault.jpg)](https://www.youtube.com/watch?v=vxGMUK-vU-0)
+
+### [🛠️ Depura Dockerfiles con VS Code: ¡añade breakpoints paso a paso! 🐳 | Cap.18](https://www.youtube.com/watch?v=vxGMUK-vU-0)
+📅 29 de octubre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![🚀 Lleva Azure DevOps al siguiente nivel con GitHub Copilot CLI 🤖](https://img.youtube.com/vi/ZS0LQA2_zZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZS0LQA2_zZQ)
 
 ### [🚀 Lleva Azure DevOps al siguiente nivel con GitHub Copilot CLI 🤖](https://www.youtube.com/watch?v=ZS0LQA2_zZQ)
@@ -79,17 +90,6 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 ### [LangChain 🦜 + Qdrant ⚡ con Routing inteligente para tu RAG | Cap. 12](https://www.youtube.com/watch?v=apVbAdnEIeg)
 📅 15 de octubre de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![Docker Compose + Model Runner 🐳: 🤖 Modelos y servicios en un solo YAML ⚙️ | Cap.17](https://img.youtube.com/vi/_tM7dlhYWnY/maxresdefault.jpg)](https://www.youtube.com/watch?v=_tM7dlhYWnY)
-
-### [Docker Compose + Model Runner 🐳: 🤖 Modelos y servicios en un solo YAML ⚙️ | Cap.17](https://www.youtube.com/watch?v=_tM7dlhYWnY)
-📅 8 de octubre de 2025
 
 </div>
 
