@@ -64,6 +64,17 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
+[![¡GitHub Copilot se vuelve personalizable! Custom Agents explicados ⚙️🤯](https://img.youtube.com/vi/5VchzuK6wTk/maxresdefault.jpg)](https://www.youtube.com/watch?v=5VchzuK6wTk)
+
+### [¡GitHub Copilot se vuelve personalizable! Custom Agents explicados ⚙️🤯](https://www.youtube.com/watch?v=5VchzuK6wTk)
+📅 5 de noviembre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![🛠️ Depura Dockerfiles con VS Code: ¡añade breakpoints paso a paso! 🐳 | Cap.18](https://img.youtube.com/vi/vxGMUK-vU-0/maxresdefault.jpg)](https://www.youtube.com/watch?v=vxGMUK-vU-0)
 
 ### [🛠️ Depura Dockerfiles con VS Code: ¡añade breakpoints paso a paso! 🐳 | Cap.18](https://www.youtube.com/watch?v=vxGMUK-vU-0)
@@ -79,17 +90,6 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 ### [🚀 Lleva Azure DevOps al siguiente nivel con GitHub Copilot CLI 🤖](https://www.youtube.com/watch?v=ZS0LQA2_zZQ)
 📅 22 de octubre de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![LangChain 🦜 + Qdrant ⚡ con Routing inteligente para tu RAG | Cap. 12](https://img.youtube.com/vi/apVbAdnEIeg/maxresdefault.jpg)](https://www.youtube.com/watch?v=apVbAdnEIeg)
-
-### [LangChain 🦜 + Qdrant ⚡ con Routing inteligente para tu RAG | Cap. 12](https://www.youtube.com/watch?v=apVbAdnEIeg)
-📅 15 de octubre de 2025
 
 </div>
 
