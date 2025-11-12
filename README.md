@@ -64,6 +64,17 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
+[![💥 ¿Sabías que puedes usar Custom Agents de GitHub Copilot en todos estos sitios? 🤖](https://img.youtube.com/vi/vu4LooPm11c/maxresdefault.jpg)](https://www.youtube.com/watch?v=vu4LooPm11c)
+
+### [💥 ¿Sabías que puedes usar Custom Agents de GitHub Copilot en todos estos sitios? 🤖](https://www.youtube.com/watch?v=vu4LooPm11c)
+📅 12 de noviembre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![¡GitHub Copilot se vuelve personalizable! Custom Agents explicados ⚙️🤯](https://img.youtube.com/vi/5VchzuK6wTk/maxresdefault.jpg)](https://www.youtube.com/watch?v=5VchzuK6wTk)
 
 ### [¡GitHub Copilot se vuelve personalizable! Custom Agents explicados ⚙️🤯](https://www.youtube.com/watch?v=5VchzuK6wTk)
@@ -79,17 +90,6 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 ### [🛠️ Depura Dockerfiles con VS Code: ¡añade breakpoints paso a paso! 🐳 | Cap.18](https://www.youtube.com/watch?v=vxGMUK-vU-0)
 📅 29 de octubre de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![🚀 Lleva Azure DevOps al siguiente nivel con GitHub Copilot CLI 🤖](https://img.youtube.com/vi/ZS0LQA2_zZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZS0LQA2_zZQ)
-
-### [🚀 Lleva Azure DevOps al siguiente nivel con GitHub Copilot CLI 🤖](https://www.youtube.com/watch?v=ZS0LQA2_zZQ)
-📅 22 de octubre de 2025
 
 </div>
 
