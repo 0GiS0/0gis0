@@ -64,6 +64,17 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
+[![⭐ ¿Sabías esto de Docker Desktop? 🐳✨ Exporta e importa volúmenes | Cap. 19](https://img.youtube.com/vi/AQZbYrGCiVU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AQZbYrGCiVU)
+
+### [⭐ ¿Sabías esto de Docker Desktop? 🐳✨ Exporta e importa volúmenes | Cap. 19](https://www.youtube.com/watch?v=AQZbYrGCiVU)
+📅 19 de noviembre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![💥 ¿Sabías que puedes usar Custom Agents de GitHub Copilot en todos estos sitios? 🤖](https://img.youtube.com/vi/vu4LooPm11c/maxresdefault.jpg)](https://www.youtube.com/watch?v=vu4LooPm11c)
 
 ### [💥 ¿Sabías que puedes usar Custom Agents de GitHub Copilot en todos estos sitios? 🤖](https://www.youtube.com/watch?v=vu4LooPm11c)
@@ -79,17 +90,6 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 ### [¡GitHub Copilot se vuelve personalizable! Custom Agents explicados ⚙️🤯](https://www.youtube.com/watch?v=5VchzuK6wTk)
 📅 5 de noviembre de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![🛠️ Depura Dockerfiles con VS Code: ¡añade breakpoints paso a paso! 🐳 | Cap.18](https://img.youtube.com/vi/vxGMUK-vU-0/maxresdefault.jpg)](https://www.youtube.com/watch?v=vxGMUK-vU-0)
-
-### [🛠️ Depura Dockerfiles con VS Code: ¡añade breakpoints paso a paso! 🐳 | Cap.18](https://www.youtube.com/watch?v=vxGMUK-vU-0)
-📅 29 de octubre de 2025
 
 </div>
 
