@@ -64,6 +64,17 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
+[![Crea tu Marketplace Privado de VS Code en Local 🔒🧩 ¡Paso a paso!](https://img.youtube.com/vi/5HF35Ty9Wsw/maxresdefault.jpg)](https://www.youtube.com/watch?v=5HF35Ty9Wsw)
+
+### [Crea tu Marketplace Privado de VS Code en Local 🔒🧩 ¡Paso a paso!](https://www.youtube.com/watch?v=5HF35Ty9Wsw)
+📅 26 de noviembre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![⭐ ¿Sabías esto de Docker Desktop? 🐳✨ Exporta e importa volúmenes | Cap. 19](https://img.youtube.com/vi/AQZbYrGCiVU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AQZbYrGCiVU)
 
 ### [⭐ ¿Sabías esto de Docker Desktop? 🐳✨ Exporta e importa volúmenes | Cap. 19](https://www.youtube.com/watch?v=AQZbYrGCiVU)
@@ -79,17 +90,6 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 ### [💥 ¿Sabías que puedes usar Custom Agents de GitHub Copilot en todos estos sitios? 🤖](https://www.youtube.com/watch?v=vu4LooPm11c)
 📅 12 de noviembre de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![¡GitHub Copilot se vuelve personalizable! Custom Agents explicados ⚙️🤯](https://img.youtube.com/vi/5VchzuK6wTk/maxresdefault.jpg)](https://www.youtube.com/watch?v=5VchzuK6wTk)
-
-### [¡GitHub Copilot se vuelve personalizable! Custom Agents explicados ⚙️🤯](https://www.youtube.com/watch?v=5VchzuK6wTk)
-📅 5 de noviembre de 2025
 
 </div>
 
