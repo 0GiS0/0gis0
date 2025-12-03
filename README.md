@@ -64,6 +64,17 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
+[![Docker Debug 🔍 La forma más fácil de depurar contenedores e imágenes 🐳 | Cap.20](https://img.youtube.com/vi/GTBNOs_JXRU/maxresdefault.jpg)](https://www.youtube.com/watch?v=GTBNOs_JXRU)
+
+### [Docker Debug 🔍 La forma más fácil de depurar contenedores e imágenes 🐳 | Cap.20](https://www.youtube.com/watch?v=GTBNOs_JXRU)
+📅 3 de diciembre de 2025
+
+</div>
+
+---
+
+<div align="center">
+
 [![Crea tu Marketplace Privado de VS Code en Local 🔒🧩 ¡Paso a paso!](https://img.youtube.com/vi/5HF35Ty9Wsw/maxresdefault.jpg)](https://www.youtube.com/watch?v=5HF35Ty9Wsw)
 
 ### [Crea tu Marketplace Privado de VS Code en Local 🔒🧩 ¡Paso a paso!](https://www.youtube.com/watch?v=5HF35Ty9Wsw)
@@ -79,17 +90,6 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 ### [⭐ ¿Sabías esto de Docker Desktop? 🐳✨ Exporta e importa volúmenes | Cap. 19](https://www.youtube.com/watch?v=AQZbYrGCiVU)
 📅 19 de noviembre de 2025
-
-</div>
-
----
-
-<div align="center">
-
-[![💥 ¿Sabías que puedes usar Custom Agents de GitHub Copilot en todos estos sitios? 🤖](https://img.youtube.com/vi/vu4LooPm11c/maxresdefault.jpg)](https://www.youtube.com/watch?v=vu4LooPm11c)
-
-### [💥 ¿Sabías que puedes usar Custom Agents de GitHub Copilot en todos estos sitios? 🤖](https://www.youtube.com/watch?v=vu4LooPm11c)
-📅 12 de noviembre de 2025
 
 </div>
 
