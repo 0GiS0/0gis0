@@ -159,18 +159,18 @@ ${blogSection}---
 <div align="center">
   
   <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0gis0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&title_color=0078D4&icon_color=0078D4" alt="Estadísticas de GitHub de Gisela Torres" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0gis0&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=default&title_color=0078D4" alt="Lenguajes más usados por Gisela Torres" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0GiS0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&title_color=0078D4&icon_color=0078D4" alt="Estadísticas de GitHub de Gisela Torres" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0GiS0&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=default&title_color=0078D4" alt="Lenguajes más usados por Gisela Torres" />
   
   <br/><br/>
   
   <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=0gis0&hide_border=true&ring=0078D4&fire=FF6B35&currStreakLabel=0078D4" alt="GitHub Streak Stats de Gisela Torres" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=0GiS0&hide_border=true&ring=0078D4&fire=FF6B35&currStreakLabel=0078D4" alt="GitHub Streak Stats de Gisela Torres" />
   
   <br/><br/>
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0gis0&theme=github-light&hide_border=true&area=true&area_color=0078D4&line=0078D4&point=FF6B35" alt="Gráfico de actividad de GitHub de Gisela Torres" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0GiS0&theme=github-light&hide_border=true&area=true&area_color=0078D4&line=0078D4&point=FF6B35" alt="Gráfico de actividad de GitHub de Gisela Torres" width="95%"/>
 
 </div>
 
