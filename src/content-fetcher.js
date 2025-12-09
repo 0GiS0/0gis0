@@ -161,21 +161,21 @@ class ContentFetcher {
         link: "https://www.youtube.com/@returngis",
         publishDate: "15 de diciembre de 2024",
         description: "Aprende a automatizar tu workflow con GitHub Actions paso a paso",
-        thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+        thumbnail: "https://via.placeholder.com/1280x720/FF0000/ffffff?text=GitHub+Actions+Tutorial"
       },
       {
         title: "Infraestructura como código con Terraform y Azure",
         link: "https://www.youtube.com/@returngis",
         publishDate: "8 de diciembre de 2024",
         description: "Domina Terraform para gestionar tu infraestructura en Azure",
-        thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+        thumbnail: "https://via.placeholder.com/1280x720/0078D4/ffffff?text=Terraform+%26+Azure"
       },
       {
         title: "Docker y Kubernetes para desarrolladores",
         link: "https://www.youtube.com/@returngis",
         publishDate: "1 de diciembre de 2024",
         description: "Containeriza y orquesta tus aplicaciones como un profesional",
-        thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+        thumbnail: "https://via.placeholder.com/1280x720/2496ED/ffffff?text=Docker+%26+Kubernetes"
       }
     ];
   }

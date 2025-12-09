@@ -48,7 +48,7 @@ async function updateReadme() {
 - [🏆 GitHub Trophies](#-github-trophies)
 - [⚡ Fun Facts](#-fun-facts)
 - [🥰 Mis Intereses](#-mis-intereses)
-- [✉️ Contacto](#️-contacto)
+- [✉️ Contacto](#-conecta-conmigo)
 
 ---
 

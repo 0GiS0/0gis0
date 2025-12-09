@@ -29,7 +29,7 @@
 - [🏆 GitHub Trophies](#-github-trophies)
 - [⚡ Fun Facts](#-fun-facts)
 - [🥰 Mis Intereses](#-mis-intereses)
-- [✉️ Contacto](#️-contacto)
+- [✉️ Contacto](#-conecta-conmigo)
 
 ---
 
@@ -107,7 +107,7 @@ const gisela = {
 
 <div align="center">
 
-[![Cómo crear workflows de GitHub Actions - Tutorial completo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![Cómo crear workflows de GitHub Actions - Tutorial completo](https://via.placeholder.com/1280x720/FF0000/ffffff?text=GitHub+Actions+Tutorial)](https://www.youtube.com/@returngis)
 
 ### [Cómo crear workflows de GitHub Actions - Tutorial completo](https://www.youtube.com/@returngis)
 📅 15 de diciembre de 2024
@@ -120,7 +120,7 @@ Aprende a automatizar tu workflow con GitHub Actions paso a paso
 
 <div align="center">
 
-[![Infraestructura como código con Terraform y Azure](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![Infraestructura como código con Terraform y Azure](https://via.placeholder.com/1280x720/0078D4/ffffff?text=Terraform+%26+Azure)](https://www.youtube.com/@returngis)
 
 ### [Infraestructura como código con Terraform y Azure](https://www.youtube.com/@returngis)
 📅 8 de diciembre de 2024
@@ -133,7 +133,7 @@ Domina Terraform para gestionar tu infraestructura en Azure
 
 <div align="center">
 
-[![Docker y Kubernetes para desarrolladores](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![Docker y Kubernetes para desarrolladores](https://via.placeholder.com/1280x720/2496ED/ffffff?text=Docker+%26+Kubernetes)](https://www.youtube.com/@returngis)
 
 ### [Docker y Kubernetes para desarrolladores](https://www.youtube.com/@returngis)
 📅 1 de diciembre de 2024
