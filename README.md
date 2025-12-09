@@ -107,6 +107,23 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 
 <div align="center">
 
+[![Cómo probar tu aplicación con Vue en GitHub Pages](https://www.returngis.net/wp-content/uploads/2025/12/Octocat-y-Vue.png)](https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/)
+
+### [Cómo probar tu aplicación con Vue en GitHub Pages](https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/)
+📅 4 de diciembre de 2025
+
+¡Hola developer 👋🏼! Estos días he estado jugando con Vue (otra vez sí… 💚😅) para una demo rápida y quería tener la aplicación desplegada en algún sitio sin montar un entorno complejo, sin configurar infraestructura y, sobre todo, sin invertir demasiado tiempo. Después de darle una vuelta, pensé: ¿por qué no tirar de algo sencillo que ya tengo disponible?Y así volvió a mi mente un... 
+Leer más
+La entrada Cómo probar tu aplicación con Vue en GitHub Pages se publicó primero en return(GiS);.
+
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/)
+
+</div>
+
+---
+
+<div align="center">
+
 [![☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀](https://www.returngis.net/wp-content/uploads/2025/10/Java-Swing-contenerizado-scaled.png)](https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/)
 
 ### [☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀](https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/)
@@ -134,23 +151,6 @@ Leer más
 La entrada Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item se publicó primero en return(GiS);.
 
 [**📖 Seguir leyendo...**](https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/)
-
-</div>
-
----
-
-<div align="center">
-
-[![Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot](https://www.returngis.net/wp-content/uploads/2025/09/Ballena-de-docker-y-octocat-abrazandose.png)](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
-
-### [Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
-📅 29 de septiembre de 2025
-
-¡Hola developer 👋🏻! Hace un tiempo te conté cómo conectar GitHub Copilot con modelos locales usando Ollama.Ahora, en la versión Insiders de Visual Studio Code, es posible enlazar modelos o providers que sean OpenAI Compatible. Así que me animé a probar si podía conectar Docker Model Runner con nuestro querido agente… ¡y lo conseguí! 😛 En este artículo te muestro cómo hacerlo paso a paso.... 
-Leer más
-La entrada Cómo usar modelos de Docker Model Runner 🐳 en GitHub Copilot se publicó primero en return(GiS);.
-
-[**📖 Seguir leyendo...**](https://www.returngis.net/2025/09/como-usar-modelos-de-docker-model-runner-en-github-copilot/)
 
 </div>
 
