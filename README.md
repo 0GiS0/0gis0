@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Header con animación de typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Gisela+Torres+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Global+Blackbelt+%40Microsoft;Creadora+de+contenido+tech+%F0%9F%8E%A5;Apasionada+del+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=%C2%A1Hola!%20Soy%20Gisela%20Torres%20%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software%20Global%20Blackbelt%20%40Microsoft;Creadora%20de%20contenido%20tech%20%F0%9F%8E%A5;Apasionada%20del%20Cloud%20%26%20DevOps%20%E2%98%81%EF%B8%8F" alt="Typing SVG" />
   
   <br/>
   
