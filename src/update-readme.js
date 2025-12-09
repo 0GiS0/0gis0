@@ -1,6 +1,28 @@
 const fs = require('fs');
 const ContentFetcher = require('./content-fetcher');
 
+// Typing animation configuration
+const TYPING_SVG_CONFIG = {
+  font: 'Fira+Code',
+  weight: 600,
+  size: 28,
+  duration: 3000,
+  pause: 1000,
+  color: '0078D4',
+  width: 600,
+  lines: [
+    '¡Hola! Soy Gisela Torres 👩🏻‍💻',
+    'Software Global Blackbelt @Microsoft',
+    'Creadora de contenido tech 🎥',
+    'Apasionada del Cloud & DevOps ☁️'
+  ]
+};
+
+function buildTypingSvgUrl(config) {
+  const encodedLines = config.lines.map(line => encodeURIComponent(line)).join(';');
+  return `https://readme-typing-svg.herokuapp.com?font=${config.font}&weight=${config.weight}&size=${config.size}&duration=${config.duration}&pause=${config.pause}&color=${config.color}&center=true&vCenter=true&width=${config.width}&lines=${encodedLines}`;
+}
+
 async function updateReadme() {
   console.log('🚀 Iniciando actualización del README...\n');
   
@@ -16,11 +38,14 @@ async function updateReadme() {
   const videoSection = fetcher.generateVideoSection(videos);
   const blogSection = fetcher.generateBlogSection(posts);
   
+  // Build typing SVG URL
+  const typingSvgUrl = buildTypingSvgUrl(TYPING_SVG_CONFIG);
+  
   // Create README template
   const readme = `<div align="center">
   
   <!-- Header con animación de typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Gisela+Torres+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Global+Blackbelt+%40Microsoft;Creadora+de+contenido+tech+%F0%9F%8E%A5;Apasionada+del+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="${typingSvgUrl}" alt="Typing SVG" />
   
   <br/>
   
