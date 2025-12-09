@@ -314,21 +314,27 @@ class ContentFetcher {
     }
 
     let section = '\n## 🎥 Mis últimos vídeos en YouTube\n\n';
+    section += '<div align="center">\n\n';
+    section += '<table>\n<tr>\n';
     
     videos.forEach(video => {
-      section += `<div align="center">\n\n`;
-      if (video.thumbnail) {
-        section += `[![${video.title}](${video.thumbnail})](${video.link})\n\n`;
+      // Use medium quality thumbnail (320x180) instead of maxresdefault for compact display
+      const smallThumbnail = video.thumbnail ? video.thumbnail.replace('maxresdefault.jpg', 'mqdefault.jpg') : null;
+      
+      section += `<td align="center" width="33%">\n`;
+      if (smallThumbnail) {
+        section += `<a href="${video.link}">\n`;
+        section += `<img src="${smallThumbnail}" alt="${video.title}" width="280"/>\n`;
+        section += `</a>\n`;
       }
-      section += `### [${video.title}](${video.link})\n`;
-      section += `📅 ${video.publishDate}\n\n`;
-      if (video.description) {
-        section += `${video.description}\n\n`;
-      }
-      section += `</div>\n\n---\n\n`;
+      section += `<br/>\n`;
+      section += `<a href="${video.link}"><strong>${video.title}</strong></a>\n`;
+      section += `<br/>\n`;
+      section += `<sub>📅 ${video.publishDate}</sub>\n`;
+      section += `</td>\n`;
     });
     
-    section += '<div align="center">\n\n';
+    section += '</tr>\n</table>\n\n';
     section += '[![YouTube Channel](https://img.shields.io/badge/Ver%20todos%20los%20vídeos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis)\n\n';
     section += '</div>\n\n';
     
@@ -341,22 +347,24 @@ class ContentFetcher {
     }
 
     let section = '\n## 📝 Mis últimos artículos en el blog\n\n';
+    section += '<div align="center">\n\n';
+    section += '<table>\n<tr>\n';
     
     posts.forEach(post => {
-      section += `<div align="center">\n\n`;
+      section += `<td align="center" width="33%">\n`;
       if (post.thumbnail) {
-        section += `[![${post.title}](${post.thumbnail})](${post.link})\n\n`;
+        section += `<a href="${post.link}">\n`;
+        section += `<img src="${post.thumbnail}" alt="${post.title}" width="280" height="158"/>\n`;
+        section += `</a>\n`;
       }
-      section += `### [${post.title}](${post.link})\n`;
-      section += `📅 ${post.publishDate}\n\n`;
-      if (post.description) {
-        section += `${post.description}\n\n`;
-        section += `[**📖 Seguir leyendo...**](${post.link})\n\n`;
-      }
-      section += `</div>\n\n---\n\n`;
+      section += `<br/>\n`;
+      section += `<a href="${post.link}"><strong>${post.title}</strong></a>\n`;
+      section += `<br/>\n`;
+      section += `<sub>📅 ${post.publishDate}</sub>\n`;
+      section += `</td>\n`;
     });
     
-    section += '<div align="center">\n\n';
+    section += '</tr>\n</table>\n\n';
     section += '[![Blog](https://img.shields.io/badge/Ver%20todos%20los%20artículos-339933?style=for-the-badge&logo=github-pages&logoColor=white)](https://www.returngis.net)\n\n';
     section += '</div>\n\n';
     
