@@ -21,8 +21,10 @@ async function updateReadme() {
   
   <h1>¡Hola! Soy Gisela Torres 👩🏻‍💻</h1>
   
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand animation">
-  <p>¡Bienvenid@ a mi trocito de GitHub! 🤓</p>
+  <p>DevRel en Microsoft ayudando a developers a construir, automatizar y disfrutar la tecnología con historias reales.</p>
+  <p><strong>Contenido nuevo cada miércoles a las 10:00 AM (CE(S)T)</strong></p>
+  
+  <img src="assets/profile-preview.png" alt="Resumen visual de return(GiS) con vídeos, artículos y comunidad" width="100%">
 
 <div align="center">
 
@@ -37,13 +39,31 @@ async function updateReadme() {
 
 ---
 
-## 🤔 ¿Quién soy?
+## 👋 Presentación
 
-Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como **Software Global Blackbelt** 🫶🏻. Mi misión es técnica: ayudar a los developers a ser más felices 🥲 y productivos 👩🏻‍💻 a través de la tecnología. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
-
-📅 **¡Nuevo contenido cada miércoles a las 10:00 AM (CEST)!** 📅
+Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como **Software Global Blackbelt** 🫶🏻. Mi misión es técnica: ayudar a los developers a ser más felices y productivos a través de la tecnología. Comparto todo lo que aprendo en [return(GiS);](https://www.returngis.net) y en YouTube [return(GiS);](https://www.youtube.com/@returngis) 🎥🍿.
 
 ---
+
+## 🔎 En resumen
+- Historias prácticas sobre Cloud, IA generativa y DevOps aplicadas en proyectos reales.
+- Mentoring y tooling para que tu equipo entregue software con más calidad y menos fricción.
+- Comunidad activa: charlas, demos y contenido que aterriza conceptos complejos.
+
+> Nota importante: este README se actualiza automáticamente cada miércoles con los últimos vídeos y artículos (GitHub Actions + Node.js).
+
+---
+
+## ✨ Highlights rápidos
+- Últimos episodios y posts siempre listos gracias a la automatización semanal.
+- Enfoque “hands-on”: pipelines, infraestructura como código y observabilidad con ejemplos reales.
+- De la pizarra al código: guías breves, snippets y referencias para que puedas replicar lo que cuento.
+
+---
+
+## 🆕 Contenido reciente
+${videoSection}---
+${blogSection}---
 
 ## 🛠️ Stack de Tecnologías y Herramientas
 
@@ -78,8 +98,6 @@ Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como
 </div>
 
 ---
-${videoSection}---
-${blogSection}---
 
 ## 🚀 Proyectos destacados
 
@@ -142,7 +160,7 @@ ${blogSection}---
 
 💡 **¡Nuevo contenido cada miércoles!** 💡
 
-*Este README se actualiza automáticamente con mis últimos vídeos y artículos*
+*Este README se actualiza automáticamente con mis últimos vídeos y artículos.*
 
 </div>`;
 
