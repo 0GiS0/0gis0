@@ -86,31 +86,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@returngis">
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg" alt="Cómo crear workflows de GitHub Actions - Tutorial completo" width="280"/>
+<a href="https://www.youtube.com/watch?v=GTBNOs_JXRU">
+<img src="https://img.youtube.com/vi/GTBNOs_JXRU/mqdefault.jpg" alt="Docker Debug 🔍 La forma más fácil de depurar contenedores e imágenes 🐳 | Cap.20" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/@returngis"><strong>Cómo crear workflows de GitHub Actions - Tutorial completo</strong></a>
+<a href="https://www.youtube.com/watch?v=GTBNOs_JXRU"><strong>Docker Debug 🔍 La forma más fácil de depurar contenedores e imágenes 🐳 | Cap.20</strong></a>
 <br/>
-<sub>📅 15 de diciembre de 2024</sub>
+<sub>📅 3 de diciembre de 2025</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@returngis">
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg" alt="Infraestructura como código con Terraform y Azure" width="280"/>
+<a href="https://www.youtube.com/watch?v=5HF35Ty9Wsw">
+<img src="https://img.youtube.com/vi/5HF35Ty9Wsw/mqdefault.jpg" alt="Crea tu Marketplace Privado de VS Code en Local 🔒🧩 ¡Paso a paso!" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/@returngis"><strong>Infraestructura como código con Terraform y Azure</strong></a>
+<a href="https://www.youtube.com/watch?v=5HF35Ty9Wsw"><strong>Crea tu Marketplace Privado de VS Code en Local 🔒🧩 ¡Paso a paso!</strong></a>
 <br/>
-<sub>📅 8 de diciembre de 2024</sub>
+<sub>📅 26 de noviembre de 2025</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@returngis">
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg" alt="Docker y Kubernetes para desarrolladores" width="280"/>
+<a href="https://www.youtube.com/watch?v=AQZbYrGCiVU">
+<img src="https://img.youtube.com/vi/AQZbYrGCiVU/mqdefault.jpg" alt="⭐ ¿Sabías esto de Docker Desktop? 🐳✨ Exporta e importa volúmenes | Cap. 19" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/@returngis"><strong>Docker y Kubernetes para desarrolladores</strong></a>
+<a href="https://www.youtube.com/watch?v=AQZbYrGCiVU"><strong>⭐ ¿Sabías esto de Docker Desktop? 🐳✨ Exporta e importa volúmenes | Cap. 19</strong></a>
 <br/>
-<sub>📅 1 de diciembre de 2024</sub>
+<sub>📅 19 de noviembre de 2025</sub>
 </td>
 </tr>
 </table>
@@ -128,31 +128,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.returngis.net">
-<img src="https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation" alt="Automatización CI/CD con GitHub Actions y Azure DevOps" width="280" height="158"/>
+<a href="https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/">
+<img src="https://www.returngis.net/wp-content/uploads/2025/12/Octocat-y-Vue.png" alt="Cómo probar tu aplicación con Vue en GitHub Pages" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net"><strong>Automatización CI/CD con GitHub Actions y Azure DevOps</strong></a>
+<a href="https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/"><strong>Cómo probar tu aplicación con Vue en GitHub Pages</strong></a>
 <br/>
-<sub>📅 12 de diciembre de 2024</sub>
+<sub>📅 4 de diciembre de 2025</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net">
-<img src="https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices" alt="Microservicios en Azure: Arquitectura y mejores prácticas" width="280" height="158"/>
+<a href="https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/">
+<img src="https://www.returngis.net/wp-content/uploads/2025/10/Java-Swing-contenerizado-scaled.png" alt="☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net"><strong>Microservicios en Azure: Arquitectura y mejores prácticas</strong></a>
+<a href="https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/"><strong>☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀</strong></a>
 <br/>
-<sub>📅 5 de diciembre de 2024</sub>
+<sub>📅 21 de octubre de 2025</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net">
-<img src="https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability" alt="Monitoreo y observabilidad en aplicaciones modernas" width="280" height="158"/>
+<a href="https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/">
+<img src="https://www.returngis.net/wp-content/uploads/2025/10/Como-ejecutar-un-flujo-de-Azure-Pipelines-cuando-se-crea-un-work-item.png" alt="Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net"><strong>Monitoreo y observabilidad en aplicaciones modernas</strong></a>
+<a href="https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/"><strong>Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item</strong></a>
 <br/>
-<sub>📅 28 de noviembre de 2024</sub>
+<sub>📅 11 de octubre de 2025</sub>
 </td>
 </tr>
 </table>
