@@ -19,29 +19,72 @@ async function updateReadme() {
   // Create README template
   const readme = `<div align="center">
   
-  <h1>¡Hola! Soy Gisela Torres 👩🏻‍💻</h1>
+  <!-- Banner/Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:339933,100:0078D4&height=200&section=header&text=Gisela%20Torres&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Global%20Blackbelt%20%7C%20Microsoft%20%7C%20Content%20Creator&descAlignY=55&descSize=20" alt="Header banner" />
   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand animation">
-  <p>¡Bienvenid@ a mi trocito de GitHub! 🤓</p>
+  <h3>¡Bienvenid@ a mi trocito de GitHub! 🤓</h3>
 
-<div align="center">
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC140iBrEZbOtvxWsJ-Tb0lQ?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://www.youtube.com/c/GiselaTorres?sub_confirmation=1)
-[![GitHub followers](https://img.shields.io/github/followers/0GiS0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0GiS0)
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Sígueme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselatorresbuitrago/)
-[![X Follow](https://img.shields.io/badge/X-Sígueme-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0GiS0)
-
-</div>
+  <!-- Social Badges -->
+  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC140iBrEZbOtvxWsJ-Tb0lQ?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://www.youtube.com/c/GiselaTorres?sub_confirmation=1)
+  [![GitHub followers](https://img.shields.io/github/followers/0GiS0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0GiS0)
+  [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Sígueme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselatorresbuitrago/)
+  [![X Follow](https://img.shields.io/badge/X-Sígueme-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0GiS0)
+  [![Profile Views](https://komarev.com/ghpvc/?username=0gis0&label=Visitas%20al%20perfil&color=339933&style=for-the-badge)](https://github.com/0GiS0)
 
 </div>
 
 ---
 
+## 📖 Tabla de Contenidos
+
+- [🤔 ¿Quién soy?](#-quién-soy)
+- [💼 Experiencia](#-experiencia)
+- [🛠️ Stack de Tecnologías](#️-stack-de-tecnologías-y-herramientas)
+- [🎥 Últimos Vídeos](#-mis-últimos-vídeos-en-youtube)
+- [📝 Últimos Artículos](#-mis-últimos-artículos-en-el-blog)
+- [🚀 Proyectos Destacados](#-proyectos-destacados)
+- [📊 Estadísticas](#-mis-estadísticas)
+- [🏆 GitHub Trophies](#-github-trophies)
+- [⚡ Fun Facts](#-fun-facts)
+- [🥰 Mis Intereses](#-mis-intereses)
+- [✉️ Contacto](#️-contacto)
+
+---
+
 ## 🤔 ¿Quién soy?
 
-Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como **Software Global Blackbelt** 🫶🏻. Mi misión es técnica: ayudar a los developers a ser más felices 🥲 y productivos 👩🏻‍💻 a través de la tecnología. Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y ahora también en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿.
+<img align="right" alt="Coding gif" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-📅 **¡Nuevo contenido cada miércoles a las 10:00 AM (CEST)!** 📅
+Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como **Software Global Blackbelt** 🫶🏻. 
+
+Mi misión es técnica pero con un toque humano: **ayudar a los developers a ser más felices** 🥲 **y productivos** 👩🏻‍💻 a través de la tecnología.
+
+🌟 Soy una apasionada de la tecnología y el aprendizaje continuo  
+📚 Comparto todo lo que aprendo en mi blog **[return(GiS);](https://www.returngis.net)**  
+🎥 Creo contenido en YouTube: **[return(GiS); en YouTube](https://www.youtube.com/@returngis)**  
+🗓️ **¡Nuevo contenido cada miércoles a las 10:00 AM (CEST)!**
+
+---
+
+## 💼 Experiencia
+
+\`\`\`typescript
+const gisela = {
+    rol: "Software Global Blackbelt",
+    empresa: "Microsoft",
+    experiencia: "11+ años en Microsoft | 18+ años en el sector",
+    especialidades: [
+        "Cloud Architecture (Azure)",
+        "DevOps & CI/CD",
+        "Infraestructura como Código",
+        "Inteligencia Artificial Generativa",
+        "Containerización & Kubernetes",
+        "Developer Experience"
+    ],
+    mision: "Empoderar a developers para construir soluciones increíbles 🚀"
+};
+\`\`\`
 
 ---
 
@@ -85,8 +128,36 @@ ${blogSection}---
 
 <div align="center">
 
-[![return(GiS) Blog](https://img.shields.io/badge/BLOG-return(GiS)-339933?style=for-the-badge)](https://www.returngis.net "Mi blog personal")
-[![YouTube Channel](https://img.shields.io/badge/YouTube-return(GiS)-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis "Mi canal de YouTube")
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.returngis.net">
+        <img src="https://img.shields.io/badge/BLOG-return(GiS)-339933?style=for-the-badge" alt="Blog return(GiS)"/>
+      </a>
+      <br/>
+      <sub><b>Mi blog personal</b></sub>
+      <br/>
+      <sub>Artículos técnicos sobre Azure, DevOps y desarrollo</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.youtube.com/@returngis">
+        <img src="https://img.shields.io/badge/YouTube-return(GiS)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Canal de YouTube"/>
+      </a>
+      <br/>
+      <sub><b>Mi canal de YouTube</b></sub>
+      <br/>
+      <sub>Tutoriales y demos prácticas cada miércoles</sub>
+    </td>
+  </tr>
+</table>
+
+### 🌟 Proyectos de código abierto y demos
+
+Encuentra mis repositorios más recientes explorando mi perfil. Todos mis proyectos incluyen:
+- 📖 Documentación detallada
+- 🎯 Casos de uso prácticos
+- 💡 Mejores prácticas
+- 🚀 Código listo para usar
 
 </div>
 
@@ -95,8 +166,39 @@ ${blogSection}---
 ## 📊 Mis estadísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0gis0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub de Gisela Torres" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0gis0&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4" alt="Lenguajes más usados por Gisela Torres" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0gis0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue&bg_color=00000000" alt="Estadísticas de GitHub de Gisela Torres" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0gis0&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=vue&bg_color=00000000" alt="Lenguajes más usados por Gisela Torres" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0gis0&theme=vue&hide_border=true&background=00000000" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0gis0&theme=github-compact&hide_border=true&area=true&custom_title=Gráfico%20de%20Contribuciones" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0gis0&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+<div align="center">
+
+💭 **"Código que no está en git, no existe"** - Mi mantra personal  
+🎮 Mi IDE favorito es VS Code (¡con muchas extensiones!)  
+☕ Funciono con café y el entusiasmo de ver código funcionando  
+🐛 Debug es mi segundo apellido  
+📱 Always learning - La tecnología nunca duerme, ¡y yo tampoco!  
+🌍 Me encanta conectar con la comunidad tech hispanohablante
+
 </div>
 
 ---
@@ -105,34 +207,68 @@ ${blogSection}---
 
 <div align="center">
 
-🐣 &nbsp;Pasar tiempo con mi familia y amig@s
-&nbsp;•&nbsp;
-🚴🏼‍♀️ &nbsp;Montar en bici
-&nbsp;•&nbsp;
-🐕 &nbsp;Pasear a Siri
-&nbsp;•&nbsp;
-🌲 &nbsp;Senderismo
-&nbsp;•&nbsp;
-✈️ &nbsp;Viajar
-&nbsp;•&nbsp;
-🎬 &nbsp;Ir al cine
+| 🐣 Familia & Amig@s | 🚴🏼‍♀️ Ciclismo | 🐕 Pasear a Siri |
+|:---:|:---:|:---:|
+| **🌲 Senderismo** | **✈️ Viajar** | **🎬 Cine** |
+| **📚 Aprender** | **🎤 Charlas Tech** | **🤝 Networking** |
 
 </div>
 
 ---
 
-## ✉️ Contacto
+## ✉️ Conecta conmigo
 
 <div align="center">
 
-¿Te gusta mi contenido? **¡Suscríbete y sígueme en mis redes sociales!** 🚀
+### ¿Te gusta mi contenido? **¡Suscríbete y sígueme en mis redes sociales!** 🚀
 
-[![Blog](https://img.shields.io/badge/blog-339933?logo=github-pages&logoColor=white&style=for-the-badge)](https://www.returngis.net "Visita mi blog")
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis "🔔 ¡Suscríbete a mi canal!")
-[![Twitter](https://img.shields.io/twitter/follow/0gis0?style=for-the-badge)](https://twitter.com/0gis0 "Sígueme en Twitter")
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giselatorresbuitrago/ "Conéctate conmigo en LinkedIn")
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0gis0/ "Sígueme en Instagram")
-[![Mastodon](https://img.shields.io/badge/-Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.cloud/@0gis0 "Sígueme en Mastodon")
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.returngis.net">
+        <img src="https://img.shields.io/badge/blog-339933?logo=github-pages&logoColor=white&style=for-the-badge" alt="Blog"/>
+      </a>
+      <br/>Blog
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@returngis">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+      </a>
+      <br/>YouTube
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/0gis0">
+        <img src="https://img.shields.io/twitter/follow/0gis0?style=for-the-badge" alt="Twitter"/>
+      </a>
+      <br/>Twitter/X
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/giselatorresbuitrago/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <br/>LinkedIn
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/0gis0/">
+        <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+      <br/>Instagram
+    </td>
+    <td align="center">
+      <a href="https://mastodon.cloud/@0gis0">
+        <img src="https://img.shields.io/badge/-Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
+      </a>
+      <br/>Mastodon
+    </td>
+  </tr>
+</table>
+
+### 💌 ¿Quieres colaborar?
+
+🎤 Disponible para: Charlas técnicas, podcasts, workshops y colaboraciones  
+📧 Contáctame a través de mis redes sociales
 
 </div>
 
@@ -140,9 +276,13 @@ ${blogSection}---
 
 <div align="center">
 
-💡 **¡Nuevo contenido cada miércoles!** 💡
+### 🌟 ¡Gracias por visitar mi perfil! 🌟
 
-*Este README se actualiza automáticamente con mis últimos vídeos y artículos*
+💡 **¡Nuevo contenido cada miércoles a las 10:00 AM (CEST)!** 💡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:339933,100:0078D4&height=120&section=footer" alt="Footer wave" />
+
+<sub>*Este README se actualiza automáticamente con mis últimos vídeos y artículos* ✨</sub>
 
 </div>`;
 
