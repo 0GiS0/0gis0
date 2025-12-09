@@ -83,12 +83,10 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 <div align="center">
 
-[![Cómo crear workflows de GitHub Actions - Tutorial completo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![Docker Debug 🔍 La forma más fácil de depurar contenedores e imágenes 🐳 | Cap.20](https://img.youtube.com/vi/GTBNOs_JXRU/maxresdefault.jpg)](https://www.youtube.com/watch?v=GTBNOs_JXRU)
 
-### [Cómo crear workflows de GitHub Actions - Tutorial completo](https://www.youtube.com/@returngis)
-📅 15 de diciembre de 2024
-
-Aprende a automatizar tu workflow con GitHub Actions paso a paso
+### [Docker Debug 🔍 La forma más fácil de depurar contenedores e imágenes 🐳 | Cap.20](https://www.youtube.com/watch?v=GTBNOs_JXRU)
+📅 3 de diciembre de 2025
 
 </div>
 
@@ -96,12 +94,10 @@ Aprende a automatizar tu workflow con GitHub Actions paso a paso
 
 <div align="center">
 
-[![Infraestructura como código con Terraform y Azure](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![Crea tu Marketplace Privado de VS Code en Local 🔒🧩 ¡Paso a paso!](https://img.youtube.com/vi/5HF35Ty9Wsw/maxresdefault.jpg)](https://www.youtube.com/watch?v=5HF35Ty9Wsw)
 
-### [Infraestructura como código con Terraform y Azure](https://www.youtube.com/@returngis)
-📅 8 de diciembre de 2024
-
-Domina Terraform para gestionar tu infraestructura en Azure
+### [Crea tu Marketplace Privado de VS Code en Local 🔒🧩 ¡Paso a paso!](https://www.youtube.com/watch?v=5HF35Ty9Wsw)
+📅 26 de noviembre de 2025
 
 </div>
 
@@ -109,12 +105,10 @@ Domina Terraform para gestionar tu infraestructura en Azure
 
 <div align="center">
 
-[![Docker y Kubernetes para desarrolladores](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/@returngis)
+[![⭐ ¿Sabías esto de Docker Desktop? 🐳✨ Exporta e importa volúmenes | Cap. 19](https://img.youtube.com/vi/AQZbYrGCiVU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AQZbYrGCiVU)
 
-### [Docker y Kubernetes para desarrolladores](https://www.youtube.com/@returngis)
-📅 1 de diciembre de 2024
-
-Containeriza y orquesta tus aplicaciones como un profesional
+### [⭐ ¿Sabías esto de Docker Desktop? 🐳✨ Exporta e importa volúmenes | Cap. 19](https://www.youtube.com/watch?v=AQZbYrGCiVU)
+📅 19 de noviembre de 2025
 
 </div>
 
@@ -132,29 +126,16 @@ Containeriza y orquesta tus aplicaciones como un profesional
 
 <div align="center">
 
-[![Automatización CI/CD con GitHub Actions y Azure DevOps](https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation)](https://www.returngis.net)
+[![Cómo probar tu aplicación con Vue en GitHub Pages](https://www.returngis.net/wp-content/uploads/2025/12/Octocat-y-Vue.png)](https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/)
 
-### [Automatización CI/CD con GitHub Actions y Azure DevOps](https://www.returngis.net)
-📅 12 de diciembre de 2024
+### [Cómo probar tu aplicación con Vue en GitHub Pages](https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/)
+📅 4 de diciembre de 2025
 
-Cómo implementar pipelines eficientes para tus proyectos con las mejores prácticas de la industria.
+¡Hola developer 👋🏼! Estos días he estado jugando con Vue (otra vez sí… 💚😅) para una demo rápida y quería tener la aplicación desplegada en algún sitio sin montar un entorno complejo, sin configurar infraestructura y, sobre todo, sin invertir demasiado tiempo. Después de darle una vuelta, pensé: ¿por qué no tirar de algo sencillo que ya tengo disponible?Y así volvió a mi mente un... 
+Leer más
+La entrada Cómo probar tu aplicación con Vue en GitHub Pages se publicó primero en return(GiS);.
 
-[**📖 Seguir leyendo...**](https://www.returngis.net)
-
-</div>
-
----
-
-<div align="center">
-
-[![Microservicios en Azure: Arquitectura y mejores prácticas](https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices)](https://www.returngis.net)
-
-### [Microservicios en Azure: Arquitectura y mejores prácticas](https://www.returngis.net)
-📅 5 de diciembre de 2024
-
-Diseña sistemas escalables y resilientes en la nube con patrones modernos de arquitectura.
-
-[**📖 Seguir leyendo...**](https://www.returngis.net)
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/)
 
 </div>
 
@@ -162,14 +143,33 @@ Diseña sistemas escalables y resilientes en la nube con patrones modernos de ar
 
 <div align="center">
 
-[![Monitoreo y observabilidad en aplicaciones modernas](https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability)](https://www.returngis.net)
+[![☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀](https://www.returngis.net/wp-content/uploads/2025/10/Java-Swing-contenerizado-scaled.png)](https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/)
 
-### [Monitoreo y observabilidad en aplicaciones modernas](https://www.returngis.net)
-📅 28 de noviembre de 2024
+### [☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀](https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/)
+📅 21 de octubre de 2025
 
-Herramientas y técnicas para mantener tus aplicaciones saludables y monitoreadas.
+¡Hola developer 👋🏼! En 1997 apareció la primera release de Java Swing, una forma genial de desarrollar aplicaciones de escritorio en este lenguaje.Pues bien, ¡han pasado 28 años y todavía sigue ocupando el corazoncito ❤️ de muchas empresas! En este artículo quiero compartir contigo cómo podemos contenerizar el entorno necesario para ejecutar este tipo de aplicaciones y levantarlas solo cuando lo necesitemos. Como podrás imaginar,... 
+Leer más
+La entrada ☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀 se publicó primero en return(GiS);.
 
-[**📖 Seguir leyendo...**](https://www.returngis.net)
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item](https://www.returngis.net/wp-content/uploads/2025/10/Como-ejecutar-un-flujo-de-Azure-Pipelines-cuando-se-crea-un-work-item.png)](https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/)
+
+### [Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item](https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/)
+📅 11 de octubre de 2025
+
+¡Hola developer 👋🏻! Estos días he estado experimentando con un escenario (todavía secreto 🤫) en el que necesitaba que, cada vez que se creara un nuevo Work Item en Azure Boards, se lanzara automáticamente un flujo en Azure Pipelines. Como no existe un trigger nativo para esto en Azure DevOps en este artículo quiero contarte cómo lo conseguí. 💡 El truco está en los WebHooks... 
+Leer más
+La entrada Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item se publicó primero en return(GiS);.
+
+[**📖 Seguir leyendo...**](https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/)
 
 </div>
 
