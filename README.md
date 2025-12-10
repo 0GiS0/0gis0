@@ -86,6 +86,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=iV_3hJUIJig">
+<img src="https://img.youtube.com/vi/iV_3hJUIJig/mqdefault.jpg" alt="GitHub Copilot Spaces: qué son, cómo usarlos y crearlos 🚀🧠" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=iV_3hJUIJig"><strong>GitHub Copilot Spaces: qué son, cómo usarlos y crearlos 🚀🧠</strong></a>
+<br/>
+<sub>📅 10 de diciembre de 2025</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=GTBNOs_JXRU">
 <img src="https://img.youtube.com/vi/GTBNOs_JXRU/mqdefault.jpg" alt="Docker Debug 🔍 La forma más fácil de depurar contenedores e imágenes 🐳 | Cap.20" width="280"/>
 </a>
@@ -102,15 +111,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=5HF35Ty9Wsw"><strong>Crea tu Marketplace Privado de VS Code en Local 🔒🧩 ¡Paso a paso!</strong></a>
 <br/>
 <sub>📅 26 de noviembre de 2025</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=AQZbYrGCiVU">
-<img src="https://img.youtube.com/vi/AQZbYrGCiVU/mqdefault.jpg" alt="⭐ ¿Sabías esto de Docker Desktop? 🐳✨ Exporta e importa volúmenes | Cap. 19" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=AQZbYrGCiVU"><strong>⭐ ¿Sabías esto de Docker Desktop? 🐳✨ Exporta e importa volúmenes | Cap. 19</strong></a>
-<br/>
-<sub>📅 19 de noviembre de 2025</sub>
 </td>
 </tr>
 </table>
