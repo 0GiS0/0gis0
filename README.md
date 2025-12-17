@@ -86,6 +86,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=UWAM0-S6yV0">
+<img src="https://img.youtube.com/vi/UWAM0-S6yV0/mqdefault.jpg" alt="Docker Compose 🐙: Merge, Extend e Include explicados paso a paso 🚀 | Cap. 21" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=UWAM0-S6yV0"><strong>Docker Compose 🐙: Merge, Extend e Include explicados paso a paso 🚀 | Cap. 21</strong></a>
+<br/>
+<sub>📅 17 de diciembre de 2025</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=iV_3hJUIJig">
 <img src="https://img.youtube.com/vi/iV_3hJUIJig/mqdefault.jpg" alt="GitHub Copilot Spaces: qué son, cómo usarlos y crearlos 🚀🧠" width="280"/>
 </a>
@@ -102,15 +111,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=GTBNOs_JXRU"><strong>Docker Debug 🔍 La forma más fácil de depurar contenedores e imágenes 🐳 | Cap.20</strong></a>
 <br/>
 <sub>📅 3 de diciembre de 2025</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=5HF35Ty9Wsw">
-<img src="https://img.youtube.com/vi/5HF35Ty9Wsw/mqdefault.jpg" alt="Crea tu Marketplace Privado de VS Code en Local 🔒🧩 ¡Paso a paso!" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=5HF35Ty9Wsw"><strong>Crea tu Marketplace Privado de VS Code en Local 🔒🧩 ¡Paso a paso!</strong></a>
-<br/>
-<sub>📅 26 de noviembre de 2025</sub>
 </td>
 </tr>
 </table>
