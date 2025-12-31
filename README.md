@@ -86,6 +86,18 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<br/>
+<a href="https://www.youtube.com/shorts/TTweI3GtCYE"><strong>Planear con GitHub Copilot antes de escribir código #shorts</strong></a>
+<br/>
+<sub>📅 29 de diciembre de 2025</sub>
+</td>
+<td align="center" width="33%">
+<br/>
+<a href="https://www.youtube.com/shorts/GXcHq3MzM6M"><strong>Desarrolladora Feliz con Platform Engineering #shorts</strong></a>
+<br/>
+<sub>📅 27 de diciembre de 2025</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=UWAM0-S6yV0">
 <img src="https://img.youtube.com/vi/UWAM0-S6yV0/mqdefault.jpg" alt="Docker Compose 🐙: Merge, Extend e Include explicados paso a paso 🚀 | Cap. 21" width="280"/>
 </a>
@@ -93,24 +105,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=UWAM0-S6yV0"><strong>Docker Compose 🐙: Merge, Extend e Include explicados paso a paso 🚀 | Cap. 21</strong></a>
 <br/>
 <sub>📅 17 de diciembre de 2025</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=iV_3hJUIJig">
-<img src="https://img.youtube.com/vi/iV_3hJUIJig/mqdefault.jpg" alt="GitHub Copilot Spaces: qué son, cómo usarlos y crearlos 🚀🧠" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=iV_3hJUIJig"><strong>GitHub Copilot Spaces: qué son, cómo usarlos y crearlos 🚀🧠</strong></a>
-<br/>
-<sub>📅 10 de diciembre de 2025</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=GTBNOs_JXRU">
-<img src="https://img.youtube.com/vi/GTBNOs_JXRU/mqdefault.jpg" alt="Docker Debug 🔍 La forma más fácil de depurar contenedores e imágenes 🐳 | Cap.20" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=GTBNOs_JXRU"><strong>Docker Debug 🔍 La forma más fácil de depurar contenedores e imágenes 🐳 | Cap.20</strong></a>
-<br/>
-<sub>📅 3 de diciembre de 2025</sub>
 </td>
 </tr>
 </table>
@@ -128,6 +122,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.returngis.net/2025/12/guia-rapida-para-empezar-con-fastapi/">
+<img src="https://www.returngis.net/wp-content/uploads/2025/12/Guia-rapida-para-empezar-con-FastAPI.png" alt="Guía rápida para empezar con FastAPI" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2025/12/guia-rapida-para-empezar-con-fastapi/"><strong>Guía rápida para empezar con FastAPI</strong></a>
+<br/>
+<sub>📅 31 de diciembre de 2025</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/">
 <img src="https://www.returngis.net/wp-content/uploads/2025/12/Octocat-y-Vue.png" alt="Cómo probar tu aplicación con Vue en GitHub Pages" width="280" height="158"/>
 </a>
@@ -144,15 +147,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/"><strong>☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀</strong></a>
 <br/>
 <sub>📅 21 de octubre de 2025</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/">
-<img src="https://www.returngis.net/wp-content/uploads/2025/10/Como-ejecutar-un-flujo-de-Azure-Pipelines-cuando-se-crea-un-work-item.png" alt="Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2025/10/como-ejecutar-un-flujo-de-azure-pipelines-%f0%9f%9a%80-cuando-se-crea-un-work-item/"><strong>Cómo ejecutar un flujo de Azure Pipelines 🚀 cuando se crea un work item</strong></a>
-<br/>
-<sub>📅 11 de octubre de 2025</sub>
 </td>
 </tr>
 </table>
