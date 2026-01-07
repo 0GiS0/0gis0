@@ -86,25 +86,25 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<br/>
-<a href="https://www.youtube.com/shorts/TTweI3GtCYE"><strong>Planear con GitHub Copilot antes de escribir código #shorts</strong></a>
-<br/>
-<sub>📅 29 de diciembre de 2025</sub>
-</td>
-<td align="center" width="33%">
-<br/>
-<a href="https://www.youtube.com/shorts/GXcHq3MzM6M"><strong>Desarrolladora Feliz con Platform Engineering #shorts</strong></a>
-<br/>
-<sub>📅 27 de diciembre de 2025</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=UWAM0-S6yV0">
-<img src="https://img.youtube.com/vi/UWAM0-S6yV0/mqdefault.jpg" alt="Docker Compose 🐙: Merge, Extend e Include explicados paso a paso 🚀 | Cap. 21" width="280"/>
+<a href="https://www.youtube.com/watch?v=u3T-qe7nWoE">
+<img src="https://img.youtube.com/vi/u3T-qe7nWoE/mqdefault.jpg" alt="Organiza tu VS Code con Perfiles | Todo lo que necesitas saber" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/watch?v=UWAM0-S6yV0"><strong>Docker Compose 🐙: Merge, Extend e Include explicados paso a paso 🚀 | Cap. 21</strong></a>
+<a href="https://www.youtube.com/watch?v=u3T-qe7nWoE"><strong>Organiza tu VS Code con Perfiles | Todo lo que necesitas saber</strong></a>
 <br/>
-<sub>📅 17 de diciembre de 2025</sub>
+<sub>📅 6 de enero de 2026</sub>
+</td>
+<td align="center" width="33%">
+<br/>
+<a href="https://www.youtube.com/shorts/DuL0Daz_VJY"><strong>Docker Debug: ¡Depura Contenedores Fácilmente! #shorts</strong></a>
+<br/>
+<sub>📅 4 de enero de 2026</sub>
+</td>
+<td align="center" width="33%">
+<br/>
+<a href="https://www.youtube.com/shorts/zecdDNA3s_I"><strong>GitHub Copilot Custom Agents de Orgs y Enterprise en tu IDE 🤯 #shorts</strong></a>
+<br/>
+<sub>📅 2 de enero de 2026</sub>
 </td>
 </tr>
 </table>
