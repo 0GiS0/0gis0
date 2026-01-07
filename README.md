@@ -122,31 +122,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2025/12/guia-rapida-para-empezar-con-fastapi/">
-<img src="https://www.returngis.net/wp-content/uploads/2025/12/Guia-rapida-para-empezar-con-FastAPI.png" alt="Guía rápida para empezar con FastAPI" width="280" height="158"/>
+<a href="https://www.returngis.net">
+<img src="https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation" alt="Automatización CI/CD con GitHub Actions y Azure DevOps" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net/2025/12/guia-rapida-para-empezar-con-fastapi/"><strong>Guía rápida para empezar con FastAPI</strong></a>
+<a href="https://www.returngis.net"><strong>Automatización CI/CD con GitHub Actions y Azure DevOps</strong></a>
 <br/>
-<sub>📅 31 de diciembre de 2025</sub>
+<sub>📅 12 de diciembre de 2024</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/">
-<img src="https://www.returngis.net/wp-content/uploads/2025/12/Octocat-y-Vue.png" alt="Cómo probar tu aplicación con Vue en GitHub Pages" width="280" height="158"/>
+<a href="https://www.returngis.net">
+<img src="https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices" alt="Microservicios en Azure: Arquitectura y mejores prácticas" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/"><strong>Cómo probar tu aplicación con Vue en GitHub Pages</strong></a>
+<a href="https://www.returngis.net"><strong>Microservicios en Azure: Arquitectura y mejores prácticas</strong></a>
 <br/>
-<sub>📅 4 de diciembre de 2025</sub>
+<sub>📅 5 de diciembre de 2024</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/">
-<img src="https://www.returngis.net/wp-content/uploads/2025/10/Java-Swing-contenerizado-scaled.png" alt="☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀" width="280" height="158"/>
+<a href="https://www.returngis.net">
+<img src="https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability" alt="Monitoreo y observabilidad en aplicaciones modernas" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net/2025/10/java-swing-y-dev-containers-el-regreso-de-un-clasico-contenarizado/"><strong>☕ Java Swing, VS Code y Dev Containers: el regreso de un clásico… ¡contenarizado! 🚀</strong></a>
+<a href="https://www.returngis.net"><strong>Monitoreo y observabilidad en aplicaciones modernas</strong></a>
 <br/>
-<sub>📅 21 de octubre de 2025</sub>
+<sub>📅 28 de noviembre de 2024</sub>
 </td>
 </tr>
 </table>
