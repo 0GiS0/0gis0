@@ -79,7 +79,7 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" alt="Windows">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </div>
 
 ---
@@ -115,7 +115,7 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <br/>
 <a href="https://www.youtube.com/shorts/FNP8DXEJaFU"><strong>La IA es un genio… pero necesita MCP 🧞‍♂️🔌 #shorts</strong></a>
 <br/>
-<sub>📅 11 de enero de 2026</sub>
+<sub>📅 10 de enero de 2026</sub>
 </td>
 </tr>
 </table>
