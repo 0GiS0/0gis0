@@ -86,6 +86,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=jnZlPDxzs_0">
+<img src="https://img.youtube.com/vi/jnZlPDxzs_0/mqdefault.jpg" alt="Agent Skills en GitHub Copilot 🤖⚡ VS Code y CLI en acción" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=jnZlPDxzs_0"><strong>Agent Skills en GitHub Copilot 🤖⚡ VS Code y CLI en acción</strong></a>
+<br/>
+<sub>📅 14 de enero de 2026</sub>
+</td>
+<td align="center" width="33%">
 <br/>
 <a href="https://www.youtube.com/shorts/1ZCe8N3simA"><strong>Dev Containers: Configuración Rápida con VS Code #shorts</strong></a>
 <br/>
@@ -96,12 +105,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/shorts/FNP8DXEJaFU"><strong>La IA es un genio… pero necesita MCP 🧞‍♂️🔌 #shorts</strong></a>
 <br/>
 <sub>📅 10 de enero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<br/>
-<a href="https://www.youtube.com/shorts/7jvlgdcXy88"><strong>¡Organiza tu VS Code! Perfiles que transforman tu flujo de trabajo #shorts</strong></a>
-<br/>
-<sub>📅 8 de enero de 2026</sub>
 </td>
 </tr>
 </table>
