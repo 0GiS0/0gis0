@@ -18,9 +18,14 @@ class ContentFetcher {
   }
 
   extractVideoId(url) {
-    // Extract video ID from YouTube URL
-    const match = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([^&\n?#]+)/);
+    // Extract video ID from YouTube URL (supports regular videos and shorts)
+    const match = url.match(/(?:youtube\.com\/watch\?v=|youtube\.com\/shorts\/|youtu\.be\/)([^&\n?#]+)/);
     return match ? match[1] : null;
+  }
+
+  isShort(url) {
+    // Check if the URL is a YouTube Short
+    return url.includes('/shorts/');
   }
 
   async extractWordPressImage(item) {
@@ -130,18 +135,25 @@ class ContentFetcher {
       const videos = feed.items.slice(0, limit).map(item => {
         // Extract video ID from YouTube link to generate thumbnail
         const videoId = this.extractVideoId(item.link);
-        const thumbnail = videoId ? `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg` : null;
+        // Use mqdefault as it works for both regular videos and shorts
+        const thumbnail = videoId ? `https://img.youtube.com/vi/${videoId}/mqdefault.jpg` : null;
+        
+        // Check if it's a short based on the title (shorts often have #shorts)
+        const isShort = item.title && item.title.toLowerCase().includes('#shorts');
+        // Build the appropriate link (convert to shorts URL if it's a short)
+        const link = isShort && videoId ? `https://www.youtube.com/shorts/${videoId}` : item.link;
         
         return {
           title: item.title,
-          link: item.link,
+          link: link,
           publishDate: new Date(item.pubDate).toLocaleDateString('es-ES', {
             year: 'numeric',
             month: 'long',
             day: 'numeric'
           }),
           description: item.contentSnippet || item.content || '',
-          thumbnail: thumbnail
+          thumbnail: thumbnail,
+          isShort: isShort
         };
       });
       
@@ -318,13 +330,10 @@ class ContentFetcher {
     section += '<table>\n<tr>\n';
     
     videos.forEach(video => {
-      // Use medium quality thumbnail (320x180) instead of maxresdefault for compact display
-      const smallThumbnail = video.thumbnail ? video.thumbnail.replace('maxresdefault.jpg', 'mqdefault.jpg') : null;
-      
       section += `<td align="center" width="33%">\n`;
-      if (smallThumbnail) {
+      if (video.thumbnail) {
         section += `<a href="${video.link}">\n`;
-        section += `<img src="${smallThumbnail}" alt="${video.title}" width="280"/>\n`;
+        section += `<img src="${video.thumbnail}" alt="${video.title}" width="280"/>\n`;
         section += `</a>\n`;
       }
       section += `<br/>\n`;

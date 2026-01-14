@@ -73,8 +73,13 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 <div align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
   <img src="https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" alt="Windows">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
 </div>
 
 ---
@@ -95,16 +100,22 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <sub>📅 14 de enero de 2026</sub>
 </td>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/1ZCe8N3simA">
+<img src="https://img.youtube.com/vi/1ZCe8N3simA/mqdefault.jpg" alt="Dev Containers: Configuración Rápida con VS Code #shorts" width="280"/>
+</a>
 <br/>
 <a href="https://www.youtube.com/shorts/1ZCe8N3simA"><strong>Dev Containers: Configuración Rápida con VS Code #shorts</strong></a>
 <br/>
 <sub>📅 12 de enero de 2026</sub>
 </td>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/FNP8DXEJaFU">
+<img src="https://img.youtube.com/vi/FNP8DXEJaFU/mqdefault.jpg" alt="La IA es un genio… pero necesita MCP 🧞‍♂️🔌 #shorts" width="280"/>
+</a>
 <br/>
 <a href="https://www.youtube.com/shorts/FNP8DXEJaFU"><strong>La IA es un genio… pero necesita MCP 🧞‍♂️🔌 #shorts</strong></a>
 <br/>
-<sub>📅 10 de enero de 2026</sub>
+<sub>📅 11 de enero de 2026</sub>
 </td>
 </tr>
 </table>
