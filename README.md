@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=bW_nlr54NqM">
+<img src="https://img.youtube.com/vi/bW_nlr54NqM/mqdefault.jpg" alt="Cómo usar Simple Browser con GitHub Copilot en VS Code 👀🌐" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=bW_nlr54NqM"><strong>Cómo usar Simple Browser con GitHub Copilot en VS Code 👀🌐</strong></a>
+<br/>
+<sub>📅 21 de enero de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/shorts/Bz_-qjqSMUo">
 <img src="https://img.youtube.com/vi/Bz_-qjqSMUo/mqdefault.jpg" alt="¡GitHub Copilot ya soporta Agent Skills! #shorts" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=jnZlPDxzs_0"><strong>Agent Skills en GitHub Copilot 🤖⚡ VS Code y CLI en acción</strong></a>
 <br/>
 <sub>📅 14 de enero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/shorts/1ZCe8N3simA">
-<img src="https://img.youtube.com/vi/1ZCe8N3simA/mqdefault.jpg" alt="Dev Containers: Configuración Rápida con VS Code #shorts" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/shorts/1ZCe8N3simA"><strong>Dev Containers: Configuración Rápida con VS Code #shorts</strong></a>
-<br/>
-<sub>📅 12 de enero de 2026</sub>
 </td>
 </tr>
 </table>
