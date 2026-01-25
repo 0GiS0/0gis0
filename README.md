@@ -134,6 +134,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.returngis.net/2026/01/como-generar-changelogs-automaticos-para-tus-releases-en-github/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/01/Como-generar-changelogs-automaticos-para-tus-releases-en-github-scaled.png" alt="Cómo generar changelogs automáticos para tus releases en GitHub" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/01/como-generar-changelogs-automaticos-para-tus-releases-en-github/"><strong>Cómo generar changelogs automáticos para tus releases en GitHub</strong></a>
+<br/>
+<sub>📅 25 de enero de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.returngis.net/2026/01/servir-contenido-estatico-desde-github-con-la-cdn-jsdelivr-gratis/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/01/Servir-contenido-estatico-desde-GitHub.png" alt="Servir contenido estático desde GitHub con la CDN jsDelivr GRATIS" width="280" height="158"/>
 </a>
@@ -150,15 +159,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2025/12/guia-rapida-para-empezar-con-fastapi/"><strong>Guía rápida para empezar con FastAPI</strong></a>
 <br/>
 <sub>📅 31 de diciembre de 2025</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/">
-<img src="https://www.returngis.net/wp-content/uploads/2025/12/Octocat-y-Vue.png" alt="Cómo probar tu aplicación con Vue en GitHub Pages" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2025/12/como-desplegar-una-aplicacion-con-vue-en-github-pages/"><strong>Cómo probar tu aplicación con Vue en GitHub Pages</strong></a>
-<br/>
-<sub>📅 4 de diciembre de 2025</sub>
 </td>
 </tr>
 </table>
