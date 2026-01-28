@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=2_MXlt-_898">
+<img src="https://img.youtube.com/vi/2_MXlt-_898/mqdefault.jpg" alt="Aprende GitHub Copilot SDK en 30 min 🤖⚡ Guía práctica" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=2_MXlt-_898"><strong>Aprende GitHub Copilot SDK en 30 min 🤖⚡ Guía práctica</strong></a>
+<br/>
+<sub>📅 28 de enero de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/shorts/YXGgvysAD8g">
 <img src="https://img.youtube.com/vi/YXGgvysAD8g/mqdefault.jpg" alt="¿Sabías que Visual Studio Code tiene un navegador integrado? #shorts" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=bW_nlr54NqM"><strong>Cómo usar Simple Browser con GitHub Copilot en VS Code 👀🌐</strong></a>
 <br/>
 <sub>📅 21 de enero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/shorts/Bz_-qjqSMUo">
-<img src="https://img.youtube.com/vi/Bz_-qjqSMUo/mqdefault.jpg" alt="¡GitHub Copilot ya soporta Agent Skills! #shorts" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/shorts/Bz_-qjqSMUo"><strong>¡GitHub Copilot ya soporta Agent Skills! #shorts</strong></a>
-<br/>
-<sub>📅 14 de enero de 2026</sub>
 </td>
 </tr>
 </table>
