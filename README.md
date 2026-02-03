@@ -134,6 +134,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.returngis.net/2026/02/%f0%9f%94%8c-mcp-server-como-proxy-de-otro-mcp-server/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/02/MCP-Server-como-proxy-scaled.png" alt="🔌 MCP Server como Proxy de otro MCP Server" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/02/%f0%9f%94%8c-mcp-server-como-proxy-de-otro-mcp-server/"><strong>🔌 MCP Server como Proxy de otro MCP Server</strong></a>
+<br/>
+<sub>📅 2 de febrero de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.returngis.net/2026/01/como-generar-changelogs-automaticos-para-tus-releases-en-github/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/01/Como-generar-changelogs-automaticos-para-tus-releases-en-github-scaled.png" alt="Cómo generar changelogs automáticos para tus releases en GitHub" width="280" height="158"/>
 </a>
@@ -150,15 +159,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2026/01/servir-contenido-estatico-desde-github-con-la-cdn-jsdelivr-gratis/"><strong>Servir contenido estático desde GitHub con la CDN jsDelivr GRATIS</strong></a>
 <br/>
 <sub>📅 10 de enero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2025/12/guia-rapida-para-empezar-con-fastapi/">
-<img src="https://www.returngis.net/wp-content/uploads/2025/12/Guia-rapida-para-empezar-con-FastAPI.png" alt="Guía rápida para empezar con FastAPI" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2025/12/guia-rapida-para-empezar-con-fastapi/"><strong>Guía rápida para empezar con FastAPI</strong></a>
-<br/>
-<sub>📅 31 de diciembre de 2025</sub>
 </td>
 </tr>
 </table>
