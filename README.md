@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=AeaMNYddZTE">
+<img src="https://img.youtube.com/vi/AeaMNYddZTE/mqdefault.jpg" alt="🚀 MCP Apps en VS Code Insiders: crea y ejecuta tu primera app" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=AeaMNYddZTE"><strong>🚀 MCP Apps en VS Code Insiders: crea y ejecuta tu primera app</strong></a>
+<br/>
+<sub>📅 4 de febrero de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=2_MXlt-_898">
 <img src="https://img.youtube.com/vi/2_MXlt-_898/mqdefault.jpg" alt="Aprende GitHub Copilot SDK en 30 min 🤖⚡ Guía práctica" width="280"/>
 </a>
@@ -106,15 +115,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 </a>
 <br/>
 <a href="https://www.youtube.com/shorts/YXGgvysAD8g"><strong>¿Sabías que Visual Studio Code tiene un navegador integrado? #shorts</strong></a>
-<br/>
-<sub>📅 21 de enero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=bW_nlr54NqM">
-<img src="https://img.youtube.com/vi/bW_nlr54NqM/mqdefault.jpg" alt="Cómo usar Simple Browser con GitHub Copilot en VS Code 👀🌐" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=bW_nlr54NqM"><strong>Cómo usar Simple Browser con GitHub Copilot en VS Code 👀🌐</strong></a>
 <br/>
 <sub>📅 21 de enero de 2026</sub>
 </td>
