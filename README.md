@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=F9SWj3ljqIk">
+<img src="https://img.youtube.com/vi/F9SWj3ljqIk/mqdefault.jpg" alt="Comparte tu VS Code como un PRO 💎 Screencast Mode 🚀" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=F9SWj3ljqIk"><strong>Comparte tu VS Code como un PRO 💎 Screencast Mode 🚀</strong></a>
+<br/>
+<sub>📅 11 de febrero de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=AeaMNYddZTE">
 <img src="https://img.youtube.com/vi/AeaMNYddZTE/mqdefault.jpg" alt="🚀 MCP Apps en VS Code Insiders: crea y ejecuta tu primera app" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=2_MXlt-_898"><strong>Aprende GitHub Copilot SDK en 30 min 🤖⚡ Guía práctica</strong></a>
 <br/>
 <sub>📅 28 de enero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/shorts/YXGgvysAD8g">
-<img src="https://img.youtube.com/vi/YXGgvysAD8g/mqdefault.jpg" alt="¿Sabías que Visual Studio Code tiene un navegador integrado? #shorts" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/shorts/YXGgvysAD8g"><strong>¿Sabías que Visual Studio Code tiene un navegador integrado? #shorts</strong></a>
-<br/>
-<sub>📅 21 de enero de 2026</sub>
 </td>
 </tr>
 </table>
