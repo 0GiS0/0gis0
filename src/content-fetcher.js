@@ -7,11 +7,12 @@ class ContentFetcher {
       customFields: {
         item: [
           'media:content',
-          'media:thumbnail', 
+          'media:thumbnail',
           'content:encoded',
           'wp:featured_media',
           'media:group',
-          'enclosure'
+          'enclosure',
+          'yt:videoId'
         ]
       }
     });
@@ -19,6 +20,7 @@ class ContentFetcher {
 
   extractVideoId(url) {
     // Extract video ID from YouTube URL (supports regular videos and shorts)
+    // This is used as a fallback when yt:videoId field is not available in RSS feed
     const match = url.match(/(?:youtube\.com\/watch\?v=|youtube\.com\/shorts\/|youtu\.be\/)([^&\n?#]+)/);
     return match ? match[1] : null;
   }
@@ -133,8 +135,8 @@ class ContentFetcher {
       
       const feed = await this.parser.parseURL(rssUrl);
       const videos = feed.items.slice(0, limit).map(item => {
-        // Extract video ID from YouTube link to generate thumbnail
-        const videoId = this.extractVideoId(item.link);
+        // Extract video ID: prioritize yt:videoId field from RSS feed, fallback to URL extraction
+        const videoId = item['yt:videoId'] || this.extractVideoId(item.link);
         // Use mqdefault as it works for both regular videos and shorts
         const thumbnail = videoId ? `https://img.youtube.com/vi/${videoId}/mqdefault.jpg` : null;
         
