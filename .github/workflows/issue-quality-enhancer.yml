@@ -1,0 +1,15 @@
+name: ✍️ Issue Quality Enhancer
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  enhance:
+    uses: 0GiS0/agentic-repo/.github/workflows/issue-quality-enhancer.yml@main
+    with:
+      issue_number: ${{ github.event.issue.number }}
+      issue_title: ${{ github.event.issue.title }}
+      issue_body: ${{ github.event.issue.body }}
+      issue_author: ${{ github.event.issue.user.login }}
+    secrets: inherit
