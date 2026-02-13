@@ -1,0 +1,31 @@
+name: 💡 Copilot Suggester (Discussion Mode)
+
+on:
+  workflow_dispatch:
+    inputs:
+      suggestion_type:
+        description: 'Type of suggestions to look for'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - security
+          - performance
+          - refactoring
+          - testing
+          - documentation
+          - architecture
+          - configuration
+          - bugs
+          - maintainability
+          - ux-design
+          - favicon
+          - readme
+
+jobs:
+  suggest:
+    uses: 0GiS0/agentic-repo/.github/workflows/the-suggester-discussion-mode.yml@main
+    with:
+      suggestion_type: ${{ inputs.suggestion_type }}
+    secrets: inherit
