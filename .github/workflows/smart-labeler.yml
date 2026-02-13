@@ -1,0 +1,17 @@
+name: 🏷️ Smart Issue & PR Labeler
+
+on:
+  issues:
+    types: [opened, edited]
+  pull_request:
+    types: [opened, edited]
+
+jobs:
+  label:
+    uses: 0GiS0/agentic-repo/.github/workflows/smart-labeler.yml@main
+    with:
+      item_type: ${{ github.event_name == 'issues' && 'issue' || 'pull_request' }}
+      item_number: ${{ github.event.issue.number || github.event.pull_request.number }}
+      item_title: ${{ github.event.issue.title || github.event.pull_request.title }}
+      item_body: ${{ github.event.issue.body || github.event.pull_request.body }}
+    secrets: inherit
