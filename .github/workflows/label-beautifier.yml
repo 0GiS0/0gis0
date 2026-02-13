@@ -1,0 +1,20 @@
+name: 🏷️✨ Label Beautifier
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run mode (only show changes, do not apply them)'
+        required: true
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  beautify:
+    uses: 0GiS0/agentic-repo/.github/workflows/label-beautifier.yml@main
+    with:
+      dry_run: ${{ inputs.dry_run }}
+    secrets: inherit
