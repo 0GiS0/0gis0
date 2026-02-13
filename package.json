@@ -2,16 +2,37 @@
   "name": "profile-readme-updater",
   "version": "1.0.0",
   "description": "Dynamic README updater for GitHub profile with YouTube videos and blog posts",
-  "main": "update-readme.js",
+  "private": true,
+  "main": "src/update-readme.js",
   "scripts": {
     "start": "node src/update-readme.js",
     "test": "node src/test-feeds.js"
+  },
+  "keywords": [
+    "github-profile",
+    "readme-updater",
+    "youtube",
+    "rss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0GiS0/0gis0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/0GiS0/0gis0/issues"
+  },
+  "homepage": "https://github.com/0GiS0/0gis0#readme",
+  "engines": {
+    "node": ">=18"
   },
   "dependencies": {
     "rss-parser": "^3.13.0",
     "node-fetch": "^3.3.2"
   },
   "devDependencies": {},
-  "author": "Gisela Torres",
+  "author": {
+    "name": "Gisela Torres",
+    "url": "https://github.com/0GiS0"
+  },
   "license": "MIT"
 }
