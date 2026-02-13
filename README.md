@@ -92,31 +92,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@returngis">
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Cómo crear workflows de GitHub Actions - Tutorial completo" width="280"/>
+<a href="https://www.youtube.com/watch?v=F9SWj3ljqIk">
+<img src="https://img.youtube.com/vi/F9SWj3ljqIk/mqdefault.jpg" alt="Comparte tu VS Code como un PRO 💎 Screencast Mode 🚀" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/@returngis"><strong>Cómo crear workflows de GitHub Actions - Tutorial completo</strong></a>
+<a href="https://www.youtube.com/watch?v=F9SWj3ljqIk"><strong>Comparte tu VS Code como un PRO 💎 Screencast Mode 🚀</strong></a>
 <br/>
-<sub>📅 15 de diciembre de 2024</sub>
+<sub>📅 11 de febrero de 2026</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@returngis">
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Infraestructura como código con Terraform y Azure" width="280"/>
+<a href="https://www.youtube.com/watch?v=AeaMNYddZTE">
+<img src="https://img.youtube.com/vi/AeaMNYddZTE/mqdefault.jpg" alt="🚀 MCP Apps en VS Code Insiders: crea y ejecuta tu primera app" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/@returngis"><strong>Infraestructura como código con Terraform y Azure</strong></a>
+<a href="https://www.youtube.com/watch?v=AeaMNYddZTE"><strong>🚀 MCP Apps en VS Code Insiders: crea y ejecuta tu primera app</strong></a>
 <br/>
-<sub>📅 8 de diciembre de 2024</sub>
+<sub>📅 4 de febrero de 2026</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@returngis">
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Docker y Kubernetes para desarrolladores" width="280"/>
+<a href="https://www.youtube.com/watch?v=2_MXlt-_898">
+<img src="https://img.youtube.com/vi/2_MXlt-_898/mqdefault.jpg" alt="Aprende GitHub Copilot SDK en 30 min 🤖⚡ Guía práctica" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/@returngis"><strong>Docker y Kubernetes para desarrolladores</strong></a>
+<a href="https://www.youtube.com/watch?v=2_MXlt-_898"><strong>Aprende GitHub Copilot SDK en 30 min 🤖⚡ Guía práctica</strong></a>
 <br/>
-<sub>📅 1 de diciembre de 2024</sub>
+<sub>📅 28 de enero de 2026</sub>
 </td>
 </tr>
 </table>
