@@ -32,7 +32,7 @@
 
 </div>
 
-Trabajo en **Microsoft** desde hace más de 12 años (¡y 19 en el sector!) como **Software Global Blackbelt** 🫶🏻. Mi misión es técnica: ayudar a los developers a ser más felices 🥲 y productivos 👩🏻‍💻 a través de la tecnología.
+Trabajo en **Microsoft** desde hace más de 11 años (¡y 18 en el sector!) como **Software Global Blackbelt** 🫶🏻. Mi misión es técnica: ayudar a los developers a ser más felices 🥲 y productivos 👩🏻‍💻 a través de la tecnología.
 
 🎯 **Mi filosofía:** Creo que el mejor código es el que soluciona problemas reales y hace la vida más fácil a las personas.
 
@@ -92,31 +92,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=F9SWj3ljqIk">
-<img src="https://img.youtube.com/vi/F9SWj3ljqIk/mqdefault.jpg" alt="Comparte tu VS Code como un PRO 💎 Screencast Mode 🚀" width="280"/>
+<a href="https://www.youtube.com/@returngis">
+<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Cómo crear workflows de GitHub Actions - Tutorial completo" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/watch?v=F9SWj3ljqIk"><strong>Comparte tu VS Code como un PRO 💎 Screencast Mode 🚀</strong></a>
+<a href="https://www.youtube.com/@returngis"><strong>Cómo crear workflows de GitHub Actions - Tutorial completo</strong></a>
 <br/>
-<sub>📅 11 de febrero de 2026</sub>
+<sub>📅 15 de diciembre de 2024</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=AeaMNYddZTE">
-<img src="https://img.youtube.com/vi/AeaMNYddZTE/mqdefault.jpg" alt="🚀 MCP Apps en VS Code Insiders: crea y ejecuta tu primera app" width="280"/>
+<a href="https://www.youtube.com/@returngis">
+<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Infraestructura como código con Terraform y Azure" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/watch?v=AeaMNYddZTE"><strong>🚀 MCP Apps en VS Code Insiders: crea y ejecuta tu primera app</strong></a>
+<a href="https://www.youtube.com/@returngis"><strong>Infraestructura como código con Terraform y Azure</strong></a>
 <br/>
-<sub>📅 4 de febrero de 2026</sub>
+<sub>📅 8 de diciembre de 2024</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=2_MXlt-_898">
-<img src="https://img.youtube.com/vi/2_MXlt-_898/mqdefault.jpg" alt="Aprende GitHub Copilot SDK en 30 min 🤖⚡ Guía práctica" width="280"/>
+<a href="https://www.youtube.com/@returngis">
+<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Docker y Kubernetes para desarrolladores" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/watch?v=2_MXlt-_898"><strong>Aprende GitHub Copilot SDK en 30 min 🤖⚡ Guía práctica</strong></a>
+<a href="https://www.youtube.com/@returngis"><strong>Docker y Kubernetes para desarrolladores</strong></a>
 <br/>
-<sub>📅 28 de enero de 2026</sub>
+<sub>📅 1 de diciembre de 2024</sub>
 </td>
 </tr>
 </table>
@@ -134,31 +134,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2026/02/haz-que-tus-custom-agents-sean-subagents-de-github-copilot/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/02/Custom-agents-como-sub-agents-en-GitHub-Copilot-scaled.png" alt="Haz que tus custom agents sean subagents de GitHub Copilot" width="280" height="158"/>
+<a href="https://www.returngis.net">
+<img src="https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation" alt="Automatización CI/CD con GitHub Actions y Azure DevOps" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net/2026/02/haz-que-tus-custom-agents-sean-subagents-de-github-copilot/"><strong>Haz que tus custom agents sean subagents de GitHub Copilot</strong></a>
+<a href="https://www.returngis.net"><strong>Automatización CI/CD con GitHub Actions y Azure DevOps</strong></a>
 <br/>
-<sub>📅 9 de febrero de 2026</sub>
+<sub>📅 12 de diciembre de 2024</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2026/02/%f0%9f%94%8c-mcp-server-como-proxy-de-otro-mcp-server/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/02/MCP-Server-como-proxy-scaled.png" alt="🔌 MCP Server como Proxy de otro MCP Server" width="280" height="158"/>
+<a href="https://www.returngis.net">
+<img src="https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices" alt="Microservicios en Azure: Arquitectura y mejores prácticas" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net/2026/02/%f0%9f%94%8c-mcp-server-como-proxy-de-otro-mcp-server/"><strong>🔌 MCP Server como Proxy de otro MCP Server</strong></a>
+<a href="https://www.returngis.net"><strong>Microservicios en Azure: Arquitectura y mejores prácticas</strong></a>
 <br/>
-<sub>📅 2 de febrero de 2026</sub>
+<sub>📅 5 de diciembre de 2024</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2026/01/como-generar-changelogs-automaticos-para-tus-releases-en-github/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/01/Como-generar-changelogs-automaticos-para-tus-releases-en-github-scaled.png" alt="Cómo generar changelogs automáticos para tus releases en GitHub" width="280" height="158"/>
+<a href="https://www.returngis.net">
+<img src="https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability" alt="Monitoreo y observabilidad en aplicaciones modernas" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net/2026/01/como-generar-changelogs-automaticos-para-tus-releases-en-github/"><strong>Cómo generar changelogs automáticos para tus releases en GitHub</strong></a>
+<a href="https://www.returngis.net"><strong>Monitoreo y observabilidad en aplicaciones modernas</strong></a>
 <br/>
-<sub>📅 25 de enero de 2026</sub>
+<sub>📅 28 de noviembre de 2024</sub>
 </td>
 </tr>
 </table>
