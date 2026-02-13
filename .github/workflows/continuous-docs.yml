@@ -1,0 +1,32 @@
+name: 📚 Continuous Documentation
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths:
+      - "**/*.js"
+      - "**/*.ts"
+      - "**/*.py"
+      - "**/*.go"
+      - "**/*.java"
+      - "**/*.cs"
+      - "**/*.rb"
+      - "**/*.rs"
+      - "**/*.php"
+      - "**/*.swift"
+      - "**/*.kt"
+      - "**/*.sh"
+      - "**/*.yml"
+      - "**/*.yaml"
+      - "**/*.json"
+
+jobs:
+  docs:
+    uses: 0GiS0/agentic-repo/.github/workflows/continuous-docs.yml@main
+    with:
+      pr_number: ${{ github.event.pull_request.number }}
+      pr_title: ${{ github.event.pull_request.title }}
+      pr_author: ${{ github.event.pull_request.user.login }}
+      base_ref: ${{ github.event.pull_request.base.ref }}
+      head_ref: ${{ github.event.pull_request.head.ref }}
+    secrets: inherit
