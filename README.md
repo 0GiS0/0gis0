@@ -134,6 +134,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.returngis.net/2026/02/github-agentic-workflows-tu-primer-workflow-sin-escribir-yaml/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/02/Flujos-Agenticos-en-GitHub-Actions-scaled.png" alt="🤖🚀 GitHub Agentic Workflows: tu primer workflow sin escribir YAML" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/02/github-agentic-workflows-tu-primer-workflow-sin-escribir-yaml/"><strong>🤖🚀 GitHub Agentic Workflows: tu primer workflow sin escribir YAML</strong></a>
+<br/>
+<sub>📅 14 de febrero de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.returngis.net/2026/02/haz-que-tus-custom-agents-sean-subagents-de-github-copilot/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/02/Custom-agents-como-sub-agents-en-GitHub-Copilot-scaled.png" alt="Haz que tus custom agents sean subagents de GitHub Copilot" width="280" height="158"/>
 </a>
@@ -150,15 +159,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2026/02/%f0%9f%94%8c-mcp-server-como-proxy-de-otro-mcp-server/"><strong>🔌 MCP Server como Proxy de otro MCP Server</strong></a>
 <br/>
 <sub>📅 2 de febrero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/01/como-generar-changelogs-automaticos-para-tus-releases-en-github/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/01/Como-generar-changelogs-automaticos-para-tus-releases-en-github-scaled.png" alt="Cómo generar changelogs automáticos para tus releases en GitHub" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/01/como-generar-changelogs-automaticos-para-tus-releases-en-github/"><strong>Cómo generar changelogs automáticos para tus releases en GitHub</strong></a>
-<br/>
-<sub>📅 25 de enero de 2026</sub>
 </td>
 </tr>
 </table>
