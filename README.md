@@ -134,6 +134,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.returngis.net/2026/02/mi-configuracion-de-dev-container-para-spring-boot/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/02/Dev-Container-para-Spring-Boot.png" alt="Mi configuración de Dev Container para Spring Boot" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/02/mi-configuracion-de-dev-container-para-spring-boot/"><strong>Mi configuración de Dev Container para Spring Boot</strong></a>
+<br/>
+<sub>📅 16 de febrero de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.returngis.net/2026/02/github-agentic-workflows-tu-primer-workflow-sin-escribir-yaml/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/02/Flujos-Agenticos-en-GitHub-Actions-scaled.png" alt="🤖🚀 GitHub Agentic Workflows: tu primer workflow sin escribir YAML" width="280" height="158"/>
 </a>
@@ -150,15 +159,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2026/02/haz-que-tus-custom-agents-sean-subagents-de-github-copilot/"><strong>Haz que tus custom agents sean subagents de GitHub Copilot</strong></a>
 <br/>
 <sub>📅 9 de febrero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/02/%f0%9f%94%8c-mcp-server-como-proxy-de-otro-mcp-server/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/02/MCP-Server-como-proxy-scaled.png" alt="🔌 MCP Server como Proxy de otro MCP Server" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/02/%f0%9f%94%8c-mcp-server-como-proxy-de-otro-mcp-server/"><strong>🔌 MCP Server como Proxy de otro MCP Server</strong></a>
-<br/>
-<sub>📅 2 de febrero de 2026</sub>
 </td>
 </tr>
 </table>
