@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=E_JGX4HP9o8">
+<img src="https://img.youtube.com/vi/E_JGX4HP9o8/mqdefault.jpg" alt="🤖 GitHub Copilot CLI + Actions: mi repo agentic 🚀🔥" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=E_JGX4HP9o8"><strong>🤖 GitHub Copilot CLI + Actions: mi repo agentic 🚀🔥</strong></a>
+<br/>
+<sub>📅 18 de febrero de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=F9SWj3ljqIk">
 <img src="https://img.youtube.com/vi/F9SWj3ljqIk/mqdefault.jpg" alt="Comparte tu VS Code como un PRO 💎 Screencast Mode 🚀" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=AeaMNYddZTE"><strong>🚀 MCP Apps en VS Code Insiders: crea y ejecuta tu primera app</strong></a>
 <br/>
 <sub>📅 4 de febrero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=2_MXlt-_898">
-<img src="https://img.youtube.com/vi/2_MXlt-_898/mqdefault.jpg" alt="Aprende GitHub Copilot SDK en 30 min 🤖⚡ Guía práctica" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=2_MXlt-_898"><strong>Aprende GitHub Copilot SDK en 30 min 🤖⚡ Guía práctica</strong></a>
-<br/>
-<sub>📅 28 de enero de 2026</sub>
 </td>
 </tr>
 </table>
