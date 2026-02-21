@@ -134,6 +134,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.returngis.net/2026/02/desarrollando-con-quarkus-en-vs-code-usando-dev-containers/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/02/Quarkus-y-Dev-Containers-scaled.png" alt="Desarrollando con Quarkus en VS Code usando Dev Containers" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/02/desarrollando-con-quarkus-en-vs-code-usando-dev-containers/"><strong>Desarrollando con Quarkus en VS Code usando Dev Containers</strong></a>
+<br/>
+<sub>📅 21 de febrero de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.returngis.net/2026/02/mi-configuracion-de-dev-container-para-spring-boot/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/02/Dev-Container-para-Spring-Boot.png" alt="Mi configuración de Dev Container para Spring Boot" width="280" height="158"/>
 </a>
@@ -150,15 +159,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2026/02/github-agentic-workflows-tu-primer-workflow-sin-escribir-yaml/"><strong>🤖🚀 GitHub Agentic Workflows: tu primer workflow sin escribir YAML</strong></a>
 <br/>
 <sub>📅 14 de febrero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/02/haz-que-tus-custom-agents-sean-subagents-de-github-copilot/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/02/Custom-agents-como-sub-agents-en-GitHub-Copilot-scaled.png" alt="Haz que tus custom agents sean subagents de GitHub Copilot" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/02/haz-que-tus-custom-agents-sean-subagents-de-github-copilot/"><strong>Haz que tus custom agents sean subagents de GitHub Copilot</strong></a>
-<br/>
-<sub>📅 9 de febrero de 2026</sub>
 </td>
 </tr>
 </table>
