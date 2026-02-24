@@ -135,7 +135,7 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <tr>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/02/desarrollando-con-quarkus-en-vs-code-usando-dev-containers/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/02/Quarkus-y-Dev-Containers-scaled.png" alt="Desarrollando con Quarkus en VS Code usando Dev Containers" width="280" height="158"/>
+<img src="https://via.placeholder.com/600x400/339933/ffffff?text=Blog+Post" alt="Desarrollando con Quarkus en VS Code usando Dev Containers" width="280" height="158"/>
 </a>
 <br/>
 <a href="https://www.returngis.net/2026/02/desarrollando-con-quarkus-en-vs-code-usando-dev-containers/"><strong>Desarrollando con Quarkus en VS Code usando Dev Containers</strong></a>
@@ -144,7 +144,7 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 </td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/02/mi-configuracion-de-dev-container-para-spring-boot/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/02/Dev-Container-para-Spring-Boot.png" alt="Mi configuración de Dev Container para Spring Boot" width="280" height="158"/>
+<img src="https://i0.wp.com/www.returngis.net/wp-content/uploads/2026/02/Etiquetas-para-los-puertos.png?resize=710%2C102&#038;ssl=1" alt="Mi configuración de Dev Container para Spring Boot" width="280" height="158"/>
 </a>
 <br/>
 <a href="https://www.returngis.net/2026/02/mi-configuracion-de-dev-container-para-spring-boot/"><strong>Mi configuración de Dev Container para Spring Boot</strong></a>
@@ -153,7 +153,7 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 </td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/02/github-agentic-workflows-tu-primer-workflow-sin-escribir-yaml/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/02/Flujos-Agenticos-en-GitHub-Actions-scaled.png" alt="🤖🚀 GitHub Agentic Workflows: tu primer workflow sin escribir YAML" width="280" height="158"/>
+<img src="https://i0.wp.com/www.returngis.net/wp-content/uploads/2026/02/PAT-con-el-scope-Copilot-Requests.png?resize=710%2C433&#038;ssl=1" alt="🤖🚀 GitHub Agentic Workflows: tu primer workflow sin escribir YAML" width="280" height="158"/>
 </a>
 <br/>
 <a href="https://www.returngis.net/2026/02/github-agentic-workflows-tu-primer-workflow-sin-escribir-yaml/"><strong>🤖🚀 GitHub Agentic Workflows: tu primer workflow sin escribir YAML</strong></a>
