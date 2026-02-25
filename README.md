@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=TGX30Z9YVnY">
+<img src="https://img.youtube.com/vi/TGX30Z9YVnY/mqdefault.jpg" alt="🤖⚡ Empieza con GitHub Agentic Workflows en 30 min 🚀" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=TGX30Z9YVnY"><strong>🤖⚡ Empieza con GitHub Agentic Workflows en 30 min 🚀</strong></a>
+<br/>
+<sub>📅 25 de febrero de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=E_JGX4HP9o8">
 <img src="https://img.youtube.com/vi/E_JGX4HP9o8/mqdefault.jpg" alt="🤖 GitHub Copilot CLI + Actions: mi repo agentic 🚀🔥" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=F9SWj3ljqIk"><strong>Comparte tu VS Code como un PRO 💎 Screencast Mode 🚀</strong></a>
 <br/>
 <sub>📅 11 de febrero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=AeaMNYddZTE">
-<img src="https://img.youtube.com/vi/AeaMNYddZTE/mqdefault.jpg" alt="🚀 MCP Apps en VS Code Insiders: crea y ejecuta tu primera app" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=AeaMNYddZTE"><strong>🚀 MCP Apps en VS Code Insiders: crea y ejecuta tu primera app</strong></a>
-<br/>
-<sub>📅 4 de febrero de 2026</sub>
 </td>
 </tr>
 </table>
