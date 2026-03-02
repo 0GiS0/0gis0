@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/fiVc9WXUdV4">
+<img src="https://img.youtube.com/vi/fiVc9WXUdV4/mqdefault.jpg" alt="GitHub Copilot puede interactuar con tu web sin que toques el ratón 🤯   #shorts" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/fiVc9WXUdV4"><strong>GitHub Copilot puede interactuar con tu web sin que toques el ratón 🤯   #shorts</strong></a>
+<br/>
+<sub>📅 2 de marzo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=TGX30Z9YVnY">
 <img src="https://img.youtube.com/vi/TGX30Z9YVnY/mqdefault.jpg" alt="🤖⚡ Empieza con GitHub Agentic Workflows en 30 min 🚀" width="280"/>
 </a>
@@ -109,15 +118,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <br/>
 <sub>📅 18 de febrero de 2026</sub>
 </td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=F9SWj3ljqIk">
-<img src="https://img.youtube.com/vi/F9SWj3ljqIk/mqdefault.jpg" alt="Comparte tu VS Code como un PRO 💎 Screencast Mode 🚀" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=F9SWj3ljqIk"><strong>Comparte tu VS Code como un PRO 💎 Screencast Mode 🚀</strong></a>
-<br/>
-<sub>📅 11 de febrero de 2026</sub>
-</td>
 </tr>
 </table>
 
@@ -134,31 +134,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2026/02/desarrollando-con-quarkus-en-vs-code-usando-dev-containers/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/02/Quarkus-y-Dev-Containers-scaled.png" alt="Desarrollando con Quarkus en VS Code usando Dev Containers" width="280" height="158"/>
+<a href="https://www.returngis.net">
+<img src="https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation" alt="Automatización CI/CD con GitHub Actions y Azure DevOps" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net/2026/02/desarrollando-con-quarkus-en-vs-code-usando-dev-containers/"><strong>Desarrollando con Quarkus en VS Code usando Dev Containers</strong></a>
+<a href="https://www.returngis.net"><strong>Automatización CI/CD con GitHub Actions y Azure DevOps</strong></a>
 <br/>
-<sub>📅 21 de febrero de 2026</sub>
+<sub>📅 12 de diciembre de 2024</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2026/02/mi-configuracion-de-dev-container-para-spring-boot/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/02/Dev-Container-para-Spring-Boot.png" alt="Mi configuración de Dev Container para Spring Boot" width="280" height="158"/>
+<a href="https://www.returngis.net">
+<img src="https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices" alt="Microservicios en Azure: Arquitectura y mejores prácticas" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net/2026/02/mi-configuracion-de-dev-container-para-spring-boot/"><strong>Mi configuración de Dev Container para Spring Boot</strong></a>
+<a href="https://www.returngis.net"><strong>Microservicios en Azure: Arquitectura y mejores prácticas</strong></a>
 <br/>
-<sub>📅 16 de febrero de 2026</sub>
+<sub>📅 5 de diciembre de 2024</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2026/02/github-agentic-workflows-tu-primer-workflow-sin-escribir-yaml/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/02/Flujos-Agenticos-en-GitHub-Actions-scaled.png" alt="🤖🚀 GitHub Agentic Workflows: tu primer workflow sin escribir YAML" width="280" height="158"/>
+<a href="https://www.returngis.net">
+<img src="https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability" alt="Monitoreo y observabilidad en aplicaciones modernas" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net/2026/02/github-agentic-workflows-tu-primer-workflow-sin-escribir-yaml/"><strong>🤖🚀 GitHub Agentic Workflows: tu primer workflow sin escribir YAML</strong></a>
+<a href="https://www.returngis.net"><strong>Monitoreo y observabilidad en aplicaciones modernas</strong></a>
 <br/>
-<sub>📅 14 de febrero de 2026</sub>
+<sub>📅 28 de noviembre de 2024</sub>
 </td>
 </tr>
 </table>
