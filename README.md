@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=L2hvVm10jLs">
+<img src="https://img.youtube.com/vi/L2hvVm10jLs/mqdefault.jpg" alt="5 Agentic Workflows reales 🤖🔥 Automatiza tu repo YA 🚀" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=L2hvVm10jLs"><strong>5 Agentic Workflows reales 🤖🔥 Automatiza tu repo YA 🚀</strong></a>
+<br/>
+<sub>📅 4 de marzo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/shorts/fiVc9WXUdV4">
 <img src="https://img.youtube.com/vi/fiVc9WXUdV4/mqdefault.jpg" alt="GitHub Copilot puede interactuar con tu web sin que toques el ratón 🤯   #shorts" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=TGX30Z9YVnY"><strong>🤖⚡ Empieza con GitHub Agentic Workflows en 30 min 🚀</strong></a>
 <br/>
 <sub>📅 25 de febrero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=E_JGX4HP9o8">
-<img src="https://img.youtube.com/vi/E_JGX4HP9o8/mqdefault.jpg" alt="🤖 GitHub Copilot CLI + Actions: mi repo agentic 🚀🔥" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=E_JGX4HP9o8"><strong>🤖 GitHub Copilot CLI + Actions: mi repo agentic 🚀🔥</strong></a>
-<br/>
-<sub>📅 18 de febrero de 2026</sub>
 </td>
 </tr>
 </table>
