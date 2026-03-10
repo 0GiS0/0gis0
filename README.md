@@ -134,6 +134,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.returngis.net/2026/03/mi-configuracion-de-dev-container-para-desarrollar-plugins-de-wordpress/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/03/Dev-Containers-para-desarrollar-plugins-de-Wordpress.png" alt="Mi configuración de Dev Container para desarrollar plugins de WordPress" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/03/mi-configuracion-de-dev-container-para-desarrollar-plugins-de-wordpress/"><strong>Mi configuración de Dev Container para desarrollar plugins de WordPress</strong></a>
+<br/>
+<sub>📅 9 de marzo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.returngis.net/2026/03/pre-commit-hooks-en-java-sin-python-spotless-checkstyle-gradle/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/03/pre-commit-hooks-en-proyectos-de-Java-sin-pre-commit-scaled.png" alt="Pre-commit hooks en Java sin Python: Spotless + Checkstyle + Gradle" width="280" height="158"/>
 </a>
@@ -150,15 +159,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2026/02/desarrollando-con-quarkus-en-vs-code-usando-dev-containers/"><strong>Desarrollando con Quarkus en VS Code usando Dev Containers</strong></a>
 <br/>
 <sub>📅 21 de febrero de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/02/mi-configuracion-de-dev-container-para-spring-boot/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/02/Dev-Container-para-Spring-Boot.png" alt="Mi configuración de Dev Container para Spring Boot" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/02/mi-configuracion-de-dev-container-para-spring-boot/"><strong>Mi configuración de Dev Container para Spring Boot</strong></a>
-<br/>
-<sub>📅 16 de febrero de 2026</sub>
 </td>
 </tr>
 </table>
