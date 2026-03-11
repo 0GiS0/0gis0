@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=ccj7ok6s3hA">
+<img src="https://img.youtube.com/vi/ccj7ok6s3hA/mqdefault.jpg" alt="GitHub Copilot controlando tu navegador 🤯 Agentic Browser Tools en VS Code" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=ccj7ok6s3hA"><strong>GitHub Copilot controlando tu navegador 🤯 Agentic Browser Tools en VS Code</strong></a>
+<br/>
+<sub>📅 11 de marzo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=L2hvVm10jLs">
 <img src="https://img.youtube.com/vi/L2hvVm10jLs/mqdefault.jpg" alt="5 Agentic Workflows reales 🤖🔥 Automatiza tu repo YA 🚀" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/shorts/fiVc9WXUdV4"><strong>GitHub Copilot puede interactuar con tu web sin que toques el ratón 🤯   #shorts</strong></a>
 <br/>
 <sub>📅 2 de marzo de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=TGX30Z9YVnY">
-<img src="https://img.youtube.com/vi/TGX30Z9YVnY/mqdefault.jpg" alt="🤖⚡ Empieza con GitHub Agentic Workflows en 30 min 🚀" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=TGX30Z9YVnY"><strong>🤖⚡ Empieza con GitHub Agentic Workflows en 30 min 🚀</strong></a>
-<br/>
-<sub>📅 25 de febrero de 2026</sub>
 </td>
 </tr>
 </table>
