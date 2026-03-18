@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=ONSog4WgUmw">
+<img src="https://img.youtube.com/vi/ONSog4WgUmw/mqdefault.jpg" alt="💥 VS 2026 + Copilot: repaso completo + migración .NET 4.8 → 10 🚀" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=ONSog4WgUmw"><strong>💥 VS 2026 + Copilot: repaso completo + migración .NET 4.8 → 10 🚀</strong></a>
+<br/>
+<sub>📅 18 de marzo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=ccj7ok6s3hA">
 <img src="https://img.youtube.com/vi/ccj7ok6s3hA/mqdefault.jpg" alt="GitHub Copilot controlando tu navegador 🤯 Agentic Browser Tools en VS Code" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=L2hvVm10jLs"><strong>5 Agentic Workflows reales 🤖🔥 Automatiza tu repo YA 🚀</strong></a>
 <br/>
 <sub>📅 4 de marzo de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/shorts/fiVc9WXUdV4">
-<img src="https://img.youtube.com/vi/fiVc9WXUdV4/mqdefault.jpg" alt="GitHub Copilot puede interactuar con tu web sin que toques el ratón 🤯   #shorts" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/shorts/fiVc9WXUdV4"><strong>GitHub Copilot puede interactuar con tu web sin que toques el ratón 🤯   #shorts</strong></a>
-<br/>
-<sub>📅 2 de marzo de 2026</sub>
 </td>
 </tr>
 </table>
