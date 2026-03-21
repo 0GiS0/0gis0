@@ -134,6 +134,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.returngis.net/2026/03/%f0%9f%94%90-como-configurar-codeql-para-ejecutar-solo-las-queries-que-necesitas-owasp-top-10-custom-queries/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/03/Configurar-CodeQL-con-reglas-especificas-y-personalizadas-scaled.png" alt="🔐 Cómo configurar CodeQL para ejecutar solo las queries que necesitas (OWASP Top 10 + custom queries)" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/03/%f0%9f%94%90-como-configurar-codeql-para-ejecutar-solo-las-queries-que-necesitas-owasp-top-10-custom-queries/"><strong>🔐 Cómo configurar CodeQL para ejecutar solo las queries que necesitas (OWASP Top 10 + custom queries)</strong></a>
+<br/>
+<sub>📅 20 de marzo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.returngis.net/2026/03/mi-configuracion-de-dev-container-para-desarrollar-plugins-de-wordpress/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/03/Dev-Containers-para-desarrollar-plugins-de-Wordpress.png" alt="Mi configuración de Dev Container para desarrollar plugins de WordPress" width="280" height="158"/>
 </a>
@@ -150,15 +159,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2026/03/pre-commit-hooks-en-java-sin-python-spotless-checkstyle-gradle/"><strong>Pre-commit hooks en Java sin Python: Spotless + Checkstyle + Gradle</strong></a>
 <br/>
 <sub>📅 8 de marzo de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/02/desarrollando-con-quarkus-en-vs-code-usando-dev-containers/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/02/Quarkus-y-Dev-Containers-scaled.png" alt="Desarrollando con Quarkus en VS Code usando Dev Containers" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/02/desarrollando-con-quarkus-en-vs-code-usando-dev-containers/"><strong>Desarrollando con Quarkus en VS Code usando Dev Containers</strong></a>
-<br/>
-<sub>📅 21 de febrero de 2026</sub>
 </td>
 </tr>
 </table>
