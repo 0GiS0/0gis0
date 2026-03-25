@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=BomDSi3UW5o">
+<img src="https://img.youtube.com/vi/BomDSi3UW5o/mqdefault.jpg" alt="💥 De alertas a acción: GHAS + Defender for Cloud 🔐☁️" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=BomDSi3UW5o"><strong>💥 De alertas a acción: GHAS + Defender for Cloud 🔐☁️</strong></a>
+<br/>
+<sub>📅 25 de marzo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=ONSog4WgUmw">
 <img src="https://img.youtube.com/vi/ONSog4WgUmw/mqdefault.jpg" alt="💥 VS 2026 + Copilot: repaso completo + migración .NET 4.8 → 10 🚀" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=ccj7ok6s3hA"><strong>GitHub Copilot controlando tu navegador 🤯 Agentic Browser Tools en VS Code</strong></a>
 <br/>
 <sub>📅 11 de marzo de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=L2hvVm10jLs">
-<img src="https://img.youtube.com/vi/L2hvVm10jLs/mqdefault.jpg" alt="5 Agentic Workflows reales 🤖🔥 Automatiza tu repo YA 🚀" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=L2hvVm10jLs"><strong>5 Agentic Workflows reales 🤖🔥 Automatiza tu repo YA 🚀</strong></a>
-<br/>
-<sub>📅 4 de marzo de 2026</sub>
 </td>
 </tr>
 </table>
