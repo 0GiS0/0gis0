@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=l22L03Mrw2k">
+<img src="https://img.youtube.com/vi/l22L03Mrw2k/mqdefault.jpg" alt="Cómo ejecutar tu app en VS Code SIN LÍOS (launch.json explicado fácil)" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=l22L03Mrw2k"><strong>Cómo ejecutar tu app en VS Code SIN LÍOS (launch.json explicado fácil)</strong></a>
+<br/>
+<sub>📅 1 de abril de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=BomDSi3UW5o">
 <img src="https://img.youtube.com/vi/BomDSi3UW5o/mqdefault.jpg" alt="💥 De alertas a acción: GHAS + Defender for Cloud 🔐☁️" width="280"/>
 </a>
@@ -109,15 +118,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <br/>
 <sub>📅 18 de marzo de 2026</sub>
 </td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=ccj7ok6s3hA">
-<img src="https://img.youtube.com/vi/ccj7ok6s3hA/mqdefault.jpg" alt="GitHub Copilot controlando tu navegador 🤯 Agentic Browser Tools en VS Code" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=ccj7ok6s3hA"><strong>GitHub Copilot controlando tu navegador 🤯 Agentic Browser Tools en VS Code</strong></a>
-<br/>
-<sub>📅 11 de marzo de 2026</sub>
-</td>
 </tr>
 </table>
 
@@ -133,6 +133,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 <table>
 <tr>
+<td align="center" width="33%">
+<a href="https://www.returngis.net/2026/04/como-funciona-launch-json-vscode/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/03/launch.json-para-ejecutar-tus-apps-en-VS-Code-como-un-pro-scaled.png" alt="Cómo funciona launch.json en VS Code: configuraciones, compounds y arranques secuenciales" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/04/como-funciona-launch-json-vscode/"><strong>Cómo funciona launch.json en VS Code: configuraciones, compounds y arranques secuenciales</strong></a>
+<br/>
+<sub>📅 1 de abril de 2026</sub>
+</td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/03/dependabot-te-dice-que-es-vulnerable-pero-es-explotable-de-verdad/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/03/Dependabot-te-dice-que-es-vulnerable-pero-es-explotable-scaled.png" alt="Dependabot te dice que es vulnerable… ¿pero es explotable de verdad?" width="280" height="158"/>
@@ -150,15 +159,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2026/03/%f0%9f%94%90-como-configurar-codeql-para-ejecutar-solo-las-queries-que-necesitas-owasp-top-10-custom-queries/"><strong>🔐 Cómo configurar CodeQL para ejecutar solo las queries que necesitas (OWASP Top 10 + custom queries)</strong></a>
 <br/>
 <sub>📅 20 de marzo de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/03/mi-configuracion-de-dev-container-para-desarrollar-plugins-de-wordpress/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/03/Dev-Containers-para-desarrollar-plugins-de-Wordpress.png" alt="Mi configuración de Dev Container para desarrollar plugins de WordPress" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/03/mi-configuracion-de-dev-container-para-desarrollar-plugins-de-wordpress/"><strong>Mi configuración de Dev Container para desarrollar plugins de WordPress</strong></a>
-<br/>
-<sub>📅 9 de marzo de 2026</sub>
 </td>
 </tr>
 </table>
