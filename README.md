@@ -134,31 +134,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.returngis.net">
-<img src="https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation" alt="Automatización CI/CD con GitHub Actions y Azure DevOps" width="280" height="158"/>
+<a href="https://www.returngis.net/2026/04/como-funciona-launch-json-vscode/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/03/launch.json-para-ejecutar-tus-apps-en-VS-Code-como-un-pro-scaled.png" alt="Cómo funciona launch.json en VS Code: configuraciones, compounds y arranques secuenciales" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net"><strong>Automatización CI/CD con GitHub Actions y Azure DevOps</strong></a>
+<a href="https://www.returngis.net/2026/04/como-funciona-launch-json-vscode/"><strong>Cómo funciona launch.json en VS Code: configuraciones, compounds y arranques secuenciales</strong></a>
 <br/>
-<sub>📅 12 de diciembre de 2024</sub>
+<sub>📅 1 de abril de 2026</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net">
-<img src="https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices" alt="Microservicios en Azure: Arquitectura y mejores prácticas" width="280" height="158"/>
+<a href="https://www.returngis.net/2026/03/dependabot-te-dice-que-es-vulnerable-pero-es-explotable-de-verdad/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/03/Dependabot-te-dice-que-es-vulnerable-pero-es-explotable-scaled.png" alt="Dependabot te dice que es vulnerable… ¿pero es explotable de verdad?" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net"><strong>Microservicios en Azure: Arquitectura y mejores prácticas</strong></a>
+<a href="https://www.returngis.net/2026/03/dependabot-te-dice-que-es-vulnerable-pero-es-explotable-de-verdad/"><strong>Dependabot te dice que es vulnerable… ¿pero es explotable de verdad?</strong></a>
 <br/>
-<sub>📅 5 de diciembre de 2024</sub>
+<sub>📅 29 de marzo de 2026</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net">
-<img src="https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability" alt="Monitoreo y observabilidad en aplicaciones modernas" width="280" height="158"/>
+<a href="https://www.returngis.net/2026/03/%f0%9f%94%90-como-configurar-codeql-para-ejecutar-solo-las-queries-que-necesitas-owasp-top-10-custom-queries/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/03/Configurar-CodeQL-con-reglas-especificas-y-personalizadas-scaled.png" alt="🔐 Cómo configurar CodeQL para ejecutar solo las queries que necesitas (OWASP Top 10 + custom queries)" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net"><strong>Monitoreo y observabilidad en aplicaciones modernas</strong></a>
+<a href="https://www.returngis.net/2026/03/%f0%9f%94%90-como-configurar-codeql-para-ejecutar-solo-las-queries-que-necesitas-owasp-top-10-custom-queries/"><strong>🔐 Cómo configurar CodeQL para ejecutar solo las queries que necesitas (OWASP Top 10 + custom queries)</strong></a>
 <br/>
-<sub>📅 28 de noviembre de 2024</sub>
+<sub>📅 20 de marzo de 2026</sub>
 </td>
 </tr>
 </table>
