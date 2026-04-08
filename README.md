@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=2s903Ct4S_E">
+<img src="https://img.youtube.com/vi/2s903Ct4S_E/mqdefault.jpg" alt="🤖 Cómo uso la IA para mejorar mi WordPress  🚀" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=2s903Ct4S_E"><strong>🤖 Cómo uso la IA para mejorar mi WordPress  🚀</strong></a>
+<br/>
+<sub>📅 8 de abril de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=l22L03Mrw2k">
 <img src="https://img.youtube.com/vi/l22L03Mrw2k/mqdefault.jpg" alt="Cómo ejecutar tu app en VS Code SIN LÍOS (launch.json explicado fácil)" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=BomDSi3UW5o"><strong>💥 De alertas a acción: GHAS + Defender for Cloud 🔐☁️</strong></a>
 <br/>
 <sub>📅 25 de marzo de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=ONSog4WgUmw">
-<img src="https://img.youtube.com/vi/ONSog4WgUmw/mqdefault.jpg" alt="💥 VS 2026 + Copilot: repaso completo + migración .NET 4.8 → 10 🚀" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=ONSog4WgUmw"><strong>💥 VS 2026 + Copilot: repaso completo + migración .NET 4.8 → 10 🚀</strong></a>
-<br/>
-<sub>📅 18 de marzo de 2026</sub>
 </td>
 </tr>
 </table>
