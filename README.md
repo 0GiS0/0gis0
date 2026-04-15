@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=r6bPhx6uaVM">
+<img src="https://img.youtube.com/vi/r6bPhx6uaVM/mqdefault.jpg" alt="🚀 GitHub Copilot CLI a fondo: MCPs, Plan, Autopilot, Fleet y Review" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=r6bPhx6uaVM"><strong>🚀 GitHub Copilot CLI a fondo: MCPs, Plan, Autopilot, Fleet y Review</strong></a>
+<br/>
+<sub>📅 15 de abril de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=2s903Ct4S_E">
 <img src="https://img.youtube.com/vi/2s903Ct4S_E/mqdefault.jpg" alt="🤖 Cómo uso la IA para mejorar mi WordPress  🚀" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=l22L03Mrw2k"><strong>Cómo ejecutar tu app en VS Code SIN LÍOS (launch.json explicado fácil)</strong></a>
 <br/>
 <sub>📅 1 de abril de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=BomDSi3UW5o">
-<img src="https://img.youtube.com/vi/BomDSi3UW5o/mqdefault.jpg" alt="💥 De alertas a acción: GHAS + Defender for Cloud 🔐☁️" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=BomDSi3UW5o"><strong>💥 De alertas a acción: GHAS + Defender for Cloud 🔐☁️</strong></a>
-<br/>
-<sub>📅 25 de marzo de 2026</sub>
 </td>
 </tr>
 </table>
