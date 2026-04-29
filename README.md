@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=niuJpAKyb7c">
+<img src="https://img.youtube.com/vi/niuJpAKyb7c/mqdefault.jpg" alt="🚇 VS Code Remoto con Dev Tunnels: entra desde navegador o editor" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=niuJpAKyb7c"><strong>🚇 VS Code Remoto con Dev Tunnels: entra desde navegador o editor</strong></a>
+<br/>
+<sub>📅 29 de abril de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=15TUwdUgNUc">
 <img src="https://img.youtube.com/vi/15TUwdUgNUc/mqdefault.jpg" alt="Agent Hooks en GitHub Copilot: controla lo que hacen tus agentes ⚙️" width="280"/>
 </a>
@@ -109,15 +118,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <br/>
 <sub>📅 15 de abril de 2026</sub>
 </td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=2s903Ct4S_E">
-<img src="https://img.youtube.com/vi/2s903Ct4S_E/mqdefault.jpg" alt="🤖 Cómo uso la IA para mejorar mi WordPress  🚀" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=2s903Ct4S_E"><strong>🤖 Cómo uso la IA para mejorar mi WordPress  🚀</strong></a>
-<br/>
-<sub>📅 8 de abril de 2026</sub>
-</td>
 </tr>
 </table>
 
@@ -133,6 +133,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 <table>
 <tr>
+<td align="center" width="33%">
+<a href="https://www.returngis.net/2026/04/agent-hooks-github-copilot-lint-formato-automatico/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/04/Agent-Hooks-scaled.png" alt="Control de calidad en Agentic DevOps: automatiza linting y formateo con hooks" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/04/agent-hooks-github-copilot-lint-formato-automatico/"><strong>Control de calidad en Agentic DevOps: automatiza linting y formateo con hooks</strong></a>
+<br/>
+<sub>📅 28 de abril de 2026</sub>
+</td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/04/github-pages-seguridad-csp/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/04/GitHub-Pages-protegido-con-CSP-scaled.png" alt="Seguridad en GitHub Pages con CSP" width="280" height="158"/>
@@ -150,15 +159,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2026/04/como-funciona-launch-json-vscode/"><strong>Cómo funciona launch.json en VS Code: configuraciones, compounds y arranques secuenciales</strong></a>
 <br/>
 <sub>📅 1 de abril de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/03/dependabot-te-dice-que-es-vulnerable-pero-es-explotable-de-verdad/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/03/Dependabot-te-dice-que-es-vulnerable-pero-es-explotable-scaled.png" alt="Dependabot te dice que es vulnerable… ¿pero es explotable de verdad?" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/03/dependabot-te-dice-que-es-vulnerable-pero-es-explotable-de-verdad/"><strong>Dependabot te dice que es vulnerable… ¿pero es explotable de verdad?</strong></a>
-<br/>
-<sub>📅 29 de marzo de 2026</sub>
 </td>
 </tr>
 </table>
