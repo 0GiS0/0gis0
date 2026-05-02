@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/fttqWLsi7zQ">
+<img src="https://img.youtube.com/vi/fttqWLsi7zQ/mqdefault.jpg" alt="Conéctate a tú VS Code desde cualquier sitio #shorts" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/fttqWLsi7zQ"><strong>Conéctate a tú VS Code desde cualquier sitio #shorts</strong></a>
+<br/>
+<sub>📅 2 de mayo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=niuJpAKyb7c">
 <img src="https://img.youtube.com/vi/niuJpAKyb7c/mqdefault.jpg" alt="🚇 VS Code Remoto con Dev Tunnels: entra desde navegador o editor" width="280"/>
 </a>
@@ -109,15 +118,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <br/>
 <sub>📅 22 de abril de 2026</sub>
 </td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=r6bPhx6uaVM">
-<img src="https://img.youtube.com/vi/r6bPhx6uaVM/mqdefault.jpg" alt="🚀 GitHub Copilot CLI a fondo: MCPs, Plan, Autopilot, Fleet y Review" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=r6bPhx6uaVM"><strong>🚀 GitHub Copilot CLI a fondo: MCPs, Plan, Autopilot, Fleet y Review</strong></a>
-<br/>
-<sub>📅 15 de abril de 2026</sub>
-</td>
 </tr>
 </table>
 
@@ -134,31 +134,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2026/04/agent-hooks-github-copilot-lint-formato-automatico/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/04/Agent-Hooks-scaled.png" alt="Control de calidad en Agentic DevOps: automatiza linting y formateo con hooks" width="280" height="158"/>
+<a href="https://www.returngis.net">
+<img src="https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation" alt="Automatización CI/CD con GitHub Actions y Azure DevOps" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net/2026/04/agent-hooks-github-copilot-lint-formato-automatico/"><strong>Control de calidad en Agentic DevOps: automatiza linting y formateo con hooks</strong></a>
+<a href="https://www.returngis.net"><strong>Automatización CI/CD con GitHub Actions y Azure DevOps</strong></a>
 <br/>
-<sub>📅 28 de abril de 2026</sub>
+<sub>📅 12 de diciembre de 2024</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2026/04/github-pages-seguridad-csp/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/04/GitHub-Pages-protegido-con-CSP-scaled.png" alt="Seguridad en GitHub Pages con CSP" width="280" height="158"/>
+<a href="https://www.returngis.net">
+<img src="https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices" alt="Microservicios en Azure: Arquitectura y mejores prácticas" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net/2026/04/github-pages-seguridad-csp/"><strong>Seguridad en GitHub Pages con CSP</strong></a>
+<a href="https://www.returngis.net"><strong>Microservicios en Azure: Arquitectura y mejores prácticas</strong></a>
 <br/>
-<sub>📅 16 de abril de 2026</sub>
+<sub>📅 5 de diciembre de 2024</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2026/04/como-funciona-launch-json-vscode/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/03/launch.json-para-ejecutar-tus-apps-en-VS-Code-como-un-pro-scaled.png" alt="Cómo funciona launch.json en VS Code: configuraciones, compounds y arranques secuenciales" width="280" height="158"/>
+<a href="https://www.returngis.net">
+<img src="https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability" alt="Monitoreo y observabilidad en aplicaciones modernas" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net/2026/04/como-funciona-launch-json-vscode/"><strong>Cómo funciona launch.json en VS Code: configuraciones, compounds y arranques secuenciales</strong></a>
+<a href="https://www.returngis.net"><strong>Monitoreo y observabilidad en aplicaciones modernas</strong></a>
 <br/>
-<sub>📅 1 de abril de 2026</sub>
+<sub>📅 28 de noviembre de 2024</sub>
 </td>
 </tr>
 </table>
