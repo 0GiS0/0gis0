@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=OtX-rLyQ85I">
+<img src="https://img.youtube.com/vi/OtX-rLyQ85I/mqdefault.jpg" alt="🤖 GitHub Copilot en Jenkins: pipelines y chat con IA 🚀" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=OtX-rLyQ85I"><strong>🤖 GitHub Copilot en Jenkins: pipelines y chat con IA 🚀</strong></a>
+<br/>
+<sub>📅 5 de mayo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/shorts/fttqWLsi7zQ">
 <img src="https://img.youtube.com/vi/fttqWLsi7zQ/mqdefault.jpg" alt="Conéctate a tu VS Code desde cualquier sitio #shorts" width="280"/>
 </a>
@@ -109,15 +118,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <br/>
 <sub>📅 29 de abril de 2026</sub>
 </td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=15TUwdUgNUc">
-<img src="https://img.youtube.com/vi/15TUwdUgNUc/mqdefault.jpg" alt="Agent Hooks en GitHub Copilot: controla lo que hacen tus agentes ⚙️" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=15TUwdUgNUc"><strong>Agent Hooks en GitHub Copilot: controla lo que hacen tus agentes ⚙️</strong></a>
-<br/>
-<sub>📅 22 de abril de 2026</sub>
-</td>
 </tr>
 </table>
 
@@ -133,6 +133,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 <table>
 <tr>
+<td align="center" width="33%">
+<a href="https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/05/Crear-tuneles-con-el-CLI-de-VS-Code-scaled.png" alt="VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/"><strong>VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador</strong></a>
+<br/>
+<sub>📅 5 de mayo de 2026</sub>
+</td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/04/agent-hooks-github-copilot-lint-formato-automatico/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/04/Agent-Hooks-scaled.png" alt="Control de calidad en Agentic DevOps: automatiza linting y formateo con hooks" width="280" height="158"/>
@@ -150,15 +159,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2026/04/github-pages-seguridad-csp/"><strong>Seguridad en GitHub Pages con CSP</strong></a>
 <br/>
 <sub>📅 16 de abril de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/04/como-funciona-launch-json-vscode/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/03/launch.json-para-ejecutar-tus-apps-en-VS-Code-como-un-pro-scaled.png" alt="Cómo funciona launch.json en VS Code: configuraciones, compounds y arranques secuenciales" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/04/como-funciona-launch-json-vscode/"><strong>Cómo funciona launch.json en VS Code: configuraciones, compounds y arranques secuenciales</strong></a>
-<br/>
-<sub>📅 1 de abril de 2026</sub>
 </td>
 </tr>
 </table>
