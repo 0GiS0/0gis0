@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/SkgmvqZLUFc">
+<img src="https://img.youtube.com/vi/SkgmvqZLUFc/mqdefault.jpg" alt="Encontrando tu Tribu: Comunidad y Pasión #shorts" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/SkgmvqZLUFc"><strong>Encontrando tu Tribu: Comunidad y Pasión #shorts</strong></a>
+<br/>
+<sub>📅 6 de mayo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=OtX-rLyQ85I">
 <img src="https://img.youtube.com/vi/OtX-rLyQ85I/mqdefault.jpg" alt="🤖 GitHub Copilot en Jenkins: pipelines y chat con IA 🚀" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/shorts/fttqWLsi7zQ"><strong>Conéctate a tu VS Code desde cualquier sitio #shorts</strong></a>
 <br/>
 <sub>📅 2 de mayo de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=niuJpAKyb7c">
-<img src="https://img.youtube.com/vi/niuJpAKyb7c/mqdefault.jpg" alt="🚇 VS Code Remoto con Dev Tunnels: entra desde navegador o editor" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=niuJpAKyb7c"><strong>🚇 VS Code Remoto con Dev Tunnels: entra desde navegador o editor</strong></a>
-<br/>
-<sub>📅 29 de abril de 2026</sub>
 </td>
 </tr>
 </table>
