@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=ZWInTD7H3HE">
+<img src="https://img.youtube.com/vi/ZWInTD7H3HE/mqdefault.jpg" alt="🔌 Copilot CLI: plugins gestionados a nivel Enterprise 🚀" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=ZWInTD7H3HE"><strong>🔌 Copilot CLI: plugins gestionados a nivel Enterprise 🚀</strong></a>
+<br/>
+<sub>📅 13 de mayo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/shorts/SkgmvqZLUFc">
 <img src="https://img.youtube.com/vi/SkgmvqZLUFc/mqdefault.jpg" alt="Encontrando tu Tribu: Comunidad y Pasión #shorts" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=OtX-rLyQ85I"><strong>🤖 GitHub Copilot en Jenkins: pipelines y chat con IA 🚀</strong></a>
 <br/>
 <sub>📅 5 de mayo de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/shorts/fttqWLsi7zQ">
-<img src="https://img.youtube.com/vi/fttqWLsi7zQ/mqdefault.jpg" alt="Conéctate a tu VS Code desde cualquier sitio #shorts" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/shorts/fttqWLsi7zQ"><strong>Conéctate a tu VS Code desde cualquier sitio #shorts</strong></a>
-<br/>
-<sub>📅 2 de mayo de 2026</sub>
 </td>
 </tr>
 </table>
