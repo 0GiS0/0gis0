@@ -1,1 +1,4 @@
-
+auto_open_in_browser: true
+automation:
+  auto_issue_session: true
+  remote_control: true
