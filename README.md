@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=EhtufIQ0cNM">
+<img src="https://img.youtube.com/vi/EhtufIQ0cNM/mqdefault.jpg" alt="GitHub Copilot App: el centro de mando de tus agentes 🤖🚀 ya está aquí!" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=EhtufIQ0cNM"><strong>GitHub Copilot App: el centro de mando de tus agentes 🤖🚀 ya está aquí!</strong></a>
+<br/>
+<sub>📅 27 de mayo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=sBWbY1CvAJ0">
 <img src="https://img.youtube.com/vi/sBWbY1CvAJ0/mqdefault.jpg" alt="🔒 GitHub Copilot CLI + Foundry: IA privada en tu red 🤖" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=ZWInTD7H3HE"><strong>🔌 Copilot CLI: plugins gestionados a nivel Enterprise 🚀</strong></a>
 <br/>
 <sub>📅 13 de mayo de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/shorts/SkgmvqZLUFc">
-<img src="https://img.youtube.com/vi/SkgmvqZLUFc/mqdefault.jpg" alt="Encontrando tu Tribu: Comunidad y Pasión #shorts" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/shorts/SkgmvqZLUFc"><strong>Encontrando tu Tribu: Comunidad y Pasión #shorts</strong></a>
-<br/>
-<sub>📅 6 de mayo de 2026</sub>
 </td>
 </tr>
 </table>
