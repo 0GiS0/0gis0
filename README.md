@@ -135,7 +135,7 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <tr>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/05/GitHub-Copilot-CLI-Statusline-scaled.png" alt="Cómo crear un status line personalizado para GitHub Copilot CLI" width="280" height="158"/>
+<img src="https://i0.wp.com/www.returngis.net/wp-content/uploads/2026/05/CleanShot-2026-05-31-at-09.27.56-scaled.png?resize=710%2C506&#038;ssl=1" alt="Cómo crear un status line personalizado para GitHub Copilot CLI" width="280" height="158"/>
 </a>
 <br/>
 <a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/"><strong>Cómo crear un status line personalizado para GitHub Copilot CLI</strong></a>
@@ -144,7 +144,7 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 </td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/05/Crear-tuneles-con-el-CLI-de-VS-Code-scaled.png" alt="VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador" width="280" height="158"/>
+<img src="https://via.placeholder.com/600x400/339933/ffffff?text=Blog+Post" alt="VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador" width="280" height="158"/>
 </a>
 <br/>
 <a href="https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/"><strong>VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador</strong></a>
@@ -153,7 +153,7 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 </td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/04/agent-hooks-github-copilot-lint-formato-automatico/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/04/Agent-Hooks-scaled.png" alt="Control de calidad en Agentic DevOps: automatiza linting y formateo con hooks" width="280" height="158"/>
+<img src="https://via.placeholder.com/600x400/339933/ffffff?text=Blog+Post" alt="Control de calidad en Agentic DevOps: automatiza linting y formateo con hooks" width="280" height="158"/>
 </a>
 <br/>
 <a href="https://www.returngis.net/2026/04/agent-hooks-github-copilot-lint-formato-automatico/"><strong>Control de calidad en Agentic DevOps: automatiza linting y formateo con hooks</strong></a>
