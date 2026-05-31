@@ -134,6 +134,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/05/GitHub-Copilot-CLI-Statusline-scaled.png" alt="Cómo crear un status line personalizado para GitHub Copilot CLI" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/"><strong>Cómo crear un status line personalizado para GitHub Copilot CLI</strong></a>
+<br/>
+<sub>📅 31 de mayo de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/05/Crear-tuneles-con-el-CLI-de-VS-Code-scaled.png" alt="VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador" width="280" height="158"/>
 </a>
@@ -150,15 +159,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2026/04/agent-hooks-github-copilot-lint-formato-automatico/"><strong>Control de calidad en Agentic DevOps: automatiza linting y formateo con hooks</strong></a>
 <br/>
 <sub>📅 28 de abril de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/04/github-pages-seguridad-csp/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/04/GitHub-Pages-protegido-con-CSP-scaled.png" alt="Seguridad en GitHub Pages con CSP" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/04/github-pages-seguridad-csp/"><strong>Seguridad en GitHub Pages con CSP</strong></a>
-<br/>
-<sub>📅 16 de abril de 2026</sub>
 </td>
 </tr>
 </table>
