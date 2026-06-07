@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=SCl1YATOGU4">
+<img src="https://img.youtube.com/vi/SCl1YATOGU4/mqdefault.jpg" alt="100.000 gracias, developers ❤️" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=SCl1YATOGU4"><strong>100.000 gracias, developers ❤️</strong></a>
+<br/>
+<sub>📅 6 de junio de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=6hCjypUW_tY">
 <img src="https://img.youtube.com/vi/6hCjypUW_tY/mqdefault.jpg" alt="💸 GitHub Copilot: aprovecha mejor tus AI Credits" width="280"/>
 </a>
@@ -109,15 +118,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <br/>
 <sub>📅 27 de mayo de 2026</sub>
 </td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=sBWbY1CvAJ0">
-<img src="https://img.youtube.com/vi/sBWbY1CvAJ0/mqdefault.jpg" alt="🔒 GitHub Copilot CLI + Foundry: IA privada en tu red 🤖" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=sBWbY1CvAJ0"><strong>🔒 GitHub Copilot CLI + Foundry: IA privada en tu red 🤖</strong></a>
-<br/>
-<sub>📅 20 de mayo de 2026</sub>
-</td>
 </tr>
 </table>
 
@@ -133,6 +133,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 <table>
 <tr>
+<td align="center" width="33%">
+<a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/06/100k-sub-scaled.png" alt="100.000 gracias, developers ❤️" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/"><strong>100.000 gracias, developers ❤️</strong></a>
+<br/>
+<sub>📅 6 de junio de 2026</sub>
+</td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/05/GitHub-Copilot-CLI-Statusline-scaled.png" alt="Cómo crear un status line personalizado para GitHub Copilot CLI" width="280" height="158"/>
@@ -150,15 +159,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/"><strong>VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador</strong></a>
 <br/>
 <sub>📅 5 de mayo de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/04/agent-hooks-github-copilot-lint-formato-automatico/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/04/Agent-Hooks-scaled.png" alt="Control de calidad en Agentic DevOps: automatiza linting y formateo con hooks" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/04/agent-hooks-github-copilot-lint-formato-automatico/"><strong>Control de calidad en Agentic DevOps: automatiza linting y formateo con hooks</strong></a>
-<br/>
-<sub>📅 28 de abril de 2026</sub>
 </td>
 </tr>
 </table>
