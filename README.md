@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=sUIZ-I47KpI">
+<img src="https://img.youtube.com/vi/sUIZ-I47KpI/mqdefault.jpg" alt="🐳 Docker Build Policies: valida tus builds antes de crear imágenes" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=sUIZ-I47KpI"><strong>🐳 Docker Build Policies: valida tus builds antes de crear imágenes</strong></a>
+<br/>
+<sub>📅 10 de junio de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=SCl1YATOGU4">
 <img src="https://img.youtube.com/vi/SCl1YATOGU4/mqdefault.jpg" alt="100.000 gracias, developers ❤️" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=6hCjypUW_tY"><strong>💸 GitHub Copilot: aprovecha mejor tus AI Credits</strong></a>
 <br/>
 <sub>📅 3 de junio de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=EhtufIQ0cNM">
-<img src="https://img.youtube.com/vi/EhtufIQ0cNM/mqdefault.jpg" alt="GitHub Copilot App: el centro de mando de tus agentes 🤖🚀 ya está aquí!" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=EhtufIQ0cNM"><strong>GitHub Copilot App: el centro de mando de tus agentes 🤖🚀 ya está aquí!</strong></a>
-<br/>
-<sub>📅 27 de mayo de 2026</sub>
 </td>
 </tr>
 </table>
