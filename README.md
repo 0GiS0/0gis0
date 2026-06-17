@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=elZUcqt5KpQ">
+<img src="https://img.youtube.com/vi/elZUcqt5KpQ/mqdefault.jpg" alt="🤖 GitHub Copilot Automations: tareas automáticas y agénticas" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=elZUcqt5KpQ"><strong>🤖 GitHub Copilot Automations: tareas automáticas y agénticas</strong></a>
+<br/>
+<sub>📅 17 de junio de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=sUIZ-I47KpI">
 <img src="https://img.youtube.com/vi/sUIZ-I47KpI/mqdefault.jpg" alt="🐳 Docker Build Policies: valida tus builds antes de crear imágenes" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=SCl1YATOGU4"><strong>100.000 gracias, developers ❤️</strong></a>
 <br/>
 <sub>📅 6 de junio de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=6hCjypUW_tY">
-<img src="https://img.youtube.com/vi/6hCjypUW_tY/mqdefault.jpg" alt="💸 GitHub Copilot: aprovecha mejor tus AI Credits" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=6hCjypUW_tY"><strong>💸 GitHub Copilot: aprovecha mejor tus AI Credits</strong></a>
-<br/>
-<sub>📅 3 de junio de 2026</sub>
 </td>
 </tr>
 </table>
