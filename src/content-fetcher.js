@@ -1,5 +1,12 @@
 const Parser = require('rss-parser');
 const fs = require('fs');
+const path = require('path');
+
+// Cache file used to remember the last successfully fetched blog posts
+// (including their real thumbnails) so that, if a future fetch fails
+// (e.g. because the blog's RSS feed is temporarily malformed), we can
+// fall back to real, recent content instead of fake placeholder data.
+const BLOG_POSTS_CACHE_FILE = path.join(__dirname, 'last-known-posts.json');
 
 class ContentFetcher {
   constructor() {
@@ -16,6 +23,65 @@ class ContentFetcher {
         ]
       }
     });
+  }
+
+  // Some WordPress feeds occasionally include stray, unescaped "&"
+  // characters outside of CDATA sections (e.g. injected by ads/tracking
+  // plugins), which makes the feed invalid XML and breaks parsing with
+  // errors like "Invalid character in entity name". To make parsing more
+  // resilient, escape bare "&" characters that are not part of a valid
+  // XML entity, while leaving CDATA sections untouched (their content is
+  // treated as literal text by the XML parser, so it doesn't need - and
+  // must not get - entity escaping).
+  sanitizeXml(xml) {
+    const parts = xml.split(/(<!\[CDATA\[[\s\S]*?\]\]>)/g);
+    return parts
+      .map(part => {
+        if (part.startsWith('<![CDATA[')) {
+          return part;
+        }
+        return part.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+      })
+      .join('');
+  }
+
+  async fetchAndParseFeed(rssUrl) {
+    const response = await fetch(rssUrl);
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status} fetching ${rssUrl}`);
+    }
+    const rawXml = await response.text();
+    try {
+      return await this.parser.parseString(rawXml);
+    } catch (error) {
+      // Retry once with sanitized XML in case the failure was caused by
+      // stray unescaped ampersands in the feed.
+      console.log(`Initial parse failed for ${rssUrl} (${error.message}), retrying with sanitized XML...`);
+      return await this.parser.parseString(this.sanitizeXml(rawXml));
+    }
+  }
+
+  loadCachedBlogPosts() {
+    try {
+      if (fs.existsSync(BLOG_POSTS_CACHE_FILE)) {
+        const cached = JSON.parse(fs.readFileSync(BLOG_POSTS_CACHE_FILE, 'utf8'));
+        if (Array.isArray(cached) && cached.length > 0) {
+          console.log('Using cached blog posts from last successful fetch');
+          return cached;
+        }
+      }
+    } catch (error) {
+      console.log(`Could not read cached blog posts: ${error.message}`);
+    }
+    return null;
+  }
+
+  saveCachedBlogPosts(posts) {
+    try {
+      fs.writeFileSync(BLOG_POSTS_CACHE_FILE, JSON.stringify(posts, null, 2), 'utf8');
+    } catch (error) {
+      console.log(`Could not save cached blog posts: ${error.message}`);
+    }
   }
 
   extractVideoId(url) {
@@ -208,7 +274,7 @@ class ContentFetcher {
       
       for (const rssUrl of rssUrls) {
         try {
-          const feed = await this.parser.parseURL(rssUrl);
+          const feed = await this.fetchAndParseFeed(rssUrl);
           const posts = await Promise.all(feed.items.slice(0, limit).map(async (item) => {
             // Use the specialized WordPress image extraction method
             let thumbnail = await this.extractWordPressImage(item);
@@ -263,9 +329,11 @@ class ContentFetcher {
               }
             }
             
-            // Fallback to a generic blog image
+            // Fallback to a generic blog image (placehold.co is a maintained
+            // service; the previously used via.placeholder.com is defunct
+            // and produces broken images)
             if (!thumbnail) {
-              thumbnail = "https://via.placeholder.com/600x400/339933/ffffff?text=Blog+Post";
+              thumbnail = "https://placehold.co/600x400/339933/ffffff?text=Blog+Post";
             }
             
             return {
@@ -282,6 +350,7 @@ class ContentFetcher {
           }));
           
           console.log(`Found ${posts.length} blog posts from ${rssUrl}`);
+          this.saveCachedBlogPosts(posts);
           return posts;
         } catch (e) {
           console.log(`Failed to fetch from ${rssUrl}: ${e.message}`);
@@ -291,7 +360,13 @@ class ContentFetcher {
       throw new Error('No valid RSS feed found');
     } catch (error) {
       console.error('Error fetching blog posts:', error.message);
-      // Return fallback content when network is unavailable
+      // Prefer real posts (with real thumbnails) from the last successful
+      // fetch over hardcoded fake content, so images are never broken.
+      const cachedPosts = this.loadCachedBlogPosts();
+      if (cachedPosts) {
+        return cachedPosts;
+      }
+      // Return fallback content when no cache is available either
       return this.getFallbackPosts();
     }
   }
@@ -303,21 +378,21 @@ class ContentFetcher {
         link: "https://www.returngis.net",
         publishDate: "12 de diciembre de 2024",
         description: "Cómo implementar pipelines eficientes para tus proyectos con las mejores prácticas de la industria.",
-        thumbnail: "https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation"
+        thumbnail: "https://placehold.co/600x400/339933/ffffff?text=CI%2FCD+Automation"
       },
       {
         title: "Microservicios en Azure: Arquitectura y mejores prácticas",
         link: "https://www.returngis.net",
         publishDate: "5 de diciembre de 2024",
         description: "Diseña sistemas escalables y resilientes en la nube con patrones modernos de arquitectura.",
-        thumbnail: "https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices"
+        thumbnail: "https://placehold.co/600x400/0078d4/ffffff?text=Azure+Microservices"
       },
       {
         title: "Monitoreo y observabilidad en aplicaciones modernas",
         link: "https://www.returngis.net",
         publishDate: "28 de noviembre de 2024",
         description: "Herramientas y técnicas para mantener tus aplicaciones saludables y monitoreadas.",
-        thumbnail: "https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability"
+        thumbnail: "https://placehold.co/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability"
       }
     ];
   }
