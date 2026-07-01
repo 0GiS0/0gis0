@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=QBLLHG3yL8c">
+<img src="https://img.youtube.com/vi/QBLLHG3yL8c/mqdefault.jpg" alt="🤖 GitHub Copilot ya revisa PRs en Azure Repos 🚀" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=QBLLHG3yL8c"><strong>🤖 GitHub Copilot ya revisa PRs en Azure Repos 🚀</strong></a>
+<br/>
+<sub>📅 1 de julio de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=4hGjIsCyzxQ">
 <img src="https://img.youtube.com/vi/4hGjIsCyzxQ/mqdefault.jpg" alt="🐳 Docker Sandboxes: Copilot, Claude y OpenCode seguros 🤖🔒" width="280"/>
 </a>
@@ -109,15 +118,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <br/>
 <sub>📅 17 de junio de 2026</sub>
 </td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=sUIZ-I47KpI">
-<img src="https://img.youtube.com/vi/sUIZ-I47KpI/mqdefault.jpg" alt="🐳 Docker Build Policies: valida tus builds antes de crear imágenes" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=sUIZ-I47KpI"><strong>🐳 Docker Build Policies: valida tus builds antes de crear imágenes</strong></a>
-<br/>
-<sub>📅 10 de junio de 2026</sub>
-</td>
 </tr>
 </table>
 
@@ -134,31 +134,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.returngis.net">
-<img src="https://via.placeholder.com/600x400/339933/ffffff?text=CI%2FCD+Automation" alt="Automatización CI/CD con GitHub Actions y Azure DevOps" width="280" height="158"/>
+<a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/06/100k-sub-scaled.png" alt="100.000 gracias, developers ❤️" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net"><strong>Automatización CI/CD con GitHub Actions y Azure DevOps</strong></a>
+<a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/"><strong>100.000 gracias, developers ❤️</strong></a>
 <br/>
-<sub>📅 12 de diciembre de 2024</sub>
+<sub>📅 6 de junio de 2026</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net">
-<img src="https://via.placeholder.com/600x400/0078d4/ffffff?text=Azure+Microservices" alt="Microservicios en Azure: Arquitectura y mejores prácticas" width="280" height="158"/>
+<a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/05/GitHub-Copilot-CLI-Statusline-scaled.png" alt="Cómo crear un status line personalizado para GitHub Copilot CLI" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net"><strong>Microservicios en Azure: Arquitectura y mejores prácticas</strong></a>
+<a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/"><strong>Cómo crear un status line personalizado para GitHub Copilot CLI</strong></a>
 <br/>
-<sub>📅 5 de diciembre de 2024</sub>
+<sub>📅 31 de mayo de 2026</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.returngis.net">
-<img src="https://via.placeholder.com/600x400/ff6b35/ffffff?text=Monitoring+%26+Observability" alt="Monitoreo y observabilidad en aplicaciones modernas" width="280" height="158"/>
+<a href="https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/05/Crear-tuneles-con-el-CLI-de-VS-Code-scaled.png" alt="VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador" width="280" height="158"/>
 </a>
 <br/>
-<a href="https://www.returngis.net"><strong>Monitoreo y observabilidad en aplicaciones modernas</strong></a>
+<a href="https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/"><strong>VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador</strong></a>
 <br/>
-<sub>📅 28 de noviembre de 2024</sub>
+<sub>📅 5 de mayo de 2026</sub>
 </td>
 </tr>
 </table>
