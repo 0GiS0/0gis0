@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=7Mmt35ga7xM">
+<img src="https://img.youtube.com/vi/7Mmt35ga7xM/mqdefault.jpg" alt="🐧 Contenedores Linux nativos en Windows: probando WSL Container." width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=7Mmt35ga7xM"><strong>🐧 Contenedores Linux nativos en Windows: probando WSL Container.</strong></a>
+<br/>
+<sub>📅 8 de julio de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=QBLLHG3yL8c">
 <img src="https://img.youtube.com/vi/QBLLHG3yL8c/mqdefault.jpg" alt="🤖 GitHub Copilot ya revisa PRs en Azure Repos 🚀" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=4hGjIsCyzxQ"><strong>🐳 Docker Sandboxes: Copilot, Claude y OpenCode seguros 🤖🔒</strong></a>
 <br/>
 <sub>📅 24 de junio de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=elZUcqt5KpQ">
-<img src="https://img.youtube.com/vi/elZUcqt5KpQ/mqdefault.jpg" alt="🤖 GitHub Copilot Automations: tareas automáticas y agénticas" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=elZUcqt5KpQ"><strong>🤖 GitHub Copilot Automations: tareas automáticas y agénticas</strong></a>
-<br/>
-<sub>📅 17 de junio de 2026</sub>
 </td>
 </tr>
 </table>
