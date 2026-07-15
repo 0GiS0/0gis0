@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=JIYd7YW-fFQ">
+<img src="https://img.youtube.com/vi/JIYd7YW-fFQ/mqdefault.jpg" alt="Imágenes Docker más seguras sin complicarte la vida 🐳🔒" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=JIYd7YW-fFQ"><strong>Imágenes Docker más seguras sin complicarte la vida 🐳🔒</strong></a>
+<br/>
+<sub>📅 15 de julio de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=7Mmt35ga7xM">
 <img src="https://img.youtube.com/vi/7Mmt35ga7xM/mqdefault.jpg" alt="🐧 Contenedores Linux nativos en Windows: probando WSL Container." width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=QBLLHG3yL8c"><strong>🤖 GitHub Copilot ya revisa PRs en Azure Repos 🚀</strong></a>
 <br/>
 <sub>📅 1 de julio de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=4hGjIsCyzxQ">
-<img src="https://img.youtube.com/vi/4hGjIsCyzxQ/mqdefault.jpg" alt="🐳 Docker Sandboxes: Copilot, Claude y OpenCode seguros 🤖🔒" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=4hGjIsCyzxQ"><strong>🐳 Docker Sandboxes: Copilot, Claude y OpenCode seguros 🤖🔒</strong></a>
-<br/>
-<sub>📅 24 de junio de 2026</sub>
 </td>
 </tr>
 </table>
