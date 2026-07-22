@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=uNQCypTh0ik">
+<img src="https://img.youtube.com/vi/uNQCypTh0ik/mqdefault.jpg" alt="Extiende GitHub Copilot App creando tus propios Canvas 🎨🤖" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=uNQCypTh0ik"><strong>Extiende GitHub Copilot App creando tus propios Canvas 🎨🤖</strong></a>
+<br/>
+<sub>📅 22 de julio de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/shorts/T-z9y8IRcpc">
 <img src="https://img.youtube.com/vi/T-z9y8IRcpc/mqdefault.jpg" alt="¿Y si tus imágenes Docker fueran seguras por defecto? 🐳🔐 #shorts" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/watch?v=JIYd7YW-fFQ"><strong>Imágenes Docker más seguras sin complicarte la vida 🐳🔒</strong></a>
 <br/>
 <sub>📅 15 de julio de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=7Mmt35ga7xM">
-<img src="https://img.youtube.com/vi/7Mmt35ga7xM/mqdefault.jpg" alt="🐧 Contenedores Linux nativos en Windows: probando WSL Container." width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=7Mmt35ga7xM"><strong>🐧 Contenedores Linux nativos en Windows: probando WSL Container.</strong></a>
-<br/>
-<sub>📅 8 de julio de 2026</sub>
 </td>
 </tr>
 </table>
