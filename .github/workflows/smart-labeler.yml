@@ -6,6 +6,10 @@ on:
   pull_request:
     types: [opened, edited]
 
+permissions: 
+  copilot-requests: write
+
+
 jobs:
   label:
     uses: 0GiS0/agentic-repo/.github/workflows/smart-labeler.yml@main
