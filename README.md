@@ -111,10 +111,10 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 </td>
 <td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=kciujmBn650">
-<img src="https://img.youtube.com/vi/kciujmBn650/mqdefault.jpg" alt="Kubernetes en local con Docker Desktop: tu primer clúster en minutos" width="280"/>
+<img src="https://img.youtube.com/vi/kciujmBn650/mqdefault.jpg" alt="Kubernetes local en 4 clics" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/watch?v=kciujmBn650"><strong>Kubernetes en local con Docker Desktop: tu primer clúster en minutos</strong></a>
+<a href="https://www.youtube.com/watch?v=kciujmBn650"><strong>Kubernetes local en 4 clics</strong></a>
 <br/>
 <sub>📅 29 de julio de 2026</sub>
 </td>
@@ -134,15 +134,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/07/Toda-tu-telemetria-donde-tu-querias-scaled.png" alt="Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/"><strong>Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana</strong></a>
-<br/>
-<sub>📅 29 de julio de 2026</sub>
-</td>
-<td align="center" width="33%">
 <a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/06/100k-sub-scaled.png" alt="100.000 gracias, developers ❤️" width="280" height="158"/>
 </a>
@@ -159,6 +150,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/"><strong>Cómo crear un status line personalizado para GitHub Copilot CLI</strong></a>
 <br/>
 <sub>📅 31 de mayo de 2026</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/05/Crear-tuneles-con-el-CLI-de-VS-Code-scaled.png" alt="VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/"><strong>VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador</strong></a>
+<br/>
+<sub>📅 5 de mayo de 2026</sub>
 </td>
 </tr>
 </table>
