@@ -8,6 +8,29 @@ const path = require('path');
 // fall back to real, recent content instead of fake placeholder data.
 const BLOG_POSTS_CACHE_FILE = path.join(__dirname, 'last-known-posts.json');
 
+// Checks whether a URL points to a WordPress emoji image (typically hosted
+// on s.w.org's CDN) so that such images can be excluded when looking for a
+// real featured/thumbnail image. The host is validated using proper URL
+// parsing (instead of a raw substring match) to avoid being bypassed by
+// URLs that merely contain "s.w.org" somewhere in the path or query string.
+function isEmojiImageUrl(url) {
+  if (!url) {
+    return false;
+  }
+
+  if (url.includes('emoji')) {
+    return true;
+  }
+
+  try {
+    const { hostname } = new URL(url);
+    return hostname === 's.w.org' || hostname.endsWith('.s.w.org');
+  } catch (error) {
+    // If the URL can't be parsed, fall back to treating it as non-emoji.
+    return false;
+  }
+}
+
 class ContentFetcher {
   constructor() {
     this.parser = new Parser({
@@ -149,7 +172,7 @@ class ContentFetcher {
           if (featuredImageMatch) {
             const featuredImageContent = featuredImageMatch[1];
             const imgMatch = featuredImageContent.match(/<img[^>]+src="([^">]+)"/);
-            if (imgMatch && !imgMatch[1].includes('emoji') && !imgMatch[1].includes('s.w.org')) {
+            if (imgMatch && !isEmojiImageUrl(imgMatch[1])) {
               thumbnail = imgMatch[1];
               console.log(`Found featured-image div in page: ${thumbnail}`);
             }
@@ -168,7 +191,7 @@ class ContentFetcher {
       if (featuredImageMatch) {
         const featuredImageContent = featuredImageMatch[1];
         const imgMatch = featuredImageContent.match(/<img[^>]+src="([^">]+)"/);
-        if (imgMatch && !imgMatch[1].includes('emoji') && !imgMatch[1].includes('s.w.org')) {
+        if (imgMatch && !isEmojiImageUrl(imgMatch[1])) {
           thumbnail = imgMatch[1];
           console.log(`Found featured-image div in content:encoded: ${thumbnail}`);
         }
@@ -180,7 +203,7 @@ class ContentFetcher {
         if (imgMatches) {
           for (const match of imgMatches) {
             const srcMatch = match.match(/src="([^">]+)"/);
-            if (srcMatch && !srcMatch[1].includes('emoji') && !srcMatch[1].includes('s.w.org')) {
+            if (srcMatch && !isEmojiImageUrl(srcMatch[1])) {
               thumbnail = srcMatch[1];
               console.log(`Found fallback image in content: ${thumbnail}`);
               break;
@@ -299,7 +322,7 @@ class ContentFetcher {
                 if (featuredImageMatch) {
                   const featuredImageContent = featuredImageMatch[1];
                   const imgMatch = featuredImageContent.match(/<img[^>]+src="([^">]+)"/);
-                  if (imgMatch && !imgMatch[1].includes('emoji') && !imgMatch[1].includes('s.w.org')) {
+                  if (imgMatch && !isEmojiImageUrl(imgMatch[1])) {
                     thumbnail = imgMatch[1];
                     console.log(`Found featured-image in fallback content: ${thumbnail}`);
                   }
@@ -312,7 +335,7 @@ class ContentFetcher {
                 if (imgMatches) {
                   for (const match of imgMatches) {
                     const srcMatch = match.match(/src="([^">]+)"/);
-                    if (srcMatch && !srcMatch[1].includes('emoji') && !srcMatch[1].includes('s.w.org')) {
+                    if (srcMatch && !isEmojiImageUrl(srcMatch[1])) {
                       thumbnail = srcMatch[1];
                       break;
                     }
