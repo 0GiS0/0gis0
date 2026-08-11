@@ -4,17 +4,63 @@ on:
   workflow_dispatch:
     inputs:
       dry_run:
-        description: 'Dry run mode (only show changes, do not apply them)'
+        description: "Dry run mode (only show changes, do not apply them)"
         required: true
-        default: 'false'
+        default: "false"
         type: choice
         options:
-          - 'false'
-          - 'true'
+          - "false"
+          - "true"
+
+permissions:
+  contents: read
+  issues: write
+  copilot-requests: write
 
 jobs:
-  beautify:
-    uses: 0GiS0/agentic-repo/.github/workflows/label-beautifier.yml@main
-    with:
-      dry_run: ${{ inputs.dry_run }}
-    secrets: inherit
+  beautify-labels:
+    name: 🏷️✨ Beautify Repository Labels
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 📦 Install GitHub Copilot CLI
+        run: |
+          curl -fsSL https://gh.io/copilot-install | bash
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: 🏷️✨ Analyze and beautify labels
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+        run: |
+          export PATH="$HOME/.local/bin:$PATH"
+
+          copilot -p "
+          You are a Label Beautifier for the repository '${{ github.repository }}'.
+          Modernize and standardize repository labels (name, emoji, description, color) in English.
+
+          DRY RUN MODE: $DRY_RUN
+          - If 'true': analyze and report only.
+          - If 'false': apply changes.
+
+          Required process:
+          1. Read README and repository structure for domain context.
+          2. List all labels with name, description, and color.
+          3. Detect overlap, duplicates, and low-quality labels.
+          4. Build a clean target taxonomy with consistent naming.
+          5. In dry-run: print exact before/after plan and stop.
+          6. In apply mode:
+             - Prefer renaming/editing labels to preserve usage links.
+             - Create missing labels only when they add clear value.
+             - Delete labels only if redundant or obsolete.
+          7. Finish with a concise summary of changes.
+
+          Quality rules:
+          - Keep the set practical and non-redundant.
+          - Use meaningful colors by category.
+          - Preserve project-specific semantics.
+          - Avoid unnecessary churn.
+          " --allow-all-tools --model claude-opus-4.6
