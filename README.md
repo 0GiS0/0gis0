@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/OIQYiXr5-f8">
+<img src="https://img.youtube.com/vi/OIQYiXr5-f8/mqdefault.jpg" alt="Reduce tus tokens a la mitad con este consejo #shorts #ia #dev" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/OIQYiXr5-f8"><strong>Reduce tus tokens a la mitad con este consejo #shorts #ia #dev</strong></a>
+<br/>
+<sub>📅 10 de agosto de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=PUf8Kq4tNz0">
 <img src="https://img.youtube.com/vi/PUf8Kq4tNz0/mqdefault.jpg" alt="Deployments en Kubernetes: por qué NO deberías crear Pods a mano 🛑" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/shorts/mKVBiVWSZ84"><strong>⏳ AHORRA TIEMPO creando un Kubernetes local Multinodo con 4 clics  #shorts #kubernetes #docker</strong></a>
 <br/>
 <sub>📅 31 de julio de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=kciujmBn650">
-<img src="https://img.youtube.com/vi/kciujmBn650/mqdefault.jpg" alt="Kubernetes local en 4 clics" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=kciujmBn650"><strong>Kubernetes local en 4 clics</strong></a>
-<br/>
-<sub>📅 29 de julio de 2026</sub>
 </td>
 </tr>
 </table>
