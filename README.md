@@ -11,14 +11,15 @@
   <!-- Contador de visitas -->
   <img src="https://komarev.com/ghpvc/?username=0GiS0&label=Visitantes&color=0078D4&style=flat-square" alt="Profile views" />
 
-  <br/><br/>
+<br/><br/>
 
   <!-- Badges de redes sociales -->
-  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC140iBrEZbOtvxWsJ-Tb0lQ?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://www.youtube.com/c/GiselaTorres?sub_confirmation=1)
-  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@returngis)
-  [![GitHub followers](https://img.shields.io/github/followers/0GiS0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0GiS0)
-  [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Sígueme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselatorresbuitrago/)
-  [![X Follow](https://img.shields.io/badge/X-Sígueme-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0GiS0)
+
+[![YouTube Subscribers](https://img.shields.io/badge/YouTube-106k-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/GiselaTorres?sub_confirmation=1)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@returngis)
+[![GitHub followers](https://img.shields.io/github/followers/0GiS0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0GiS0)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Sígueme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselatorresbuitrago/)
+[![X Follow](https://img.shields.io/badge/X-Sígueme-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0GiS0)
 
 </div>
 
@@ -28,7 +29,7 @@
 
 <div align="center">
 
-> *"La tecnología no solo cambia el mundo, también cambia a las personas que la crean y la usan."*
+> _"La tecnología no solo cambia el mundo, también cambia a las personas que la crean y la usan."_
 
 </div>
 
@@ -173,11 +174,11 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 <div align="center">
 
-| 📚 Contenido | 🔗 Enlace | 📝 Descripción |
-|:---:|:---:|:---|
-| 🌐 **Blog** | [![return(GiS) Blog](https://img.shields.io/badge/return(GiS)-339933?style=flat-square&logo=github-pages&logoColor=white)](https://www.returngis.net) | Mi blog personal con tutoriales, guías y artículos sobre tecnología |
-| 🎬 **YouTube** | [![YouTube Channel](https://img.shields.io/badge/return(GiS)-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis) | Videos técnicos semanales sobre Cloud, DevOps e IA |
-| 💻 **GitHub** | [![GitHub Repos](https://img.shields.io/badge/Repositorios-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/0GiS0?tab=repositories) | Código de mis demos, tutoriales y proyectos open source |
+|  📚 Contenido  |                                                                          🔗 Enlace                                                                           | 📝 Descripción                                                      |
+| :------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------ |
+|  🌐 **Blog**   |   [![return(GiS) Blog](<https://img.shields.io/badge/return(GiS)-339933?style=flat-square&logo=github-pages&logoColor=white>)](https://www.returngis.net)    | Mi blog personal con tutoriales, guías y artículos sobre tecnología |
+| 🎬 **YouTube** |  [![YouTube Channel](<https://img.shields.io/badge/return(GiS)-FF0000?style=flat-square&logo=youtube&logoColor=white>)](https://www.youtube.com/@returngis)  | Videos técnicos semanales sobre Cloud, DevOps e IA                  |
+| 💻 **GitHub**  | [![GitHub Repos](https://img.shields.io/badge/Repositorios-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/0GiS0?tab=repositories) | Código de mis demos, tutoriales y proyectos open source             |
 
 </div>
 
@@ -225,9 +226,9 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 <div align="center">
 
-| 🐣 Familia y amig@s | 🚴🏼‍♀️ Ciclismo | 🐕 Siri | 🌲 Senderismo | ✈️ Viajar | 🎬 Cine |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Tiempo de calidad | Sobre ruedas | Paseos caninos | Naturaleza | Nuevas culturas | Palomitas 🍿 |
+| 🐣 Familia y amig@s | 🚴🏼‍♀️ Ciclismo  |    🐕 Siri     | 🌲 Senderismo |    ✈️ Viajar    |   🎬 Cine    |
+| :-----------------: | :----------: | :------------: | :-----------: | :-------------: | :----------: |
+|  Tiempo de calidad  | Sobre ruedas | Paseos caninos |  Naturaleza   | Nuevas culturas | Palomitas 🍿 |
 
 </div>
 
@@ -256,12 +257,12 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 💡 **¡Nuevo contenido cada miércoles!** 💡
 
-*Este README se actualiza automáticamente con mis últimos vídeos y artículos* 🤖✨
+_Este README se actualiza automáticamente con mis últimos vídeos y artículos_ 🤖✨
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" width="100%"/>
 
-*Made with ❤️ by Gisela Torres*
+_Made with ❤️ by Gisela Torres_
 
 </div>
