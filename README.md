@@ -92,31 +92,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@returngis">
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Cómo crear workflows de GitHub Actions - Tutorial completo" width="280"/>
+<a href="https://www.youtube.com/watch?v=xgmmfbDta4k">
+<img src="https://img.youtube.com/vi/xgmmfbDta4k/mqdefault.jpg" alt="¿Revisiones de código eternas? Prueba las Stacked PRs" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/@returngis"><strong>Cómo crear workflows de GitHub Actions - Tutorial completo</strong></a>
+<a href="https://www.youtube.com/watch?v=xgmmfbDta4k"><strong>¿Revisiones de código eternas? Prueba las Stacked PRs</strong></a>
 <br/>
-<sub>📅 15 de diciembre de 2024</sub>
+<sub>📅 12 de agosto de 2026</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@returngis">
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Infraestructura como código con Terraform y Azure" width="280"/>
+<a href="https://www.youtube.com/shorts/OIQYiXr5-f8">
+<img src="https://img.youtube.com/vi/OIQYiXr5-f8/mqdefault.jpg" alt="Reduce tus tokens a la mitad con este consejo #shorts #ia #dev" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/@returngis"><strong>Infraestructura como código con Terraform y Azure</strong></a>
+<a href="https://www.youtube.com/shorts/OIQYiXr5-f8"><strong>Reduce tus tokens a la mitad con este consejo #shorts #ia #dev</strong></a>
 <br/>
-<sub>📅 8 de diciembre de 2024</sub>
+<sub>📅 10 de agosto de 2026</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@returngis">
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Docker y Kubernetes para desarrolladores" width="280"/>
+<a href="https://www.youtube.com/watch?v=PUf8Kq4tNz0">
+<img src="https://img.youtube.com/vi/PUf8Kq4tNz0/mqdefault.jpg" alt="Deployments en Kubernetes: por qué NO deberías crear Pods a mano 🛑" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/@returngis"><strong>Docker y Kubernetes para desarrolladores</strong></a>
+<a href="https://www.youtube.com/watch?v=PUf8Kq4tNz0"><strong>Deployments en Kubernetes: por qué NO deberías crear Pods a mano 🛑</strong></a>
 <br/>
-<sub>📅 1 de diciembre de 2024</sub>
+<sub>📅 5 de agosto de 2026</sub>
 </td>
 </tr>
 </table>
