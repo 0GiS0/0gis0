@@ -11,15 +11,14 @@
   <!-- Contador de visitas -->
   <img src="https://komarev.com/ghpvc/?username=0GiS0&label=Visitantes&color=0078D4&style=flat-square" alt="Profile views" />
 
-<br/><br/>
+  <br/><br/>
 
   <!-- Badges de redes sociales -->
-
-[![YouTube Subscribers](https://img.shields.io/badge/YouTube-106k-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/GiselaTorres?sub_confirmation=1)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@returngis)
-[![GitHub followers](https://img.shields.io/github/followers/0GiS0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0GiS0)
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Sígueme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselatorresbuitrago/)
-[![X Follow](https://img.shields.io/badge/X-Sígueme-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0GiS0)
+  [![YouTube Subscribers](https://img.shields.io/badge/YouTube-106k-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/GiselaTorres?sub_confirmation=1)
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@returngis)
+  [![GitHub followers](https://img.shields.io/github/followers/0GiS0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0GiS0)
+  [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Sígueme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselatorresbuitrago/)
+  [![X Follow](https://img.shields.io/badge/X-Sígueme-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0GiS0)
 
 </div>
 
@@ -29,7 +28,7 @@
 
 <div align="center">
 
-> _"La tecnología no solo cambia el mundo, también cambia a las personas que la crean y la usan."_
+> *"La tecnología no solo cambia el mundo, también cambia a las personas que la crean y la usan."*
 
 </div>
 
@@ -93,31 +92,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=xgmmfbDta4k">
-<img src="https://img.youtube.com/vi/xgmmfbDta4k/mqdefault.jpg" alt="Stacked PRs en GitHub: adiós a las Pull Requests gigantes 🥞" width="280"/>
+<a href="https://www.youtube.com/@returngis">
+<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Cómo crear workflows de GitHub Actions - Tutorial completo" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/watch?v=xgmmfbDta4k"><strong>Stacked PRs en GitHub: adiós a las Pull Requests gigantes 🥞</strong></a>
+<a href="https://www.youtube.com/@returngis"><strong>Cómo crear workflows de GitHub Actions - Tutorial completo</strong></a>
 <br/>
-<sub>📅 12 de agosto de 2026</sub>
+<sub>📅 15 de diciembre de 2024</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/shorts/OIQYiXr5-f8">
-<img src="https://img.youtube.com/vi/OIQYiXr5-f8/mqdefault.jpg" alt="Reduce tus tokens a la mitad con este consejo #shorts #ia #dev" width="280"/>
+<a href="https://www.youtube.com/@returngis">
+<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Infraestructura como código con Terraform y Azure" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/shorts/OIQYiXr5-f8"><strong>Reduce tus tokens a la mitad con este consejo #shorts #ia #dev</strong></a>
+<a href="https://www.youtube.com/@returngis"><strong>Infraestructura como código con Terraform y Azure</strong></a>
 <br/>
-<sub>📅 10 de agosto de 2026</sub>
+<sub>📅 8 de diciembre de 2024</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=PUf8Kq4tNz0">
-<img src="https://img.youtube.com/vi/PUf8Kq4tNz0/mqdefault.jpg" alt="Deployments en Kubernetes: por qué NO deberías crear Pods a mano 🛑" width="280"/>
+<a href="https://www.youtube.com/@returngis">
+<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Docker y Kubernetes para desarrolladores" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/watch?v=PUf8Kq4tNz0"><strong>Deployments en Kubernetes: por qué NO deberías crear Pods a mano 🛑</strong></a>
+<a href="https://www.youtube.com/@returngis"><strong>Docker y Kubernetes para desarrolladores</strong></a>
 <br/>
-<sub>📅 5 de agosto de 2026</sub>
+<sub>📅 1 de diciembre de 2024</sub>
 </td>
 </tr>
 </table>
@@ -134,6 +133,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 <table>
 <tr>
+<td align="center" width="33%">
+<a href="https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/07/Toda-tu-telemetria-donde-tu-querias-scaled.png" alt="Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/"><strong>Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana</strong></a>
+<br/>
+<sub>📅 29 de julio de 2026</sub>
+</td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/06/100k-sub-scaled.png" alt="100.000 gracias, developers ❤️" width="280" height="158"/>
@@ -152,15 +160,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <br/>
 <sub>📅 31 de mayo de 2026</sub>
 </td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/05/Crear-tuneles-con-el-CLI-de-VS-Code-scaled.png" alt="VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/"><strong>VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador</strong></a>
-<br/>
-<sub>📅 5 de mayo de 2026</sub>
-</td>
 </tr>
 </table>
 
@@ -174,11 +173,11 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 <div align="center">
 
-|  📚 Contenido  |                                                                          🔗 Enlace                                                                           | 📝 Descripción                                                      |
-| :------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------ |
-|  🌐 **Blog**   |   [![return(GiS) Blog](<https://img.shields.io/badge/return(GiS)-339933?style=flat-square&logo=github-pages&logoColor=white>)](https://www.returngis.net)    | Mi blog personal con tutoriales, guías y artículos sobre tecnología |
-| 🎬 **YouTube** |  [![YouTube Channel](<https://img.shields.io/badge/return(GiS)-FF0000?style=flat-square&logo=youtube&logoColor=white>)](https://www.youtube.com/@returngis)  | Videos técnicos semanales sobre Cloud, DevOps e IA                  |
-| 💻 **GitHub**  | [![GitHub Repos](https://img.shields.io/badge/Repositorios-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/0GiS0?tab=repositories) | Código de mis demos, tutoriales y proyectos open source             |
+| 📚 Contenido | 🔗 Enlace | 📝 Descripción |
+|:---:|:---:|:---|
+| 🌐 **Blog** | [![return(GiS) Blog](https://img.shields.io/badge/return(GiS)-339933?style=flat-square&logo=github-pages&logoColor=white)](https://www.returngis.net) | Mi blog personal con tutoriales, guías y artículos sobre tecnología |
+| 🎬 **YouTube** | [![YouTube Channel](https://img.shields.io/badge/return(GiS)-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@returngis) | Videos técnicos semanales sobre Cloud, DevOps e IA |
+| 💻 **GitHub** | [![GitHub Repos](https://img.shields.io/badge/Repositorios-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/0GiS0?tab=repositories) | Código de mis demos, tutoriales y proyectos open source |
 
 </div>
 
@@ -226,9 +225,9 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 <div align="center">
 
-| 🐣 Familia y amig@s | 🚴🏼‍♀️ Ciclismo  |    🐕 Siri     | 🌲 Senderismo |    ✈️ Viajar    |   🎬 Cine    |
-| :-----------------: | :----------: | :------------: | :-----------: | :-------------: | :----------: |
-|  Tiempo de calidad  | Sobre ruedas | Paseos caninos |  Naturaleza   | Nuevas culturas | Palomitas 🍿 |
+| 🐣 Familia y amig@s | 🚴🏼‍♀️ Ciclismo | 🐕 Siri | 🌲 Senderismo | ✈️ Viajar | 🎬 Cine |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Tiempo de calidad | Sobre ruedas | Paseos caninos | Naturaleza | Nuevas culturas | Palomitas 🍿 |
 
 </div>
 
@@ -257,12 +256,12 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 
 💡 **¡Nuevo contenido cada miércoles!** 💡
 
-_Este README se actualiza automáticamente con mis últimos vídeos y artículos_ 🤖✨
+*Este README se actualiza automáticamente con mis últimos vídeos y artículos* 🤖✨
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" width="100%"/>
 
-_Made with ❤️ by Gisela Torres_
+*Made with ❤️ by Gisela Torres*
 
 </div>
