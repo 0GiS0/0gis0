@@ -1,5 +1,12 @@
 [
   {
+    "title": "Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana",
+    "link": "https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/",
+    "publishDate": "29 de julio de 2026",
+    "description": "Aprende a capturar las trazas de GitHub Copilot Chat en VS Code usando OpenTelemetry, enviarlas a Azure Application Insights y crear dashboards personalizados con Grafana para visualizar el uso de tus custom agents.\nLa entrada Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana se publicó primero en return(GiS);.",
+    "thumbnail": "https://www.returngis.net/wp-content/uploads/2026/07/Toda-tu-telemetria-donde-tu-querias-scaled.png"
+  },
+  {
     "title": "100.000 gracias, developers ❤️",
     "link": "https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/",
     "publishDate": "6 de junio de 2026",
@@ -12,12 +19,5 @@
     "publishDate": "31 de mayo de 2026",
     "description": "Aprende a crear un statusline personalizado para GitHub Copilot CLI que muestra en tiempo real la batería, CPU, RAM, temperatura y disco de tu Mac. Con emojis, indicadores de color y cache para rendimiento óptimo.\nLa entrada Cómo crear un status line personalizado para GitHub Copilot CLI se publicó primero en return(GiS);.",
     "thumbnail": "https://www.returngis.net/wp-content/uploads/2026/05/GitHub-Copilot-CLI-Statusline-scaled.png"
-  },
-  {
-    "title": "VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador",
-    "link": "https://www.returngis.net/2026/05/vs-code-tunnels-sin-instalar-vs-code-accede-a-tu-maquina-remota-desde-el-navegador/",
-    "publishDate": "5 de mayo de 2026",
-    "description": "¡Hola developer 👋🏻! La semana pasada te compartí en mi canal de YouTube cómo puedes usar Visual Studio Code conectándote de forma remota desde la web o incluso desde otro Visual Studio Code. Esto es súper útil cuando estás trabajando con diferentes entornos y no quieres estar cambiando constantemente de ventana, o simplemente cuando necesitas acceder a esa máquina y no tienes la físicamente delante.... \nLeer\nLa entrada VS Code Tunnels sin instalar VS Code: accede a tu máquina remota desde el navegador se publicó primero en return(GiS);.",
-    "thumbnail": "https://www.returngis.net/wp-content/uploads/2026/05/Crear-tuneles-con-el-CLI-de-VS-Code-scaled.png"
   }
 ]

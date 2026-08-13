@@ -39,7 +39,7 @@ jobs:
     - name: 📝 Check for changes
       id: verify-changed-files
       run: |
-        if [ -n "$(git status --porcelain -- README.md)" ]; then
+        if [ -n "$(git status --porcelain -- README.md src/last-known-posts.json)" ]; then
           echo "changed=true" >> $GITHUB_OUTPUT
         else
           echo "changed=false" >> $GITHUB_OUTPUT
@@ -50,7 +50,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add README.md
+        git add README.md src/last-known-posts.json
         git commit -m "🤖 Update README with latest content"
         git push
     
