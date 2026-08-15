@@ -92,6 +92,15 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/8ZnwxIBhCKo">
+<img src="https://img.youtube.com/vi/8ZnwxIBhCKo/mqdefault.jpg" alt="Los plugins de GitHub Copilot que usa el equipo de VS Code (gratis) #developertools #shorts" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/8ZnwxIBhCKo"><strong>Los plugins de GitHub Copilot que usa el equipo de VS Code (gratis) #developertools #shorts</strong></a>
+<br/>
+<sub>📅 14 de agosto de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=xgmmfbDta4k">
 <img src="https://img.youtube.com/vi/xgmmfbDta4k/mqdefault.jpg" alt="¿Revisiones de código eternas? Prueba las Stacked PRs" width="280"/>
 </a>
@@ -108,15 +117,6 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <a href="https://www.youtube.com/shorts/OIQYiXr5-f8"><strong>Reduce tus tokens a la mitad con este consejo #shorts #ia #dev</strong></a>
 <br/>
 <sub>📅 10 de agosto de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=PUf8Kq4tNz0">
-<img src="https://img.youtube.com/vi/PUf8Kq4tNz0/mqdefault.jpg" alt="Deployments en Kubernetes: por qué NO deberías crear Pods a mano 🛑" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=PUf8Kq4tNz0"><strong>Deployments en Kubernetes: por qué NO deberías crear Pods a mano 🛑</strong></a>
-<br/>
-<sub>📅 5 de agosto de 2026</sub>
 </td>
 </tr>
 </table>
