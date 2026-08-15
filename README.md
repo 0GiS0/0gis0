@@ -135,7 +135,7 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <tr>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/07/Toda-tu-telemetria-donde-tu-querias-scaled.png" alt="Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana" width="280" height="158"/>
+<img src="https://i0.wp.com/www.returngis.net/wp-content/uploads/2026/07/Trazas-de-Github-Copilot-en-App-Insights-en-la-seccion-Search.png?resize=710%2C339&#038;ssl=1" alt="Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana" width="280" height="158"/>
 </a>
 <br/>
 <a href="https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/"><strong>Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana</strong></a>
@@ -144,7 +144,7 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 </td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/06/100k-sub-scaled.png" alt="100.000 gracias, developers ❤️" width="280" height="158"/>
+<img src="https://www.returngis.net/wp-content/uploads/2026/06/100k-subs.mp4" alt="100.000 gracias, developers ❤️" width="280" height="158"/>
 </a>
 <br/>
 <a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/"><strong>100.000 gracias, developers ❤️</strong></a>
@@ -153,7 +153,7 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 </td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/05/GitHub-Copilot-CLI-Statusline-scaled.png" alt="Cómo crear un status line personalizado para GitHub Copilot CLI" width="280" height="158"/>
+<img src="https://i0.wp.com/www.returngis.net/wp-content/uploads/2026/05/CleanShot-2026-05-31-at-09.27.56-scaled.png?resize=710%2C506&#038;ssl=1" alt="Cómo crear un status line personalizado para GitHub Copilot CLI" width="280" height="158"/>
 </a>
 <br/>
 <a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/"><strong>Cómo crear un status line personalizado para GitHub Copilot CLI</strong></a>
