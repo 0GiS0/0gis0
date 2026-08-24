@@ -8,6 +8,11 @@ const path = require('path');
 // fall back to real, recent content instead of fake placeholder data.
 const BLOG_POSTS_CACHE_FILE = path.join(__dirname, 'last-known-posts.json');
 
+// Same idea, but for YouTube videos: if the YouTube RSS feed fetch fails,
+// fall back to the last successfully fetched real videos instead of
+// unrelated hardcoded placeholder content.
+const VIDEOS_CACHE_FILE = path.join(__dirname, 'last-known-videos.json');
+
 // Checks whether a URL points to a WordPress emoji image (typically hosted
 // on s.w.org's CDN) so that such images can be excluded when looking for a
 // real featured/thumbnail image. The host is validated using proper URL
@@ -104,6 +109,29 @@ class ContentFetcher {
       fs.writeFileSync(BLOG_POSTS_CACHE_FILE, JSON.stringify(posts, null, 2), 'utf8');
     } catch (error) {
       console.log(`Could not save cached blog posts: ${error.message}`);
+    }
+  }
+
+  loadCachedVideos() {
+    try {
+      if (fs.existsSync(VIDEOS_CACHE_FILE)) {
+        const cached = JSON.parse(fs.readFileSync(VIDEOS_CACHE_FILE, 'utf8'));
+        if (Array.isArray(cached) && cached.length > 0) {
+          console.log('Using cached YouTube videos from last successful fetch');
+          return cached;
+        }
+      }
+    } catch (error) {
+      console.log(`Could not read cached videos: ${error.message}`);
+    }
+    return null;
+  }
+
+  saveCachedVideos(videos) {
+    try {
+      fs.writeFileSync(VIDEOS_CACHE_FILE, JSON.stringify(videos, null, 2), 'utf8');
+    } catch (error) {
+      console.log(`Could not save cached videos: ${error.message}`);
     }
   }
 
@@ -249,36 +277,47 @@ class ContentFetcher {
       });
       
       console.log(`Found ${videos.length} YouTube videos`);
+      this.saveCachedVideos(videos);
       return videos;
     } catch (error) {
       console.error('Error fetching YouTube videos:', error.message);
-      // Return fallback content when network is unavailable
+      // Prefer real videos from the last successful fetch over hardcoded
+      // placeholder content, so the README never shows videos that aren't mine.
+      const cachedVideos = this.loadCachedVideos();
+      if (cachedVideos) {
+        return cachedVideos;
+      }
+      // Return fallback content only when no cache is available either
       return this.getFallbackVideos();
     }
   }
 
   getFallbackVideos() {
+    // Real videos of mine (not placeholder/unrelated content), used only when
+    // both the live fetch and the cache of last-known videos are unavailable.
+    // No publishDate on purpose: these aren't necessarily the latest uploads,
+    // so generateVideoSection() labels this section "vídeos populares" instead.
     return [
       {
-        title: "Cómo crear workflows de GitHub Actions - Tutorial completo",
-        link: "https://www.youtube.com/@returngis",
-        publishDate: "15 de diciembre de 2024",
-        description: "Aprende a automatizar tu workflow con GitHub Actions paso a paso",
-        thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+        title: "Adiós al 'en mi máquina funciona': domina Dev Containers 💻",
+        link: "https://youtu.be/DkKs29etRis",
+        description: "Todo lo que necesitas saber sobre Dev Containers",
+        thumbnail: "https://img.youtube.com/vi/DkKs29etRis/mqdefault.jpg",
+        isFallback: true
       },
       {
-        title: "Infraestructura como código con Terraform y Azure",
-        link: "https://www.youtube.com/@returngis",
-        publishDate: "8 de diciembre de 2024",
-        description: "Domina Terraform para gestionar tu infraestructura en Azure",
-        thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+        title: "Organiza tu VS Code con Perfiles | Todo lo que necesitas saber",
+        link: "https://youtu.be/u3T-qe7nWoE",
+        description: "Cómo organizar Visual Studio Code con perfiles",
+        thumbnail: "https://img.youtube.com/vi/u3T-qe7nWoE/mqdefault.jpg",
+        isFallback: true
       },
       {
-        title: "Docker y Kubernetes para desarrolladores",
-        link: "https://www.youtube.com/@returngis",
-        publishDate: "1 de diciembre de 2024",
-        description: "Containeriza y orquesta tus aplicaciones como un profesional",
-        thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+        title: "¿Qué son los contenedores? Docker desde cero para principiantes",
+        link: "https://youtu.be/SpMdQRGGwRE",
+        description: "Introducción a los contenedores con Docker",
+        thumbnail: "https://img.youtube.com/vi/SpMdQRGGwRE/mqdefault.jpg",
+        isFallback: true
       }
     ];
   }
@@ -425,10 +464,12 @@ class ContentFetcher {
       return '<!-- No hay vídeos disponibles -->';
     }
 
-    let section = '\n## 🎥 Mis últimos vídeos en YouTube\n\n';
+    const usingFallback = videos.every(video => video.isFallback);
+    const heading = usingFallback ? 'Vídeos populares en YouTube' : 'Mis últimos vídeos en YouTube';
+    let section = `\n## 🎥 ${heading}\n\n`;
     section += '<div align="center">\n\n';
     section += '<table>\n<tr>\n';
-    
+
     videos.forEach(video => {
       section += `<td align="center" width="33%">\n`;
       if (video.thumbnail) {
@@ -438,8 +479,10 @@ class ContentFetcher {
       }
       section += `<br/>\n`;
       section += `<a href="${video.link}"><strong>${video.title}</strong></a>\n`;
-      section += `<br/>\n`;
-      section += `<sub>📅 ${video.publishDate}</sub>\n`;
+      if (video.publishDate) {
+        section += `<br/>\n`;
+        section += `<sub>📅 ${video.publishDate}</sub>\n`;
+      }
       section += `</td>\n`;
     });
     
