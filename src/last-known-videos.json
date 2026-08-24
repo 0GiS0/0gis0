@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Kubernetes Services explicado: ClusterIP, LoadBalancer y más",
+    "link": "https://www.youtube.com/watch?v=14r28z6-8dY",
+    "publishDate": "19 de agosto de 2026",
+    "description": "",
+    "thumbnail": "https://img.youtube.com/vi/14r28z6-8dY/mqdefault.jpg",
+    "isShort": false
+  },
+  {
+    "title": "Los plugins de GitHub Copilot que usa el equipo de VS Code (gratis) #developertools #shorts",
+    "link": "https://www.youtube.com/shorts/8ZnwxIBhCKo",
+    "publishDate": "14 de agosto de 2026",
+    "description": "",
+    "thumbnail": "https://img.youtube.com/vi/8ZnwxIBhCKo/mqdefault.jpg",
+    "isShort": true
+  },
+  {
+    "title": "¿Revisiones de código eternas? Prueba las Stacked PRs",
+    "link": "https://www.youtube.com/watch?v=xgmmfbDta4k",
+    "publishDate": "12 de agosto de 2026",
+    "description": "",
+    "thumbnail": "https://img.youtube.com/vi/xgmmfbDta4k/mqdefault.jpg",
+    "isShort": false
+  }
+]
