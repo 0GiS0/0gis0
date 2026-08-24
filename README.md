@@ -92,31 +92,31 @@ Soy una apasionada de la tecnología y comparto todo lo que aprendo en mi blog [
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@returngis">
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Cómo crear workflows de GitHub Actions - Tutorial completo" width="280"/>
+<a href="https://www.youtube.com/watch?v=14r28z6-8dY">
+<img src="https://img.youtube.com/vi/14r28z6-8dY/mqdefault.jpg" alt="Kubernetes Services explicado: ClusterIP, LoadBalancer y más" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/@returngis"><strong>Cómo crear workflows de GitHub Actions - Tutorial completo</strong></a>
+<a href="https://www.youtube.com/watch?v=14r28z6-8dY"><strong>Kubernetes Services explicado: ClusterIP, LoadBalancer y más</strong></a>
 <br/>
-<sub>📅 15 de diciembre de 2024</sub>
+<sub>📅 19 de agosto de 2026</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@returngis">
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Infraestructura como código con Terraform y Azure" width="280"/>
+<a href="https://www.youtube.com/shorts/8ZnwxIBhCKo">
+<img src="https://img.youtube.com/vi/8ZnwxIBhCKo/mqdefault.jpg" alt="Los plugins de GitHub Copilot que usa el equipo de VS Code (gratis) #developertools #shorts" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/@returngis"><strong>Infraestructura como código con Terraform y Azure</strong></a>
+<a href="https://www.youtube.com/shorts/8ZnwxIBhCKo"><strong>Los plugins de GitHub Copilot que usa el equipo de VS Code (gratis) #developertools #shorts</strong></a>
 <br/>
-<sub>📅 8 de diciembre de 2024</sub>
+<sub>📅 14 de agosto de 2026</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@returngis">
-<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" alt="Docker y Kubernetes para desarrolladores" width="280"/>
+<a href="https://www.youtube.com/watch?v=xgmmfbDta4k">
+<img src="https://img.youtube.com/vi/xgmmfbDta4k/mqdefault.jpg" alt="¿Revisiones de código eternas? Prueba las Stacked PRs" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/@returngis"><strong>Docker y Kubernetes para desarrolladores</strong></a>
+<a href="https://www.youtube.com/watch?v=xgmmfbDta4k"><strong>¿Revisiones de código eternas? Prueba las Stacked PRs</strong></a>
 <br/>
-<sub>📅 1 de diciembre de 2024</sub>
+<sub>📅 12 de agosto de 2026</sub>
 </td>
 </tr>
 </table>
