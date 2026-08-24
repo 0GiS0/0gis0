@@ -1,7 +1,11 @@
 <div align="center">
 
-  <!-- Header con animación de typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=return(GiS)%3B%20%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Creadora%20de%20contenido%20tech%20en%20YouTube%20y%20blog%20%F0%9F%8E%A5;Cloud%20%26%20DevOps%20%C2%B7%20IA%20generativa%20%E2%98%81%EF%B8%8F%F0%9F%A4%96;Trabajo%20en%20Microsoft%20como%20Global%20Black%20Belt%20-%20Developer%20Productivity" alt="Typing SVG" />
+  <!-- Header con animación de typing (con soporte para modo claro/oscuro) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=950&separator=%7C&lines=return(GiS)%3B%7CCreadora%20de%20contenido%20tech%20en%20YouTube%20y%20blog%7CCloud%20%26%20DevOps%20%C2%B7%20IA%20generativa%20%E2%98%81%EF%B8%8F%F0%9F%A4%96%7CMicrosoft%3A%20Global%20Black%20Belt%20-%20Developer%20Productivity">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=950&separator=%7C&lines=return(GiS)%3B%7CCreadora%20de%20contenido%20tech%20en%20YouTube%20y%20blog%7CCloud%20%26%20DevOps%20%C2%B7%20IA%20generativa%20%E2%98%81%EF%B8%8F%F0%9F%A4%96%7CMicrosoft%3A%20Global%20Black%20Belt%20-%20Developer%20Productivity">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=950&separator=%7C&lines=return(GiS)%3B%7CCreadora%20de%20contenido%20tech%20en%20YouTube%20y%20blog%7CCloud%20%26%20DevOps%20%C2%B7%20IA%20generativa%20%E2%98%81%EF%B8%8F%F0%9F%A4%96%7CMicrosoft%3A%20Global%20Black%20Belt%20-%20Developer%20Productivity" alt="Typing SVG" />
+  </picture>
 
   <br/>
 
@@ -14,7 +18,7 @@
 
 <div align="center">
 
-### 🎥 ¡Nuevo contenido cada miércoles! Suscríbete para no perdértelo 🔔
+### 🔔 ¡Nuevo contenido cada miércoles! Suscríbete para no perdértelo
 
 </div>
 
@@ -110,7 +114,7 @@
 
 </div>
 
-Soy creadora de contenido tech: comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿, sobre Cloud, DevOps e IA generativa.
+Soy creadora de contenido tech: comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) sobre Cloud, DevOps e IA generativa.
 
 🎯 **Mi filosofía:** Creo que el mejor código es el que soluciona problemas reales y hace la vida más fácil a las personas.
 
