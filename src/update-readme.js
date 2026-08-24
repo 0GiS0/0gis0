@@ -8,19 +8,21 @@ const TYPING_SVG_CONFIG = {
   size: 28,
   duration: 3000,
   pause: 1000,
-  color: '000000',
-  width: 600,
+  width: 950,
   lines: [
-    'return(GiS); 👩🏻‍💻',
-    'Creadora de contenido tech en YouTube y blog 🎥',
+    'return(GiS);',
+    'Creadora de contenido tech en YouTube y blog',
     'Cloud & DevOps · IA generativa ☁️🤖',
-    'Trabajo en Microsoft como Global Black Belt - Developer Productivity'
+    'Microsoft: Global Black Belt - Developer Productivity'
   ]
 };
 
-function buildTypingSvgUrl(config) {
-  const encodedLines = config.lines.map(line => encodeURIComponent(line)).join(';');
-  return `https://readme-typing-svg.herokuapp.com?font=${config.font}&weight=${config.weight}&size=${config.size}&duration=${config.duration}&pause=${config.pause}&color=${config.color}&center=true&vCenter=true&width=${config.width}&lines=${encodedLines}`;
+function buildTypingSvgUrl(config, color) {
+  // Use a separator other than ";" so a literal semicolon can appear within a line
+  // (e.g. "return(GiS);") without the service treating it as a line break.
+  const separator = '|';
+  const encodedLines = config.lines.map(line => encodeURIComponent(line)).join(encodeURIComponent(separator));
+  return `https://readme-typing-svg.herokuapp.com?font=${config.font}&weight=${config.weight}&size=${config.size}&duration=${config.duration}&pause=${config.pause}&color=${color}&center=true&vCenter=true&width=${config.width}&separator=${encodeURIComponent(separator)}&lines=${encodedLines}`;
 }
 
 async function updateReadme() {
@@ -38,14 +40,19 @@ async function updateReadme() {
   const videoSection = fetcher.generateVideoSection(videos);
   const blogSection = fetcher.generateBlogSection(posts);
   
-  // Build typing SVG URL
-  const typingSvgUrl = buildTypingSvgUrl(TYPING_SVG_CONFIG);
-  
+  // Build typing SVG URLs (dark text for light mode, light text for dark mode)
+  const typingSvgUrlLight = buildTypingSvgUrl(TYPING_SVG_CONFIG, '000000');
+  const typingSvgUrlDark = buildTypingSvgUrl(TYPING_SVG_CONFIG, 'FFFFFF');
+
   // Create README template
   const readme = `<div align="center">
 
-  <!-- Header con animación de typing -->
-  <img src="${typingSvgUrl}" alt="Typing SVG" />
+  <!-- Header con animación de typing (con soporte para modo claro/oscuro) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="${typingSvgUrlDark}">
+    <source media="(prefers-color-scheme: light)" srcset="${typingSvgUrlLight}">
+    <img src="${typingSvgUrlLight}" alt="Typing SVG" />
+  </picture>
 
   <br/>
 
@@ -58,7 +65,7 @@ async function updateReadme() {
 
 <div align="center">
 
-### 🎥 ¡Nuevo contenido cada miércoles! Suscríbete para no perdértelo 🔔
+### 🔔 ¡Nuevo contenido cada miércoles! Suscríbete para no perdértelo
 
 </div>
 ${videoSection}---
@@ -72,7 +79,7 @@ ${blogSection}---
 
 </div>
 
-Soy creadora de contenido tech: comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) 🎥🍿, sobre Cloud, DevOps e IA generativa.
+Soy creadora de contenido tech: comparto todo lo que aprendo en mi blog [return(GiS);](https://www.returngis.net) y en YouTube [return(GiS); en YouTube](https://www.youtube.com/@returngis) sobre Cloud, DevOps e IA generativa.
 
 🎯 **Mi filosofía:** Creo que el mejor código es el que soluciona problemas reales y hace la vida más fácil a las personas.
 
