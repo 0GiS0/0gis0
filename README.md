@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=4xYRa4R_f0k">
+<img src="https://img.youtube.com/vi/4xYRa4R_f0k/mqdefault.jpg" alt="WebMCP explicado: El futuro de la interacción IA y Web" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=4xYRa4R_f0k"><strong>WebMCP explicado: El futuro de la interacción IA y Web</strong></a>
+<br/>
+<sub>📅 26 de agosto de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=14r28z6-8dY">
 <img src="https://img.youtube.com/vi/14r28z6-8dY/mqdefault.jpg" alt="Kubernetes Services explicado: ClusterIP, LoadBalancer y más" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/shorts/8ZnwxIBhCKo"><strong>Los plugins de GitHub Copilot que usa el equipo de VS Code (gratis) #developertools #shorts</strong></a>
 <br/>
 <sub>📅 14 de agosto de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=xgmmfbDta4k">
-<img src="https://img.youtube.com/vi/xgmmfbDta4k/mqdefault.jpg" alt="¿Revisiones de código eternas? Prueba las Stacked PRs" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=xgmmfbDta4k"><strong>¿Revisiones de código eternas? Prueba las Stacked PRs</strong></a>
-<br/>
-<sub>📅 12 de agosto de 2026</sub>
 </td>
 </tr>
 </table>
