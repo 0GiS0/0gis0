@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/T1cUlTRqmCA">
+<img src="https://img.youtube.com/vi/T1cUlTRqmCA/mqdefault.jpg" alt="WebMCP: tu web le dice a la IA cómo utilizarla 🤯 #shorts" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/T1cUlTRqmCA"><strong>WebMCP: tu web le dice a la IA cómo utilizarla 🤯 #shorts</strong></a>
+<br/>
+<sub>📅 28 de agosto de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=4xYRa4R_f0k">
 <img src="https://img.youtube.com/vi/4xYRa4R_f0k/mqdefault.jpg" alt="WebMCP explicado: El futuro de la interacción IA y Web" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/watch?v=14r28z6-8dY"><strong>Kubernetes Services explicado: ClusterIP, LoadBalancer y más</strong></a>
 <br/>
 <sub>📅 19 de agosto de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/shorts/8ZnwxIBhCKo">
-<img src="https://img.youtube.com/vi/8ZnwxIBhCKo/mqdefault.jpg" alt="Los plugins de GitHub Copilot que usa el equipo de VS Code (gratis) #developertools #shorts" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/shorts/8ZnwxIBhCKo"><strong>Los plugins de GitHub Copilot que usa el equipo de VS Code (gratis) #developertools #shorts</strong></a>
-<br/>
-<sub>📅 14 de agosto de 2026</sub>
 </td>
 </tr>
 </table>
