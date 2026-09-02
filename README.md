@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=8_BoCsbslt0">
+<img src="https://img.youtube.com/vi/8_BoCsbslt0/mqdefault.jpg" alt="ConfigMaps vs Secretos: Cuándo usar cada uno" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=8_BoCsbslt0"><strong>ConfigMaps vs Secretos: Cuándo usar cada uno</strong></a>
+<br/>
+<sub>📅 2 de septiembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/shorts/T1cUlTRqmCA">
 <img src="https://img.youtube.com/vi/T1cUlTRqmCA/mqdefault.jpg" alt="WebMCP: tu web le dice a la IA cómo utilizarla 🤯 #shorts" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/watch?v=4xYRa4R_f0k"><strong>WebMCP explicado: El futuro de la interacción IA y Web</strong></a>
 <br/>
 <sub>📅 26 de agosto de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=14r28z6-8dY">
-<img src="https://img.youtube.com/vi/14r28z6-8dY/mqdefault.jpg" alt="Kubernetes Services explicado: ClusterIP, LoadBalancer y más" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=14r28z6-8dY"><strong>Kubernetes Services explicado: ClusterIP, LoadBalancer y más</strong></a>
-<br/>
-<sub>📅 19 de agosto de 2026</sub>
 </td>
 </tr>
 </table>
