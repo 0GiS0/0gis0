@@ -4,20 +4,20 @@
     "link": "https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/",
     "publishDate": "29 de julio de 2026",
     "description": "Aprende a capturar las trazas de GitHub Copilot Chat en VS Code usando OpenTelemetry, enviarlas a Azure Application Insights y crear dashboards personalizados con Grafana para visualizar el uso de tus custom agents.\nLa entrada Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana se publicó primero en return(GiS);.",
-    "thumbnail": "https://www.returngis.net/wp-content/uploads/2026/07/Toda-tu-telemetria-donde-tu-querias-scaled.png"
+    "thumbnail": "https://i0.wp.com/www.returngis.net/wp-content/uploads/2026/07/Trazas-de-Github-Copilot-en-App-Insights-en-la-seccion-Search.png?resize=710%2C339&#038;ssl=1"
   },
   {
     "title": "100.000 gracias, developers ❤️",
     "link": "https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/",
     "publishDate": "6 de junio de 2026",
     "description": "¡Hola developer 👋! Hoy quiero celebrar algo que todavía me cuesta un poco creer: hemos llegado a los 100.000 suscriptores en YouTube 🥹 Y digo “hemos” porque esto no ha sido algo que haya pasado de la noche a la mañana, ni algo que haya hecho sola. Empecé este camino un 25 de julio de 2023. Desde entonces, prácticamente todos los miércoles —salvo un par... \nLeer\nLa entrada 100.000 gracias, developers ❤️ se publicó primero en return(GiS);.",
-    "thumbnail": "https://www.returngis.net/wp-content/uploads/2026/06/100k-sub-scaled.png"
+    "thumbnail": "https://www.returngis.net/wp-content/uploads/2026/06/100k-subs.mp4"
   },
   {
     "title": "Cómo crear un status line personalizado para GitHub Copilot CLI",
     "link": "https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/",
     "publishDate": "31 de mayo de 2026",
     "description": "Aprende a crear un statusline personalizado para GitHub Copilot CLI que muestra en tiempo real la batería, CPU, RAM, temperatura y disco de tu Mac. Con emojis, indicadores de color y cache para rendimiento óptimo.\nLa entrada Cómo crear un status line personalizado para GitHub Copilot CLI se publicó primero en return(GiS);.",
-    "thumbnail": "https://www.returngis.net/wp-content/uploads/2026/05/GitHub-Copilot-CLI-Statusline-scaled.png"
+    "thumbnail": "https://i0.wp.com/www.returngis.net/wp-content/uploads/2026/05/CleanShot-2026-05-31-at-09.27.56-scaled.png?resize=710%2C506&#038;ssl=1"
   }
 ]
