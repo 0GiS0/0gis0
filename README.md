@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=ZNT7Pb3c554">
+<img src="https://img.youtube.com/vi/ZNT7Pb3c554/mqdefault.jpg" alt="Por qué necesitas probar HydraFusion ahora mismo" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=ZNT7Pb3c554"><strong>Por qué necesitas probar HydraFusion ahora mismo</strong></a>
+<br/>
+<sub>📅 9 de septiembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=8_BoCsbslt0">
 <img src="https://img.youtube.com/vi/8_BoCsbslt0/mqdefault.jpg" alt="ConfigMaps vs Secretos: Cuándo usar cada uno" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/shorts/T1cUlTRqmCA"><strong>WebMCP: tu web le dice a la IA cómo utilizarla 🤯 #shorts</strong></a>
 <br/>
 <sub>📅 28 de agosto de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=4xYRa4R_f0k">
-<img src="https://img.youtube.com/vi/4xYRa4R_f0k/mqdefault.jpg" alt="WebMCP explicado: El futuro de la interacción IA y Web" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=4xYRa4R_f0k"><strong>WebMCP explicado: El futuro de la interacción IA y Web</strong></a>
-<br/>
-<sub>📅 26 de agosto de 2026</sub>
 </td>
 </tr>
 </table>
@@ -72,7 +72,7 @@
 <tr>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/">
-<img src="https://i0.wp.com/www.returngis.net/wp-content/uploads/2026/07/Trazas-de-Github-Copilot-en-App-Insights-en-la-seccion-Search.png?resize=710%2C339&#038;ssl=1" alt="Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana" width="280" height="158"/>
+<img src="https://www.returngis.net/wp-content/uploads/2026/07/Toda-tu-telemetria-donde-tu-querias-scaled.png" alt="Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana" width="280" height="158"/>
 </a>
 <br/>
 <a href="https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/"><strong>Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana</strong></a>
@@ -81,7 +81,7 @@
 </td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/06/100k-subs.mp4" alt="100.000 gracias, developers ❤️" width="280" height="158"/>
+<img src="https://www.returngis.net/wp-content/uploads/2026/06/100k-sub-scaled.png" alt="100.000 gracias, developers ❤️" width="280" height="158"/>
 </a>
 <br/>
 <a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/"><strong>100.000 gracias, developers ❤️</strong></a>
@@ -90,7 +90,7 @@
 </td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/">
-<img src="https://i0.wp.com/www.returngis.net/wp-content/uploads/2026/05/CleanShot-2026-05-31-at-09.27.56-scaled.png?resize=710%2C506&#038;ssl=1" alt="Cómo crear un status line personalizado para GitHub Copilot CLI" width="280" height="158"/>
+<img src="https://www.returngis.net/wp-content/uploads/2026/05/GitHub-Copilot-CLI-Statusline-scaled.png" alt="Cómo crear un status line personalizado para GitHub Copilot CLI" width="280" height="158"/>
 </a>
 <br/>
 <a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/"><strong>Cómo crear un status line personalizado para GitHub Copilot CLI</strong></a>
