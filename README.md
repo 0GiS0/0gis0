@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=PlZO9x1LYas">
+<img src="https://img.youtube.com/vi/PlZO9x1LYas/mqdefault.jpg" alt="Deja de hacer tareas repetitivas en VS Code: Nueva función Automations" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=PlZO9x1LYas"><strong>Deja de hacer tareas repetitivas en VS Code: Nueva función Automations</strong></a>
+<br/>
+<sub>📅 16 de septiembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=ZNT7Pb3c554">
 <img src="https://img.youtube.com/vi/ZNT7Pb3c554/mqdefault.jpg" alt="Por qué necesitas probar HydraFusion ahora mismo" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/watch?v=8_BoCsbslt0"><strong>ConfigMaps vs Secretos: Cuándo usar cada uno</strong></a>
 <br/>
 <sub>📅 2 de septiembre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/shorts/T1cUlTRqmCA">
-<img src="https://img.youtube.com/vi/T1cUlTRqmCA/mqdefault.jpg" alt="WebMCP: tu web le dice a la IA cómo utilizarla 🤯 #shorts" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/shorts/T1cUlTRqmCA"><strong>WebMCP: tu web le dice a la IA cómo utilizarla 🤯 #shorts</strong></a>
-<br/>
-<sub>📅 28 de agosto de 2026</sub>
 </td>
 </tr>
 </table>
