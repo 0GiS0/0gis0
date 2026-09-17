@@ -30,10 +30,10 @@
 <tr>
 <td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=PlZO9x1LYas">
-<img src="https://img.youtube.com/vi/PlZO9x1LYas/mqdefault.jpg" alt="Deja de hacer tareas repetitivas en VS Code: Nueva función Automations" width="280"/>
+<img src="https://img.youtube.com/vi/PlZO9x1LYas/mqdefault.jpg" alt="VS Code Automations: Ahorra horas de trabajo con esta nueva función" width="280"/>
 </a>
 <br/>
-<a href="https://www.youtube.com/watch?v=PlZO9x1LYas"><strong>Deja de hacer tareas repetitivas en VS Code: Nueva función Automations</strong></a>
+<a href="https://www.youtube.com/watch?v=PlZO9x1LYas"><strong>VS Code Automations: Ahorra horas de trabajo con esta nueva función</strong></a>
 <br/>
 <sub>📅 16 de septiembre de 2026</sub>
 </td>
