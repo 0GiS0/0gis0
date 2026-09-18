@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/knRtKXg-8Mw">
+<img src="https://img.youtube.com/vi/knRtKXg-8Mw/mqdefault.jpg" alt="Skills para Obsidian por su CEO #shorts #obsidian #ia" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/knRtKXg-8Mw"><strong>Skills para Obsidian por su CEO #shorts #obsidian #ia</strong></a>
+<br/>
+<sub>📅 17 de septiembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=PlZO9x1LYas">
 <img src="https://img.youtube.com/vi/PlZO9x1LYas/mqdefault.jpg" alt="VS Code Automations: Ahorra horas de trabajo con esta nueva función" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/watch?v=ZNT7Pb3c554"><strong>Por qué necesitas probar HydraFusion ahora mismo</strong></a>
 <br/>
 <sub>📅 9 de septiembre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=8_BoCsbslt0">
-<img src="https://img.youtube.com/vi/8_BoCsbslt0/mqdefault.jpg" alt="ConfigMaps vs Secretos: Cuándo usar cada uno" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=8_BoCsbslt0"><strong>ConfigMaps vs Secretos: Cuándo usar cada uno</strong></a>
-<br/>
-<sub>📅 2 de septiembre de 2026</sub>
 </td>
 </tr>
 </table>
