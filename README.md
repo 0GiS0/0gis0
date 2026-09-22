@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=D73kVkGCPiY">
+<img src="https://img.youtube.com/vi/D73kVkGCPiY/mqdefault.jpg" alt="Qué es Jev AI y por qué todo el mundo habla de ello" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=D73kVkGCPiY"><strong>Qué es Jev AI y por qué todo el mundo habla de ello</strong></a>
+<br/>
+<sub>📅 21 de septiembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/shorts/knRtKXg-8Mw">
 <img src="https://img.youtube.com/vi/knRtKXg-8Mw/mqdefault.jpg" alt="Skills para Obsidian por su CEO #shorts #obsidian #ia" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/watch?v=PlZO9x1LYas"><strong>VS Code Automations: Ahorra horas de trabajo con esta nueva función</strong></a>
 <br/>
 <sub>📅 16 de septiembre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=ZNT7Pb3c554">
-<img src="https://img.youtube.com/vi/ZNT7Pb3c554/mqdefault.jpg" alt="Por qué necesitas probar HydraFusion ahora mismo" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=ZNT7Pb3c554"><strong>Por qué necesitas probar HydraFusion ahora mismo</strong></a>
-<br/>
-<sub>📅 9 de septiembre de 2026</sub>
 </td>
 </tr>
 </table>
