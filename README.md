@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=gej0ZE95SmA">
+<img src="https://img.youtube.com/vi/gej0ZE95SmA/mqdefault.jpg" alt="No guardes tus contraseñas en ENV: usa Docker Compose Secrets" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=gej0ZE95SmA"><strong>No guardes tus contraseñas en ENV: usa Docker Compose Secrets</strong></a>
+<br/>
+<sub>📅 30 de septiembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=D73kVkGCPiY">
 <img src="https://img.youtube.com/vi/D73kVkGCPiY/mqdefault.jpg" alt="Qué es Jev AI y por qué todo el mundo habla de ello" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/shorts/knRtKXg-8Mw"><strong>Skills para Obsidian por su CEO #shorts #obsidian #ia</strong></a>
 <br/>
 <sub>📅 17 de septiembre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=PlZO9x1LYas">
-<img src="https://img.youtube.com/vi/PlZO9x1LYas/mqdefault.jpg" alt="VS Code Automations: Ahorra horas de trabajo con esta nueva función" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=PlZO9x1LYas"><strong>VS Code Automations: Ahorra horas de trabajo con esta nueva función</strong></a>
-<br/>
-<sub>📅 16 de septiembre de 2026</sub>
 </td>
 </tr>
 </table>
