@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=9ADyfvfimRI">
+<img src="https://img.youtube.com/vi/9ADyfvfimRI/mqdefault.jpg" alt="Persistencia de datos en Kubernetes: Guía definitiva de PV, PVC y StorageClass" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=9ADyfvfimRI"><strong>Persistencia de datos en Kubernetes: Guía definitiva de PV, PVC y StorageClass</strong></a>
+<br/>
+<sub>📅 7 de octubre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=gej0ZE95SmA">
 <img src="https://img.youtube.com/vi/gej0ZE95SmA/mqdefault.jpg" alt="No guardes tus contraseñas en ENV: usa Docker Compose Secrets" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/watch?v=D73kVkGCPiY"><strong>Qué es Jev AI y por qué todo el mundo habla de ello</strong></a>
 <br/>
 <sub>📅 21 de septiembre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/shorts/knRtKXg-8Mw">
-<img src="https://img.youtube.com/vi/knRtKXg-8Mw/mqdefault.jpg" alt="Skills para Obsidian por su CEO #shorts #obsidian #ia" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/shorts/knRtKXg-8Mw"><strong>Skills para Obsidian por su CEO #shorts #obsidian #ia</strong></a>
-<br/>
-<sub>📅 17 de septiembre de 2026</sub>
 </td>
 </tr>
 </table>
