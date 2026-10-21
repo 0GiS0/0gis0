@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=7OHXDA4WT6Q">
+<img src="https://img.youtube.com/vi/7OHXDA4WT6Q/mqdefault.jpg" alt="Así hago las animaciones de mis vídeos con IA (HyperFrames)" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=7OHXDA4WT6Q"><strong>Así hago las animaciones de mis vídeos con IA (HyperFrames)</strong></a>
+<br/>
+<sub>📅 21 de octubre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=dhkiC4Iq1eM">
 <img src="https://img.youtube.com/vi/dhkiC4Iq1eM/mqdefault.jpg" alt="7 pasos para programar mejor con coding agents" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/watch?v=9ADyfvfimRI"><strong>Persistencia de datos en Kubernetes: Guía definitiva de PV, PVC y StorageClass</strong></a>
 <br/>
 <sub>📅 7 de octubre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=gej0ZE95SmA">
-<img src="https://img.youtube.com/vi/gej0ZE95SmA/mqdefault.jpg" alt="No guardes tus contraseñas en ENV: usa Docker Compose Secrets" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=gej0ZE95SmA"><strong>No guardes tus contraseñas en ENV: usa Docker Compose Secrets</strong></a>
-<br/>
-<sub>📅 30 de septiembre de 2026</sub>
 </td>
 </tr>
 </table>
