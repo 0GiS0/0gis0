@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/f-yAmW4iEuY">
+<img src="https://img.youtube.com/vi/f-yAmW4iEuY/mqdefault.jpg" alt="Crear animaciones me llevaba días… hasta que probé HyperFrames #shorts" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/f-yAmW4iEuY"><strong>Crear animaciones me llevaba días… hasta que probé HyperFrames #shorts</strong></a>
+<br/>
+<sub>📅 23 de octubre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=7OHXDA4WT6Q">
 <img src="https://img.youtube.com/vi/7OHXDA4WT6Q/mqdefault.jpg" alt="Así hago las animaciones de mis vídeos con IA (HyperFrames)" width="280"/>
 </a>
@@ -46,15 +55,6 @@
 <br/>
 <sub>📅 14 de octubre de 2026</sub>
 </td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=9ADyfvfimRI">
-<img src="https://img.youtube.com/vi/9ADyfvfimRI/mqdefault.jpg" alt="Persistencia de datos en Kubernetes: Guía definitiva de PV, PVC y StorageClass" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=9ADyfvfimRI"><strong>Persistencia de datos en Kubernetes: Guía definitiva de PV, PVC y StorageClass</strong></a>
-<br/>
-<sub>📅 7 de octubre de 2026</sub>
-</td>
 </tr>
 </table>
 
@@ -70,6 +70,15 @@
 
 <table>
 <tr>
+<td align="center" width="33%">
+<a href="https://www.returngis.net/2026/10/como-quitar-el-eco-de-la-voz-de-tus-videos-con-ia-gratis-y-en-local/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/10/Adios-al-eco-con-IA-en-local-y-gratis-scaled.png" alt="Cómo quitar el eco de la voz de tus vídeos con IA (gratis y en local)" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/10/como-quitar-el-eco-de-la-voz-de-tus-videos-con-ia-gratis-y-en-local/"><strong>Cómo quitar el eco de la voz de tus vídeos con IA (gratis y en local)</strong></a>
+<br/>
+<sub>📅 24 de octubre de 2026</sub>
+</td>
 <td align="center" width="33%">
 <a href="https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/07/Toda-tu-telemetria-donde-tu-querias-scaled.png" alt="Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana" width="280" height="158"/>
@@ -87,15 +96,6 @@
 <a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/"><strong>100.000 gracias, developers ❤️</strong></a>
 <br/>
 <sub>📅 6 de junio de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/05/GitHub-Copilot-CLI-Statusline-scaled.png" alt="Cómo crear un status line personalizado para GitHub Copilot CLI" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/05/como-crear-un-status-line-personalizado-para-github-copilot-cli/"><strong>Cómo crear un status line personalizado para GitHub Copilot CLI</strong></a>
-<br/>
-<sub>📅 31 de mayo de 2026</sub>
 </td>
 </tr>
 </table>
