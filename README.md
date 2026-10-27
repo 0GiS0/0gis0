@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/GxRgjiaO4Ck">
+<img src="https://img.youtube.com/vi/GxRgjiaO4Ck/mqdefault.jpg" alt="No tengo .NET instalado y aun así funciona 🤯 #devcontainers" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/GxRgjiaO4Ck"><strong>No tengo .NET instalado y aun así funciona 🤯 #devcontainers</strong></a>
+<br/>
+<sub>📅 26 de octubre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/shorts/f-yAmW4iEuY">
 <img src="https://img.youtube.com/vi/f-yAmW4iEuY/mqdefault.jpg" alt="Crear animaciones me llevaba días… hasta que probé HyperFrames #shorts" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/watch?v=7OHXDA4WT6Q"><strong>Así hago las animaciones de mis vídeos con IA (HyperFrames)</strong></a>
 <br/>
 <sub>📅 21 de octubre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=dhkiC4Iq1eM">
-<img src="https://img.youtube.com/vi/dhkiC4Iq1eM/mqdefault.jpg" alt="7 pasos para programar mejor con coding agents" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=dhkiC4Iq1eM"><strong>7 pasos para programar mejor con coding agents</strong></a>
-<br/>
-<sub>📅 14 de octubre de 2026</sub>
 </td>
 </tr>
 </table>
