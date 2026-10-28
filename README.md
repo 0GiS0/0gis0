@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=UDu-09xhDrs">
+<img src="https://img.youtube.com/vi/UDu-09xhDrs/mqdefault.jpg" alt="Así enseño a mi IA a hacer mis tareas repetitivas en minutos (Skill Recorder)" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=UDu-09xhDrs"><strong>Así enseño a mi IA a hacer mis tareas repetitivas en minutos (Skill Recorder)</strong></a>
+<br/>
+<sub>📅 28 de octubre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/shorts/GxRgjiaO4Ck">
 <img src="https://img.youtube.com/vi/GxRgjiaO4Ck/mqdefault.jpg" alt="No tengo .NET instalado y aun así funciona 🤯 #devcontainers" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/shorts/f-yAmW4iEuY"><strong>Crear animaciones me llevaba días… hasta que probé HyperFrames #shorts</strong></a>
 <br/>
 <sub>📅 23 de octubre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=7OHXDA4WT6Q">
-<img src="https://img.youtube.com/vi/7OHXDA4WT6Q/mqdefault.jpg" alt="Así hago las animaciones de mis vídeos con IA (HyperFrames)" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=7OHXDA4WT6Q"><strong>Así hago las animaciones de mis vídeos con IA (HyperFrames)</strong></a>
-<br/>
-<sub>📅 21 de octubre de 2026</sub>
 </td>
 </tr>
 </table>
