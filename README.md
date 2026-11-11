@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=AtB588q1j2g">
+<img src="https://img.youtube.com/vi/AtB588q1j2g/mqdefault.jpg" alt="Así monté una Software Factory con GitHub Copilot" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=AtB588q1j2g"><strong>Así monté una Software Factory con GitHub Copilot</strong></a>
+<br/>
+<sub>📅 11 de noviembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=CLJcZugNUqw">
 <img src="https://img.youtube.com/vi/CLJcZugNUqw/mqdefault.jpg" alt="GitHub Copilot Projects: agentes trabajando en varios repos a la vez" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/shorts/HwyaJdIWGuE"><strong>Le pedí a Copilot SOLO el código y gasté un 25 % menos 💸</strong></a>
 <br/>
 <sub>📅 30 de octubre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=UDu-09xhDrs">
-<img src="https://img.youtube.com/vi/UDu-09xhDrs/mqdefault.jpg" alt="Así enseño a mi IA a hacer mis tareas repetitivas en minutos (Skill Recorder)" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=UDu-09xhDrs"><strong>Así enseño a mi IA a hacer mis tareas repetitivas en minutos (Skill Recorder)</strong></a>
-<br/>
-<sub>📅 28 de octubre de 2026</sub>
 </td>
 </tr>
 </table>
