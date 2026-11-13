@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/ysAcV9prODU">
+<img src="https://img.youtube.com/vi/ysAcV9prODU/mqdefault.jpg" alt="Luz encendida o apagada: ¿quién revisa el código de la IA?" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/ysAcV9prODU"><strong>Luz encendida o apagada: ¿quién revisa el código de la IA?</strong></a>
+<br/>
+<sub>📅 13 de noviembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=AtB588q1j2g">
 <img src="https://img.youtube.com/vi/AtB588q1j2g/mqdefault.jpg" alt="Así monté una Software Factory con GitHub Copilot" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/watch?v=CLJcZugNUqw"><strong>GitHub Copilot Projects: agentes trabajando en varios repos a la vez</strong></a>
 <br/>
 <sub>📅 4 de noviembre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/shorts/HwyaJdIWGuE">
-<img src="https://img.youtube.com/vi/HwyaJdIWGuE/mqdefault.jpg" alt="Le pedí a Copilot SOLO el código y gasté un 25 % menos 💸" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/shorts/HwyaJdIWGuE"><strong>Le pedí a Copilot SOLO el código y gasté un 25 % menos 💸</strong></a>
-<br/>
-<sub>📅 30 de octubre de 2026</sub>
 </td>
 </tr>
 </table>
