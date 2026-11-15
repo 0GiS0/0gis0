@@ -71,6 +71,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.returngis.net/2026/11/un-agents-md-global-para-dominarlos-a-todos/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/11/Un-AGENTS.md-global-para-dominarlos-a-todos-scaled.png" alt="Un AGENTS.md global para dominarlos a todos" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/11/un-agents-md-global-para-dominarlos-a-todos/"><strong>Un AGENTS.md global para dominarlos a todos</strong></a>
+<br/>
+<sub>📅 15 de noviembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.returngis.net/2026/10/como-quitar-el-eco-de-la-voz-de-tus-videos-con-ia-gratis-y-en-local/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/10/Adios-al-eco-con-IA-en-local-y-gratis-scaled.png" alt="Cómo quitar el eco de la voz de tus vídeos con IA (gratis y en local)" width="280" height="158"/>
 </a>
@@ -87,15 +96,6 @@
 <a href="https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/"><strong>Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana</strong></a>
 <br/>
 <sub>📅 29 de julio de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/06/100k-sub-scaled.png" alt="100.000 gracias, developers ❤️" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/06/100-000-gracias-developers-%e2%9d%a4%ef%b8%8f/"><strong>100.000 gracias, developers ❤️</strong></a>
-<br/>
-<sub>📅 6 de junio de 2026</sub>
 </td>
 </tr>
 </table>
