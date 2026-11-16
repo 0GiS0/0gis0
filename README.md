@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/yiMS3l_h2rs">
+<img src="https://img.youtube.com/vi/yiMS3l_h2rs/mqdefault.jpg" alt="¿Pasarte de Docker a Podman es difícil? Mira esto 🐳🦭" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/yiMS3l_h2rs"><strong>¿Pasarte de Docker a Podman es difícil? Mira esto 🐳🦭</strong></a>
+<br/>
+<sub>📅 16 de noviembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/shorts/ysAcV9prODU">
 <img src="https://img.youtube.com/vi/ysAcV9prODU/mqdefault.jpg" alt="Luz encendida o apagada: ¿quién revisa el código de la IA?" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/watch?v=AtB588q1j2g"><strong>Así monté una Software Factory con GitHub Copilot</strong></a>
 <br/>
 <sub>📅 11 de noviembre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=CLJcZugNUqw">
-<img src="https://img.youtube.com/vi/CLJcZugNUqw/mqdefault.jpg" alt="GitHub Copilot Projects: agentes trabajando en varios repos a la vez" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=CLJcZugNUqw"><strong>GitHub Copilot Projects: agentes trabajando en varios repos a la vez</strong></a>
-<br/>
-<sub>📅 4 de noviembre de 2026</sub>
 </td>
 </tr>
 </table>
