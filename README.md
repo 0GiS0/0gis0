@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/watch?v=NmkiCYACkrQ">
+<img src="https://img.youtube.com/vi/NmkiCYACkrQ/mqdefault.jpg" alt="Adiós al diseño feo de la IA: así uso Impeccable con mis agentes" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=NmkiCYACkrQ"><strong>Adiós al diseño feo de la IA: así uso Impeccable con mis agentes</strong></a>
+<br/>
+<sub>📅 18 de noviembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/shorts/yiMS3l_h2rs">
 <img src="https://img.youtube.com/vi/yiMS3l_h2rs/mqdefault.jpg" alt="¿Pasarte de Docker a Podman es difícil? Mira esto 🐳🦭" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/shorts/ysAcV9prODU"><strong>Luz encendida o apagada: ¿quién revisa el código de la IA?</strong></a>
 <br/>
 <sub>📅 13 de noviembre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=AtB588q1j2g">
-<img src="https://img.youtube.com/vi/AtB588q1j2g/mqdefault.jpg" alt="Así monté una Software Factory con GitHub Copilot" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=AtB588q1j2g"><strong>Así monté una Software Factory con GitHub Copilot</strong></a>
-<br/>
-<sub>📅 11 de noviembre de 2026</sub>
 </td>
 </tr>
 </table>
