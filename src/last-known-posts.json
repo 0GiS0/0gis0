@@ -1,5 +1,12 @@
 [
   {
+    "title": "Cambia de carpeta y deja que direnv cambie el contexto por ti",
+    "link": "https://www.returngis.net/2026/11/cambia-de-carpeta-y-deja-que-direnv-cambie-el-contexto-por-ti/",
+    "publishDate": "20 de noviembre de 2026",
+    "description": "¡Hola, developer! 👋🏻 Empecé a buscar una solución a esto por mis cuentas de GitHub. Suelo tener una terminal abierta con un proyecto personal y otra con una demo de empresa. En la segunda hago gh auth switch, preparo la demo y, cuando vuelvo a la primera, gh sigue usando la cuenta de empresa. Si además he dejado un agente trabajando en el proyecto personal,... \nLeer\nLa entrada Cambia de carpeta y deja que direnv cambie el contexto por ti se publicó primero en return(GiS);.",
+    "thumbnail": "https://www.returngis.net/wp-content/uploads/2026/11/direnv-scaled.png"
+  },
+  {
     "title": "Un AGENTS.md global para dominarlos a todos",
     "link": "https://www.returngis.net/2026/11/un-agents-md-global-para-dominarlos-a-todos/",
     "publishDate": "15 de noviembre de 2026",
@@ -12,12 +19,5 @@
     "publishDate": "24 de octubre de 2026",
     "description": "¡Hola developer 👋🏻! Estos días estoy sacando shorts de vídeos antiguos de mi canal y me he encontrado con un problema: en los vídeos de 2024 mi voz tiene muchísimo eco… acabábamos de mudarnos y la habitación estaba prácticamente sin nada. En este artículo te cuento cómo lo he limpiado con IA, gratis y en local, con una herramienta open source llamada DeepFilterNet. Funciona igual... \nLeer\nLa entrada Cómo quitar el eco de la voz de tus vídeos con IA (gratis y en local) se publicó primero en return(GiS);.",
     "thumbnail": "https://www.returngis.net/wp-content/uploads/2026/10/Adios-al-eco-con-IA-en-local-y-gratis-scaled.png"
-  },
-  {
-    "title": "Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana",
-    "link": "https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/",
-    "publishDate": "29 de julio de 2026",
-    "description": "Aprende a capturar las trazas de GitHub Copilot Chat en VS Code usando OpenTelemetry, enviarlas a Azure Application Insights y crear dashboards personalizados con Grafana para visualizar el uso de tus custom agents.\nLa entrada Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana se publicó primero en return(GiS);.",
-    "thumbnail": "https://www.returngis.net/wp-content/uploads/2026/07/Toda-tu-telemetria-donde-tu-querias-scaled.png"
   }
 ]

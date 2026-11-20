@@ -71,6 +71,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.returngis.net/2026/11/cambia-de-carpeta-y-deja-que-direnv-cambie-el-contexto-por-ti/">
+<img src="https://www.returngis.net/wp-content/uploads/2026/11/direnv-scaled.png" alt="Cambia de carpeta y deja que direnv cambie el contexto por ti" width="280" height="158"/>
+</a>
+<br/>
+<a href="https://www.returngis.net/2026/11/cambia-de-carpeta-y-deja-que-direnv-cambie-el-contexto-por-ti/"><strong>Cambia de carpeta y deja que direnv cambie el contexto por ti</strong></a>
+<br/>
+<sub>📅 20 de noviembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.returngis.net/2026/11/un-agents-md-global-para-dominarlos-a-todos/">
 <img src="https://www.returngis.net/wp-content/uploads/2026/11/Un-AGENTS.md-global-para-dominarlos-a-todos-scaled.png" alt="Un AGENTS.md global para dominarlos a todos" width="280" height="158"/>
 </a>
@@ -87,15 +96,6 @@
 <a href="https://www.returngis.net/2026/10/como-quitar-el-eco-de-la-voz-de-tus-videos-con-ia-gratis-y-en-local/"><strong>Cómo quitar el eco de la voz de tus vídeos con IA (gratis y en local)</strong></a>
 <br/>
 <sub>📅 24 de octubre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/">
-<img src="https://www.returngis.net/wp-content/uploads/2026/07/Toda-tu-telemetria-donde-tu-querias-scaled.png" alt="Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana" width="280" height="158"/>
-</a>
-<br/>
-<a href="https://www.returngis.net/2026/07/como-monitorizar-github-copilot-con-opentelemetry-application-insights-y-grafana/"><strong>Cómo monitorizar GitHub Copilot con OpenTelemetry, Application Insights y Grafana</strong></a>
-<br/>
-<sub>📅 29 de julio de 2026</sub>
 </td>
 </tr>
 </table>
