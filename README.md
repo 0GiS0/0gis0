@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/iFgaA5w5Zks">
+<img src="https://img.youtube.com/vi/iFgaA5w5Zks/mqdefault.jpg" alt="Agentic Engineering, Software Factory, Dark Factory… ¿te pierdes? 🪜" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/iFgaA5w5Zks"><strong>Agentic Engineering, Software Factory, Dark Factory… ¿te pierdes? 🪜</strong></a>
+<br/>
+<sub>📅 20 de noviembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=NmkiCYACkrQ">
 <img src="https://img.youtube.com/vi/NmkiCYACkrQ/mqdefault.jpg" alt="Adiós al diseño feo de la IA: así uso Impeccable con mis agentes" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/shorts/yiMS3l_h2rs"><strong>¿Pasarte de Docker a Podman es difícil? Mira esto 🐳🦭</strong></a>
 <br/>
 <sub>📅 16 de noviembre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/shorts/ysAcV9prODU">
-<img src="https://img.youtube.com/vi/ysAcV9prODU/mqdefault.jpg" alt="Luz encendida o apagada: ¿quién revisa el código de la IA?" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/shorts/ysAcV9prODU"><strong>Luz encendida o apagada: ¿quién revisa el código de la IA?</strong></a>
-<br/>
-<sub>📅 13 de noviembre de 2026</sub>
 </td>
 </tr>
 </table>
