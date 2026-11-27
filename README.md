@@ -29,6 +29,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<a href="https://www.youtube.com/shorts/SMVIAMCYl0Y">
+<img src="https://img.youtube.com/vi/SMVIAMCYl0Y/mqdefault.jpg" alt="El diseño se me da regular… así que mi agente me hizo bocetos (Impeccable)" width="280"/>
+</a>
+<br/>
+<a href="https://www.youtube.com/shorts/SMVIAMCYl0Y"><strong>El diseño se me da regular… así que mi agente me hizo bocetos (Impeccable)</strong></a>
+<br/>
+<sub>📅 27 de noviembre de 2026</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://www.youtube.com/watch?v=Q0YIl3e4RYc">
 <img src="https://img.youtube.com/vi/Q0YIl3e4RYc/mqdefault.jpg" alt="Computer Use vs. Browser Use en GitHub Copilot: ¿cuál usar?" width="280"/>
 </a>
@@ -45,15 +54,6 @@
 <a href="https://www.youtube.com/shorts/iFgaA5w5Zks"><strong>Agentic Engineering, Software Factory, Dark Factory… ¿te pierdes? 🪜</strong></a>
 <br/>
 <sub>📅 20 de noviembre de 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://www.youtube.com/watch?v=NmkiCYACkrQ">
-<img src="https://img.youtube.com/vi/NmkiCYACkrQ/mqdefault.jpg" alt="Adiós al diseño feo de la IA: así uso Impeccable con mis agentes" width="280"/>
-</a>
-<br/>
-<a href="https://www.youtube.com/watch?v=NmkiCYACkrQ"><strong>Adiós al diseño feo de la IA: así uso Impeccable con mis agentes</strong></a>
-<br/>
-<sub>📅 18 de noviembre de 2026</sub>
 </td>
 </tr>
 </table>
